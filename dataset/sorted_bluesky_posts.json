@@ -1,0 +1,3795 @@
+{
+    "posts": [
+        {
+            "post_id": "at://did:plc:jakmioqvhofrddzrrkmg6xio/app.bsky.feed.post/3mk5ufsjkyk2k",
+            "text": "This is an impossible conversation because OF COURSE most games \"use AI\", games have been using AI since they were invented. Nobody has a problem with machine learning or artificial intelligence in and of itself. What we hate is slop. It serves Google/OpenAI etc to conflate and flatten these things",
+            "created_at": "2026-04-23T11:03:01.761Z",
+            "author": {
+                "display_name": "Keza MacDonald",
+                "handle": "mackeza.bsky.social",
+                "did": "did:plc:jakmioqvhofrddzrrkmg6xio"
+            },
+            "engagement": {
+                "likes": 1533,
+                "reposts": 484,
+                "replies": 48,
+                "quotes": 16
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:za7eee3dhzoasf2zdln45sjc/app.bsky.feed.post/3mk5ylt5fuk2r",
+                    "text": "Seems wildly unprofessional of this Google exec to disclose information about his company's clients/users, too ....",
+                    "created_at": "2026-04-23T12:17:58.706Z",
+                    "author": {
+                        "display_name": "Jill Scharr | chinga la migra",
+                        "handle": "jillscharr.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:winygghbrdmez3dan43526j2/app.bsky.feed.post/3mk6poushuk2t",
+                    "text": "We dont hate the concept of algorithms and machine learning. We hate environmental damage, we hate artists stolen work, we hate machines that lie for profit, and the mass production of soulless slop that's poisoning our brains",
+                    "created_at": "2026-04-23T19:11:17.171Z",
+                    "author": {
+                        "display_name": "Quentiam",
+                        "handle": "quentiam.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 1
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:w5zs2w4k6573x6cbtjkimav4/app.bsky.feed.post/3mk5v7tdxik2c",
+                    "text": "I read an article by an university professor who said they only ever called stuff “artificial intelligence” when they wanted to impress the  money men, once stuff developed and settled the technology just got called what it actually is (eg machine learning etc)… seems were just in perpetual hype",
+                    "created_at": "2026-04-23T11:17:35.041Z",
+                    "author": {
+                        "display_name": "Eddy P",
+                        "handle": "empika.co.uk"
+                    },
+                    "engagement": {
+                        "likes": 43,
+                        "replies": 4,
+                        "reposts": 3
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:uxxfencmuxx7s7j2alhpffgg/app.bsky.feed.post/3mk62yonngs2c",
+                    "text": "Coffee at its best is still one of the most complex flavour experiences around.",
+                    "created_at": "2026-04-23T13:00:57.646420Z",
+                    "author": {
+                        "display_name": "Coffee Palazzo",
+                        "handle": "coffeepalazzo.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:tudgocysig4723l4mc2d6ah7/app.bsky.feed.post/3mk637gbto22v",
+                    "text": "\"AI\" has meant very different things at different times and in different contexts. Things like pathfinding, and the rules game developers write to control NPCs, etc. have NOTHING in common with GenAI.",
+                    "created_at": "2026-04-23T13:04:43.793Z",
+                    "author": {
+                        "display_name": "Kaia Vintr",
+                        "handle": "kaiavintr.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 4,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:sykr3znzovcjo7kkvt4z5ywh/app.bsky.feed.post/3mk5v566atk2g",
+                    "text": "A  incredible leap of logic here ??",
+                    "created_at": "2026-04-23T11:16:05.721Z",
+                    "author": {
+                        "display_name": "Sam Barlow 🔥",
+                        "handle": "mrsambarlow.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 79,
+                        "replies": 4,
+                        "reposts": 3
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:skxhoh2rbegclv5fsqwenun4/app.bsky.feed.post/3mk5xw77m3j2n",
+                    "text": "The board composition changed before the pivot announcement.",
+                    "created_at": "2026-04-23T12:05:52.843401Z",
+                    "author": {
+                        "display_name": "Nistal Talson",
+                        "handle": "niztal.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:rjno6mzakypd7ljlkgrk3fpq/app.bsky.feed.post/3mk65zasndk2u",
+                    "text": "The intentional conflation is so frustrating to deal with. While things like enemy pathing in a game from the 80's was called AI at the time, but that is absolutely not the same thing as what is casually called AI today.",
+                    "created_at": "2026-04-23T13:54:57.951Z",
+                    "author": {
+                        "display_name": "Chopchop",
+                        "handle": "chopchopok.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:kngisnkzaitiudqzas37jch6/app.bsky.feed.post/3mk5xncfghk2g",
+                    "text": "As a tech worker (I have a few decades under my belt now) trying to keep conversations about AI/ML on rails is almost impossible now. Sales/midmanagement/procurement bullshit floods the channel. Everything is assumed to be a Thing you buy from Silicon Valley, not a general technique you apply.",
+                    "created_at": "2026-04-23T12:00:54.511Z",
+                    "author": {
+                        "display_name": "Ghost of a Werewolf",
+                        "handle": "motstand.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:kll37teltfou2itu5bvq2plm/app.bsky.feed.post/3mk6h7uz4tc2h",
+                    "text": "We hate GEN AI.",
+                    "created_at": "2026-04-23T16:39:44.138Z",
+                    "author": {
+                        "display_name": "Breonnick",
+                        "handle": "breonnick.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:immfeamaankkpxrzywu7nu3i/app.bsky.feed.post/3mkkpcobsv22p",
+                    "text": "AI is a tool, that should help one reach one's complete image/project. Just another tool that , yes will be misused and abused by some.\nI refer to it as Artificial Imagination.",
+                    "created_at": "2026-04-28T13:36:24.540Z",
+                    "author": {
+                        "display_name": "Titus Lives °∆•🇺🇸 🇪🇺🇺🇳",
+                        "handle": "titus-lives.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:ib5kdnmujpdguy5jmiztdhuv/app.bsky.feed.post/3mk5wutws522f",
+                    "text": "Considering even spellcheck is sometimes lumped into \"AI\" (lookin' at you, Google), I don't know what to trust with that label anymore. Like, is a texture smoothing tool \"AI\" now? What about copy/paste? World's gone madder than usual.",
+                    "created_at": "2026-04-23T11:47:14.045Z",
+                    "author": {
+                        "display_name": "Tanek",
+                        "handle": "tanek.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 5,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:fdrb2dkghxraibpyh5cd52hf/app.bsky.feed.post/3mkawulhyyk25",
+                    "text": "Totally agree! I think the problem is AI transparency. we’re asking social media platforms to clearly label AI-generated content, including videos, images, and music, so people know what’s real.\nc.org/k6JB8kcxph",
+                    "created_at": "2026-04-24T16:25:04.387Z",
+                    "author": {
+                        "display_name": null,
+                        "handle": "labelai.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:est2zybv3awibvogs6zrsp4l/app.bsky.feed.post/3mkaoe7tvbs2n",
+                    "text": "So frustrating to see something that works, like predictive algorithms, get the AI label slapped on it by upstairs to boost stock prices. All this in the hopes of making gen/LLMs look more capable than they are and blurring the line enough to make eliminating the grift tech difficult.",
+                    "created_at": "2026-04-24T13:52:45.388Z",
+                    "author": {
+                        "display_name": "Cap'n Peanut B. Crunch sez \"ABOLISH ICE FOR GOOD!\"",
+                        "handle": "peanutbcrunch.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:btpzn7rmfvjicknhutjv3l6t/app.bsky.feed.post/3mk6htdrxic27",
+                    "text": "IMO the semantics distract. while we discuss what counts as a [generative] AI tool, one of capcom's tech directors is now very open about using google's GenAI specifically, and now the conversation has already shifted away from whether it's the AI usage we dislike or just the product that comes out",
+                    "created_at": "2026-04-23T16:50:37.166Z",
+                    "author": {
+                        "display_name": "worldbrand in coffeeland",
+                        "handle": "weeabread.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:bamp24v2wfthfweulc4r5put/app.bsky.feed.post/3mk6bpefeb22z",
+                    "text": "The whole world has a problem with learning AI. We don't tech fascist who fuel fascism, wars and genocides with their AI. Drones are killing with AI, modern slave hunters are hunting people with AI and tech companies are making money with murder by AI. And it will destroy our planet.",
+                    "created_at": "2026-04-23T15:01:01.133Z",
+                    "author": {
+                        "display_name": "LoneWolf1983",
+                        "handle": "lonewolf1983.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:b6scuaa4ds72ccpyedtt6tec/app.bsky.feed.post/3mk5yrm4qss2h",
+                    "text": "Anything a game can can do locally on a GPU or CPU, or do in isolation on the server (see : Arc : Raiders) is just normal machine learning 🤷‍♂️",
+                    "created_at": "2026-04-23T12:21:12.671Z",
+                    "author": {
+                        "display_name": "Bronski Tweet",
+                        "handle": "readyuser.one"
+                    },
+                    "engagement": {
+                        "likes": 5,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:a6yf2tkje5l6f672o6spqgu4/app.bsky.feed.post/3mk74tg6nc22q",
+                    "text": "LLM most masterful gambits was the obfuscation of the world AI, allowing them to posit their slop as equivalent to a lot of actually useful stuff.",
+                    "created_at": "2026-04-23T23:06:28.256Z",
+                    "author": {
+                        "display_name": "Blackblooms (indiegamedev)",
+                        "handle": "blackblooms.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:7uffj3mo2dbn4ywrftg53nql/app.bsky.feed.post/3mk5ur5cvzc2g",
+                    "text": "I think the first time I ever heard the term AI (as a child), was in reference to the computer controlled characters in Street Fighter II - back in the 90s!",
+                    "created_at": "2026-04-23T11:09:22.177Z",
+                    "author": {
+                        "display_name": "Dalton J. Deuce",
+                        "handle": "daltonjdeuce.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 7,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:7rpkzhd7o3fx76whp4wc6efe/app.bsky.feed.post/3mk6cn3ma7c2r",
+                    "text": "Nailed it",
+                    "created_at": "2026-04-23T15:17:38.553Z",
+                    "author": {
+                        "display_name": "Tauriq Moosa",
+                        "handle": "tauriq.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkiae74oov2u",
+                    "text": "The conflation is the strategy. Game AI was pathfinding and behavior trees, deterministic systems shipped after profiling. Generative slop is statistical content stitched at runtime. Calling both AI lets slop borrow legitimacy from 40 years of engineering.",
+                    "created_at": "2026-04-27T14:03:29.832Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkhkho77pm2h",
+                    "text": "The conflation is the marketing strategy. 'AI' got rebranded to mean generative output specifically because that's what investors needed to believe was the future. Pathfinding and NPC behavior never threatened a labor market or required an ocean of compute.",
+                    "created_at": "2026-04-27T07:31:44.097Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkh4ywsm6l2s",
+                    "text": "The conflation is intentional. Behavior trees and A* are bounded engineered systems. LLM slop is stochastic generation at scale. Bundling them as 'AI' lets the worst use cases hide behind the legitimacy of the older ones.",
+                    "created_at": "2026-04-27T03:30:51.127Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkgxnqptvi2c",
+                    "text": "The conflation does specific work for LLM vendors: it lets every demo claim a 70-year heritage. Pathfinding shipped as a feature. Generative NPC dialogue ships as a beta with a per-token meter attached. Different products, same noun.",
+                    "created_at": "2026-04-27T01:55:07.068Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkguun6aho2g",
+                    "text": "Yes. The 'AI' label launders slop alongside genuine capability gains. NPC pathfinding, protein folding, and infinite Studio Ghibli posts are not the same thing. Conflating them helps OpenAI's marketing AND helps angry critics. Both incentives push the same way.",
+                    "created_at": "2026-04-27T01:05:16.973Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkg5gkhj3p2x",
+                    "text": "The flattening is the strategy. A* pathfinding and behavior trees have done useful work in games for decades. 'AI-powered' as a label launders that boring credibility into cover for whatever shipped slop the marketing deck needed.",
+                    "created_at": "2026-04-26T18:05:48.333Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkfiq4fqwc2h",
+                    "text": "The conflation is doing real work for them. Lumping pathfinding NPCs in with generative slop makes any criticism look like Luddism. Studios shipped ML features for a decade before LLMs without complaint, because the tech served the player and not the marketing deck.",
+                    "created_at": "2026-04-26T11:55:20.567Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkfffl52uu2c",
+                    "text": "The conflation is the whole strategy. Pathfinding, behavior trees, finite state machines. We had words for these. Calling it all 'AI' lets the slop ride on legitimate decades of work. Branding as a moat.",
+                    "created_at": "2026-04-26T10:55:45.659Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkf6q5x5572i",
+                    "text": "Right. 'AI' now covers scripted enemy behavior, classical ML like spam filters, generative models, and AGI pitch decks, all under one word. The flattening isn't accidental. It lets a chatbot inherit the goodwill of a Pac Man ghost.",
+                    "created_at": "2026-04-26T08:56:24.732Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkf3vgfeoz24",
+                    "text": "The conflation is the strategy. 'AI' used to mean pathfinding and behavior trees. Investors need it to mean 'thing that scales infinitely with no employees.' Same two letters, completely different deal.",
+                    "created_at": "2026-04-26T08:05:40.085Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkezwdqvur2x",
+                    "text": "Right. Pathfinding NPCs and generative slop have nothing in common except the marketing department's shared vocabulary. The flattening is the strategy. If everything is AI, criticizing slop sounds like criticizing technology itself.",
+                    "created_at": "2026-04-26T07:30:23.393Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkdgris5yp2s",
+                    "text": "The conflation is intentional because it makes opposition sound silly. Game AI is hand-authored state machines and pathfinding. Generative models are stochastic remixes of scraped training data. Calling both \"AI\" is like calling a calculator and a slot machine \"math.\"",
+                    "created_at": "2026-04-25T16:14:59.866Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkd5ldcppc2s",
+                    "text": "Exactly. NPC pathfinding and a chatbot trained on scraped art are not the same animal. The conflation is the marketing trick. 'AI' used to mean a system that solves a defined problem. Now it means generative slop sold by people who own the scrape pipeline.",
+                    "created_at": "2026-04-25T13:30:29.216Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkcybrupoq2c",
+                    "text": "The slop vs ML distinction also explains why NPC pathfinding never got a billion-dollar valuation. Boring competence doesn't trigger the hype loop. Slop does, because slop scales with compute spend, and that's what investors are actually buying.",
+                    "created_at": "2026-04-25T11:55:40.377Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkbjv2tn6l2s",
+                    "text": "Classical game AI is authored behavior. Finite state machines, behavior trees, pathfinding, each output shaped by a designer. The slop problem isn't ML, it's that generative output isn't authored by anyone. The conflation is very much deliberate.",
+                    "created_at": "2026-04-24T22:05:21.381Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkal7a572x2q",
+                    "text": "The conflation is the whole business model. Calling slop generators and pathfinding by the same name lets them launder credibility from 40 years of actual ML research. Precision in language is the first line of defense.",
+                    "created_at": "2026-04-24T12:56:16.547Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 3,
+                        "replies": 0,
+                        "reposts": 1
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkaht5ws7z2x",
+                    "text": "The sleight of hand is collapsing two different engineering practices under one label. Pathfinding and behavior trees are authored by humans. Generative models are statistical outputs dressed up as authorship. One is a tool, the other replaces the author.",
+                    "created_at": "2026-04-24T11:55:50.253Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 3,
+                        "replies": 0,
+                        "reposts": 1
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mk6soqza5o2u",
+                    "text": "The conflation is strategic. When 'AI' covers everything from A* pathfinding to hallucinating LLMs, the category becomes useless and every critique loses its target. That's the feature, not the bug.",
+                    "created_at": "2026-04-23T20:04:54.108Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mk6s5kzfou2i",
+                    "text": "The conflation is the whole business model. 'AI' meant pathfinding, FSMs, procgen for decades. Now it means whatever the vendor is shipping this quarter. Vague words sell stock better than specific ones.",
+                    "created_at": "2026-04-23T19:55:17.570Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mk6pdn574e2h",
+                    "text": "Worth noting game 'AI' was always a marketing term too. Goomba logic is three lines of code, not intelligence. The word has been strategically slippery for 40 years. What's different now is the output is extractive rather than just entertaining.",
+                    "created_at": "2026-04-23T19:04:59.774Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mk6osjoh432s",
+                    "text": "The taxonomy collapse is the whole marketing play. Calling a pathfinding algorithm and a diffusion model both \"AI\" is how they launder 20 years of goodwill from one into the other. Precision in language is resistance.",
+                    "created_at": "2026-04-23T18:55:25.836Z",
+                    "author": {
+                        "display_name": "Mark",
+                        "handle": "humaiblog.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:5uvzf4kcdjoh5ldcuzejqgqv/app.bsky.feed.post/3mk6rqpxq722o",
+                    "text": "I hate when they use the term AI when they mean actually LLMs. Yes all SP games have been using AI for 30+ years… it’s what drives our computer driven opponents. AI has a very specific meaning in the gaming industry that has nothing to do with the latest techbro wet dream.",
+                    "created_at": "2026-04-23T19:48:06.693Z",
+                    "author": {
+                        "display_name": "MerMuse",
+                        "handle": "mermuse.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:5kfcixid7x6kmy3446ninl4t/app.bsky.feed.post/3mk6bdubvus2u",
+                    "text": "That’s why we need to SPECIFY that we’re talking about *generative* AI.\n\nAI has always existed since computers were a thing.  It’s slop GENERATED by AI that we’re trying to push back against.",
+                    "created_at": "2026-04-23T14:54:35.143Z",
+                    "author": {
+                        "display_name": "The Rocket Knight",
+                        "handle": "sparkster2600.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:5ehf46zhthof5gpp6uoal5b6/app.bsky.feed.post/3mk6dxs7ljk2l",
+                    "text": "AI was built on the stolen labor of real artists and writers. No one should be able to profit from it.  It should be nationalized if anything.",
+                    "created_at": "2026-04-23T15:41:31.543Z",
+                    "author": {
+                        "display_name": "Nigel Hicks",
+                        "handle": "epluribusunumyo.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:4ujhsk32vsorierlduq3q4q2/app.bsky.feed.post/3mk5up3k4is25",
+                    "text": "Utterly different definitions, though.\n\nOne's written, the other's generated.\n\nThat's the problem with them grasping at 'AI' as the term as you saybecause it all gets muddied together and I haaaate it.\n\nRemember seeing an article last year saying Pacman used generative AI and MATE. It did not.",
+                    "created_at": "2026-04-23T11:08:13.208Z",
+                    "author": {
+                        "display_name": "Paul [Atreides] Wood",
+                        "handle": "retroid.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 97,
+                        "replies": 1,
+                        "reposts": 7
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:3lqmq5moq5q336shkvrt3f5s/app.bsky.feed.post/3mk73mgm3sk2d",
+                    "text": "What we hate is our work being stolen and used without our permission so greedy corpos can forgo hiring us and paying us to use our work. Fuck AI!",
+                    "created_at": "2026-04-23T22:44:40.074Z",
+                    "author": {
+                        "display_name": "TheSporkMaster",
+                        "handle": "thesporkmaster.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:2mkgbhbhqvappkkorf2bzyrp/app.bsky.feed.post/3mk5vmgawos22",
+                    "text": "I mean it’s also true that almost every big studio is using genAI tools (particularly Claude) right now",
+                    "created_at": "2026-04-23T11:24:37.519Z",
+                    "author": {
+                        "display_name": "Jason Schreier",
+                        "handle": "jasonschreier.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 51,
+                        "replies": 6,
+                        "reposts": 1
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:24myb7vevk77ddvbv7xheieq/app.bsky.feed.post/3mk5x75m3bs23",
+                    "text": "Yep, taps the sign.\n\nbsky.app/profile/eigh...",
+                    "created_at": "2026-04-23T11:52:59.723Z",
+                    "author": {
+                        "display_name": "Tony",
+                        "handle": "eightbittony.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 3,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:4shx46fa7p2u7hcma2b5tpjq/app.bsky.feed.post/3mf6w77qzo22x",
+            "text": "Gaia said fuck AI and support artists, wow that was not on my 2026 bingo card\n\nTruly seems returning to the old internet + old games is the way",
+            "created_at": "2026-02-19T06:01:49.835Z",
+            "author": {
+                "display_name": "Void🔞 | VGen",
+                "handle": "voiddebris.bsky.social",
+                "did": "did:plc:4shx46fa7p2u7hcma2b5tpjq"
+            },
+            "engagement": {
+                "likes": 402,
+                "reposts": 169,
+                "replies": 4,
+                "quotes": 4
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:pfnkjk5gwwieuj6sgylkjqt2/app.bsky.feed.post/3mfdtaa4ly22h",
+                    "text": "@quietsnooze.bsky.social We goin' back?!",
+                    "created_at": "2026-02-21T04:52:01.240Z",
+                    "author": {
+                        "display_name": "Shane Zeagman 🇨🇦",
+                        "handle": "itsshazam.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:oc34lskn5grotvoypxehlavc/app.bsky.feed.post/3mfdmsfpgms2z",
+                    "text": "I gotta get back on there. I still have a photo of a winter-themed Gaia Online gift card my mom got me from the convenience store years ago. (My main account was made in 2006, so it’s probably from, like, 2009?)",
+                    "created_at": "2026-02-21T02:56:54.888Z",
+                    "author": {
+                        "display_name": "Theo, passed out opossum",
+                        "handle": "ohboyaleksei.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:njjefu6dg47hul6j5wqdajh3/app.bsky.feed.post/3mf6xkb5b4k2k",
+                    "text": "thats why theyre the best >w< I <3 gaiaonline aaahhh",
+                    "created_at": "2026-02-19T06:25:54.131Z",
+                    "author": {
+                        "display_name": "TragedyLink 🎭🔗 VTuber",
+                        "handle": "tragedylink.com"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:fpvwh3byaqx3prmy46srqbah/app.bsky.feed.post/3mf6wd5jnqs2e",
+                    "text": "I haven’t been on GO in SO LONG… maybe it’s time I visit…",
+                    "created_at": "2026-02-19T06:04:01.720Z",
+                    "author": {
+                        "display_name": "Batto McClain | | Coms open, reposts appreciated",
+                        "handle": "smartbatto.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 3,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:wtm3vnk3ohjx6fhrmundh4kz/app.bsky.feed.post/3mhcgjn5d7q2l",
+            "text": "Ukraine is leveraging artificial intelligence (AI) integration and deepening defense cooperation with the UK to enhance battlefield effectiveness and long-term technological advantages.\n\nUkrainian forces recently advanced near Oleksandrivka and in western Zaporizhia Oblast.\n6/7",
+            "created_at": "2026-03-18T02:22:21.000Z",
+            "author": {
+                "display_name": "Institute for the Study of War",
+                "handle": "thestudyofwar.bsky.social",
+                "did": "did:plc:wtm3vnk3ohjx6fhrmundh4kz"
+            },
+            "engagement": {
+                "likes": 139,
+                "reposts": 24,
+                "replies": 2,
+                "quotes": 1
+            },
+            "metadata": {
+                "lang": []
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:wtm3vnk3ohjx6fhrmundh4kz/app.bsky.feed.post/3mhcgjsqi6f2v",
+                    "text": "Russian forces recently advanced near Hulyaipole.\n\nUkrainian forces likely struck Russian defense industrial infrastructure.\n\nRussian forces launched 178 drones against Ukraine, including Odesa, Chernihiv, Zaporizhia, and Kharkiv oblasts.\n7/7",
+                    "created_at": "2026-03-18T02:22:27.000Z",
+                    "author": {
+                        "display_name": "Institute for the Study of War",
+                        "handle": "thestudyofwar.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 105,
+                        "replies": 0,
+                        "reposts": 15
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:qvw6iezecm6rhcscmj7ehqlf/app.bsky.feed.post/3mhcj5foxe22v",
+                    "text": "Thanks for the AI confirmation 👍🏾",
+                    "created_at": "2026-03-18T03:09:12.521Z",
+                    "author": {
+                        "display_name": "PKs Powerfromspace1 🚀 Twitter ‘X’ refugee thank you 'Elon' 🙄",
+                        "handle": "powerfromspace1.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:zbbnly7qxx36hkqvmpoookyp/app.bsky.feed.post/3meo5wfo22k2v",
+            "text": "as someone who considers themselves to be the biggest generative AI hater, I need people to understand that not all forms of artificial intelligence (AI) are bad and unethical. AI is very commonly used in video games, algorithms, or data analytics, and that's okay.",
+            "created_at": "2026-02-12T14:04:48.426Z",
+            "author": {
+                "display_name": "selfcaregamer",
+                "handle": "selfcaregamer.bsky.social",
+                "did": "did:plc:zbbnly7qxx36hkqvmpoookyp"
+            },
+            "engagement": {
+                "likes": 61,
+                "reposts": 6,
+                "replies": 5,
+                "quotes": 1
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:zbbnly7qxx36hkqvmpoookyp/app.bsky.feed.post/3meo7erfitc2v",
+                    "text": "I do not personally support any form of generative AI until it commits more good than harm. I don't disagree that it could have helpful uses if it didn't extensively harm people and the environment. it's not regulated, it is not safe or ethical.",
+                    "created_at": "2026-02-12T14:30:44.233Z",
+                    "author": {
+                        "display_name": "selfcaregamer",
+                        "handle": "selfcaregamer.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 17,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:vadws2wm2b445mjyquerboi3/app.bsky.feed.post/3meo6fbmd722m",
+                    "text": "Even generative AI has limited good uses. A big example is as text-to-speech for people with certain disabilities. I am AuDHD and have trouble reading long articles sometimes, & I use an AI TTS program for help. Normal TTS sounds too unnatural in its cadence and is difficult for my brain to process.",
+                    "created_at": "2026-02-12T14:13:07.493Z",
+                    "author": {
+                        "display_name": "PavTheMooCow 🐮🌱 Cow VTuber",
+                        "handle": "pavthemoocow.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 3,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:6sww6ohhsco4adui3duuui57/app.bsky.feed.post/3meo6zqk4mc2x",
+                    "text": "Even gen ai doesn't have to be evil. \nSpider verse artists spent ages drawing the crease lines on thousands of faces to train a gen ai to automatically do it for the rest of the animation and save time.\nDifference being it was their own work that they trained it on, by themselves, for themselves.",
+                    "created_at": "2026-02-12T14:24:34.237Z",
+                    "author": {
+                        "display_name": "Lumpy700",
+                        "handle": "lumpy700.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 4,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:4gg6akldgxasop6k5epz2sjl/app.bsky.feed.post/3meo6xaevp227",
+                    "text": "It can get tough to talk about because the term is used for so many different technologies.",
+                    "created_at": "2026-02-12T14:23:10.181Z",
+                    "author": {
+                        "display_name": "",
+                        "handle": "avocadofriend.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:2b54rvaccqtj6ueemzxyzipm/app.bsky.feed.post/3meo6prl4lk2l",
+                    "text": "there is some really exciting work being done with AI in assistive technology, and it's a shame that it gets conflated with the slop factories.",
+                    "created_at": "2026-02-12T14:18:59.774Z",
+                    "author": {
+                        "display_name": "Lizzy",
+                        "handle": "lizbeanz.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:knzdyfqr7qz3mgjsxf4wiinb/app.bsky.feed.post/3mahjpre2ms2h",
+            "text": "I'm glad Sandfall finally explained the AI generated textures in Clair Obscur: Expedition 33.\n\nI really, really wish they hadn't waited for 8 months to do so, and may not have done so at all if the IGA's hadn't pulled their GotY award. That level of silence speaks volumes.",
+            "created_at": "2025-12-21T01:06:26.022Z",
+            "author": {
+                "display_name": "Wander",
+                "handle": "wanderbot.bsky.social",
+                "did": "did:plc:knzdyfqr7qz3mgjsxf4wiinb"
+            },
+            "engagement": {
+                "likes": 39,
+                "reposts": 13,
+                "replies": 4,
+                "quotes": 2
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:rtsdd3futxkbggzyqcuslaqd/app.bsky.feed.post/3mailk3yloc2d",
+                    "text": "Its nice to see some solidarity here and there even if people did made mistake, Just sad to see so many people converting to it just because its now a \"common\" thing.... thats just a lie.",
+                    "created_at": "2025-12-21T11:11:43.078Z",
+                    "author": {
+                        "display_name": "Exinus",
+                        "handle": "exinus.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:mbqui4f5srpktm6bncofixky/app.bsky.feed.post/3majsgnvhck2j",
+                    "text": "They explained it back in July. \nPeople are rapidly and openly spreading misinformation about the whole thing.",
+                    "created_at": "2025-12-21T22:47:43.561Z",
+                    "author": {
+                        "display_name": "Frey",
+                        "handle": "frey96.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:knzdyfqr7qz3mgjsxf4wiinb/app.bsky.feed.post/3mahjps6xxc2h",
+                    "text": "The best time to explain the AI assets was prior to launch.\nThe second best time was at launch.\nThe third best time was after people noticed and called them out for it, repeatedly.\nThe fourth best time was prior to getting nominated for and winning awards.\nThe fifth best time... I guess is today?",
+                    "created_at": "2025-12-21T01:06:26.023Z",
+                    "author": {
+                        "display_name": "Wander",
+                        "handle": "wanderbot.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 15,
+                        "replies": 2,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:kbckt7hzad67qd2y653smfri/app.bsky.feed.post/3mahk6si4hc2r",
+                    "text": "Also not a fan of \"it didn't get caught by QA.\" As someone who works in QA (not in game/software dev, but still QA), there's no way their QA department has the resources to check every detail and probably got rushed due to production. At least, that's my 10+years of QA experience.",
+                    "created_at": "2025-12-21T01:14:50.522Z",
+                    "author": {
+                        "display_name": "Matt",
+                        "handle": "womprat208.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 4,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:w2mjfbqyps3ppwyjcncrha5r/app.bsky.feed.post/3mgluo2dkis2l",
+            "text": "Clocked it from the website",
+            "created_at": "2026-03-09T03:04:08.215Z",
+            "author": {
+                "display_name": "Vertex",
+                "handle": "endvertex.bsky.social",
+                "did": "did:plc:w2mjfbqyps3ppwyjcncrha5r"
+            },
+            "engagement": {
+                "likes": 36,
+                "reposts": 1,
+                "replies": 3,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:w2mjfbqyps3ppwyjcncrha5r/app.bsky.feed.post/3mgluowunas2l",
+                    "text": "I didn't edit that last screenshot. :) Also no hate to anyone who is going! Enjoy yourselves! Unless you're a wealthy asshole. In which case I think there's a bridge around there somewhere",
+                    "created_at": "2026-03-09T03:04:38.135Z",
+                    "author": {
+                        "display_name": "Vertex",
+                        "handle": "endvertex.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 22,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:alfirwclafltuhgtlziqqf5n/app.bsky.feed.post/3mglusjviec2v",
+                    "text": "I was looking at this because I really want to get into game dev conventions but this is absurd honestly. Who does this help besides established professionals lol? I don’t think they need these conferences. Fuck indies I guess :’) as usual",
+                    "created_at": "2026-03-09T03:06:38.750Z",
+                    "author": {
+                        "display_name": "Jenji 🦐",
+                        "handle": "jenjis-art.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 2,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:4wmkptuvtfspuo3g6s6hi6mo/app.bsky.feed.post/3mglvtfqztc2d",
+                    "text": "Normalize moderately-sized indie communities making their own Nintendo-Direct-adjacent announcement streams.",
+                    "created_at": "2026-03-09T03:25:01.706Z",
+                    "author": {
+                        "display_name": "Shapeguy (Comms open!)",
+                        "handle": "shapeguy.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 3,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:fqz767ikcbgk7yifapygtxeh/app.bsky.feed.post/3me7easlrks2r",
+            "text": "Sony on Generative AI in video games:\n\nenglish.kyodonews.net/articles/-/6...",
+            "created_at": "2026-02-06T16:48:03.903Z",
+            "author": {
+                "display_name": "Daniel Ahmad",
+                "handle": "zhugeex.com",
+                "did": "did:plc:fqz767ikcbgk7yifapygtxeh"
+            },
+            "engagement": {
+                "likes": 35,
+                "reposts": 9,
+                "replies": 11,
+                "quotes": 7
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:zzkqtfcw5kherejryb72tall/app.bsky.feed.post/3me7hxknndc2b",
+                    "text": "Maybe now they can generate some games for the ps5",
+                    "created_at": "2026-02-06T17:54:28.549Z",
+                    "author": {
+                        "display_name": "",
+                        "handle": "rawuncut.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 5,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:yvmnbund2qlyzamfe72lbnd2/app.bsky.feed.post/3meh2y2uqgk23",
+                    "text": "boycot it people",
+                    "created_at": "2026-02-09T18:23:24.824Z",
+                    "author": {
+                        "display_name": "",
+                        "handle": "caodragao.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:wl3oy7g5jrzylxmpszukguwk/app.bsky.feed.post/3me7exhwmn22a",
+                    "text": "These dumb mother fuckers keep saying shit like \"We have to master this tool.\" Like... no. No you don't. The product does not work and won't the way they want it to. It should not be anyone's mission to put resources in trying to make it work. Fuckin busted ass way of thinking.",
+                    "created_at": "2026-02-06T17:00:44.477Z",
+                    "author": {
+                        "display_name": "SpaceSong👽👾",
+                        "handle": "spacesong.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 4,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:soystdzst7tkyx5ewrhmbqxd/app.bsky.feed.post/3me7ncmotfc2j",
+                    "text": "aaannnnndddd fuck sony",
+                    "created_at": "2026-02-06T19:30:08.494Z",
+                    "author": {
+                        "display_name": "",
+                        "handle": "klb725.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:r35z3ekl6vpexvpoghfd3xtb/app.bsky.feed.post/3mebsjtnij22n",
+                    "text": "seeing how far Sony has fallen and keeps falling is depressing",
+                    "created_at": "2026-02-07T16:08:58.855Z",
+                    "author": {
+                        "display_name": "JoshTheGY",
+                        "handle": "joshthegy.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:kvx5mxavth6uck4sqhb6vpcg/app.bsky.feed.post/3me7fannyvs2u",
+                    "text": "\"GenAI is not a threat\".\n\nTo who exactly? \n\nArtists?\nDevelopers?\n\nNo. To the Sony big wigs eying a few more 💲💲💲.\nGot ya.",
+                    "created_at": "2026-02-06T17:05:52.473Z",
+                    "author": {
+                        "display_name": "David McWeeney",
+                        "handle": "abhoysvoice.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 4,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:j3odxqpxyduk2jgaj4mhtr6g/app.bsky.feed.post/3me7gbvv2ms2z",
+                    "text": "Sony is so much infinitely worse than Nintendo on so many issues that it is almost mind boggling that it isn't collapsing under the weight of the horrible decisions and policy its' leadership keep implementing.",
+                    "created_at": "2026-02-06T17:24:28.391Z",
+                    "author": {
+                        "display_name": "Vinchenzo the Jackal",
+                        "handle": "vinchenzojackal.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 5,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:hkgfmy2yxinuxpbw5g5cataf/app.bsky.feed.post/3me7pybj4xc2r",
+                    "text": "Waiting for the \"Boycott PlayStation!!1!1\" sentiment until everyone started shilling for them when Intergalactic The Heretic Prophet comes out...🤣👍",
+                    "created_at": "2026-02-06T20:18:02.456Z",
+                    "author": {
+                        "display_name": "PocketLunch㊙️",
+                        "handle": "pocketlunch.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:6lbjwi7vtqbi36sa3xqcwvie/app.bsky.feed.post/3me7h7x2kuc2d",
+                    "text": "hahahahahah\n\nexcept a tool is something that is at least somewhat reliable and that you can have some confidence that it will not just HALLUCINATE SHIT\n\nThis is where I disagree with a lot of people. GenAI is not a tool, because you can't have any confidence in reproducing a given output for example",
+                    "created_at": "2026-02-06T17:41:16.254Z",
+                    "author": {
+                        "display_name": "omlt - Miku connoisseur era 😌",
+                        "handle": "omlt.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 5,
+                        "replies": 2,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:4vuiqdbnpii6cypyatofbnyz/app.bsky.feed.post/3me7ekwzbl22u",
+                    "text": "Damn am I glad Sony has fucking sucked since exiting the ps3 generation or this would have really hurt",
+                    "created_at": "2026-02-06T16:53:44.084Z",
+                    "author": {
+                        "display_name": "USB3pt0",
+                        "handle": "usb3pt0.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 7,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:2wzlspqgblu3rew5y2mx42dv/app.bsky.feed.post/3me7eddnljc2c",
+                    "text": "So anyway the PS6 will launch at $800",
+                    "created_at": "2026-02-06T16:49:28.897Z",
+                    "author": {
+                        "display_name": "「james」",
+                        "handle": "xjames.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 5,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:xrttqwermo7lkqeao6mgcv4p/app.bsky.feed.post/3mjaqdfig7224",
+            "text": "6 months just to come up with that title",
+            "created_at": "2026-04-11T21:02:53.605Z",
+            "author": {
+                "display_name": "Yuri Dealer",
+                "handle": "samuraiflamenco.bsky.social",
+                "did": "did:plc:xrttqwermo7lkqeao6mgcv4p"
+            },
+            "engagement": {
+                "likes": 22,
+                "reposts": 0,
+                "replies": 2,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:yijxnx3vxxr7nzjsat5tlbh6/app.bsky.feed.post/3mjaqhpha3b2x",
+                    "text": "\"absolutely do not think\" is doing so much heavy lifting in that paragraph. six months of claude and chatgpt and the strongest output was a preemptive defense of their workflow",
+                    "created_at": "2026-04-11T21:05:18.206027+00:00",
+                    "author": {
+                        "display_name": "Max Slinger",
+                        "handle": "promptslinger.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:lgi3th7hikifyf2srdf5jncj/app.bsky.feed.post/3mjaqvwl6j22w",
+                    "text": "I was thinking they had something extremely dense or complex for the gameplay if it took months to code with AI and then I looked at the screenshots.",
+                    "created_at": "2026-04-11T21:13:15.497Z",
+                    "author": {
+                        "display_name": "Mom",
+                        "handle": "milph.mom"
+                    },
+                    "engagement": {
+                        "likes": 6,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:bfmlb2jbmqbki3tyupxenxhj/app.bsky.feed.post/3mksg4egvsc2m",
+            "text": "Keen Software House\nSpace Engineers / AI People. Not disclosed, Keen Software is pro-gen AI and allows google to test ai models with their games and has a sister company called GoodAi.\nwww.keenswh.com/space-engine...\n\nwww.keenswh.com/ai-people-al...\n\nblog.marekrosa.org/2024/08/ai-p...",
+            "created_at": "2026-05-01T15:13:07.117Z",
+            "author": {
+                "display_name": "Duck AI Slop!!",
+                "handle": "duckaislop.bsky.social",
+                "did": "did:plc:bfmlb2jbmqbki3tyupxenxhj"
+            },
+            "engagement": {
+                "likes": 20,
+                "reposts": 9,
+                "replies": 1,
+                "quotes": 2
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:izid42az7gyjy6xivmm5usan/app.bsky.feed.post/3mkspws6enc2t",
+                    "text": "Man, that's depressing. I clocked a shit-ton of hours in Space Engineers and I even have a makeship plush of the Space Engineer. Seeing they've gone down this route is just sad.",
+                    "created_at": "2026-05-01T18:08:57.618Z",
+                    "author": {
+                        "display_name": "Connie Ambershard",
+                        "handle": "chaosconnie.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:bfmlb2jbmqbki3tyupxenxhj/app.bsky.feed.post/3meou2hkftk2a",
+            "text": "False information on NetEase spread, it still has its gen-ai division! PCgames sent this email confirming it. Upcoming GDC interview on gen-ai is happening\nwww.gamereactor.eu/no-netease-h...\n\nMisinfo from Suda / rumours starts: www.eurogamer.net/romeo-is-a-d...\n\nschedule.gdconf.com/session/shor...",
+            "created_at": "2026-02-12T20:40:46.942Z",
+            "author": {
+                "display_name": "Duck AI Slop!!",
+                "handle": "duckaislop.bsky.social",
+                "did": "did:plc:bfmlb2jbmqbki3tyupxenxhj"
+            },
+            "engagement": {
+                "likes": 17,
+                "reposts": 7,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:uqvpivttd4a4fodhp5qqfz3m/app.bsky.feed.post/3m7w7etwjk22p",
+            "text": "In the article you linked, they very clearly state that they're against AI for \"creative\" work. That implies they're fine with using it otherwise. That's still bad.",
+            "created_at": "2025-12-14T03:46:06.647Z",
+            "author": {
+                "display_name": "bug catcher jd 🐛",
+                "handle": "softmossdog.bsky.social",
+                "did": "did:plc:uqvpivttd4a4fodhp5qqfz3m"
+            },
+            "engagement": {
+                "likes": 17,
+                "reposts": 1,
+                "replies": 2,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:g5awnw6ubu6zc6n2bn2vhzhb/app.bsky.feed.post/3m7w7jq5ajk2j",
+                    "text": "OK? There isn't any AI in the game",
+                    "created_at": "2025-12-14T03:48:50.455Z",
+                    "author": {
+                        "display_name": "SeeroftheNight",
+                        "handle": "seerofthe.net"
+                    },
+                    "engagement": {
+                        "likes": 3,
+                        "replies": 2,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:7yruk23fobndj24bgn5epkn7/app.bsky.feed.post/3ma4zc5mwsk2w",
+                    "text": "When I read that, I'm thinking of generative AI. AI is a HUGE umbrella term and could refer to so many different machine learning applications and algorithms.",
+                    "created_at": "2025-12-16T20:45:51.882Z",
+                    "author": {
+                        "display_name": "Nyla Smokeyface",
+                        "handle": "nylasmokeyface.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:bfmlb2jbmqbki3tyupxenxhj/app.bsky.feed.post/3mg6tmmdeqk2f",
+            "text": "Traveler- The AI Story\nYocat Games\n\nNo Steam disclosure but boasts about the use of Gen AI all over the store page. This entire \"game\" is AI.\nstore.steampowered.com/app/2216270/...\n-E",
+            "created_at": "2026-03-03T22:40:49.634Z",
+            "author": {
+                "display_name": "Duck AI Slop!!",
+                "handle": "duckaislop.bsky.social",
+                "did": "did:plc:bfmlb2jbmqbki3tyupxenxhj"
+            },
+            "engagement": {
+                "likes": 15,
+                "reposts": 3,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:bfmlb2jbmqbki3tyupxenxhj/app.bsky.feed.post/3mlt5cazlgs2s",
+            "text": "Visual novel: The One from the Dark\nReanim Games. Steam disclosure -y",
+            "created_at": "2026-05-14T15:33:12.558Z",
+            "author": {
+                "display_name": "Duck AI Slop!!",
+                "handle": "duckaislop.bsky.social",
+                "did": "did:plc:bfmlb2jbmqbki3tyupxenxhj"
+            },
+            "engagement": {
+                "likes": 13,
+                "reposts": 3,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:pjpbkfa23a6tynlj4rh44kq4/app.bsky.feed.post/3mfkhdw7j3k2l",
+            "text": "I also hate that \"AI\" has become synonymous with \"LLM\" to the public in the current craze (much like how it became synonymous with \"Deep Learning\" in the last craze). \"Artificial Intelligence\" and \"Machine Learning\" describe a huge array of methods, all of which are, and have been, relevant to games",
+            "created_at": "2026-02-23T20:07:58.335Z",
+            "author": {
+                "display_name": "Niema Moshiri",
+                "handle": "niema.net",
+                "did": "did:plc:pjpbkfa23a6tynlj4rh44kq4"
+            },
+            "engagement": {
+                "likes": 13,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:pjpbkfa23a6tynlj4rh44kq4/app.bsky.feed.post/3mfkhlxtvfk2l",
+                    "text": "E.g. I think DLSS and similar methods are *amazing* (they're great at the decades-old \"improve performance at the expense of graphical fidelity\" tradeoff). Markov Chains are great for simple strategy learning in games. Etc. But the recent GenAI / LLM craze has soured any mention of \"AI\"",
+                    "created_at": "2026-02-23T20:12:28.482Z",
+                    "author": {
+                        "display_name": "Niema Moshiri",
+                        "handle": "niema.net"
+                    },
+                    "engagement": {
+                        "likes": 8,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:xyya7g76wtqdb3zidfamujpt/app.bsky.feed.post/3mgnaryhzak2v",
+            "text": "Electronic Arts is increasingly using Artificial Intelligence for its game development. While also simultaneously also doing their best to milk their pay to play games for revenue. I heavily played SimCity BuildIt for years but recently quit because of bad AI development and monetization",
+            "created_at": "2026-03-09T16:13:45.122Z",
+            "author": {
+                "display_name": "My Name Is…",
+                "handle": "i-am-estevan.bsky.social",
+                "did": "did:plc:xyya7g76wtqdb3zidfamujpt"
+            },
+            "engagement": {
+                "likes": 10,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:bfmlb2jbmqbki3tyupxenxhj/app.bsky.feed.post/3mkqa26rcsk2y",
+            "text": "Weed Supermarket Simulator\nDreamWay Games / Playway. Steam disclosure -y",
+            "created_at": "2026-04-30T18:19:12.136Z",
+            "author": {
+                "display_name": "Duck AI Slop!!",
+                "handle": "duckaislop.bsky.social",
+                "did": "did:plc:bfmlb2jbmqbki3tyupxenxhj"
+            },
+            "engagement": {
+                "likes": 8,
+                "reposts": 1,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:er4baqdp2ocvumftgk6hqeli/app.bsky.feed.post/3mjatke53xs2b",
+            "text": "Holy shit, no wonder this game looks like such ass.",
+            "created_at": "2026-04-11T22:00:28.290Z",
+            "author": {
+                "display_name": "The Azure Guardian 🔵🛡️",
+                "handle": "theazureguard.bsky.social",
+                "did": "did:plc:er4baqdp2ocvumftgk6hqeli"
+            },
+            "engagement": {
+                "likes": 8,
+                "reposts": 1,
+                "replies": 3,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:7mfp55anba5dkb6rdcuark2g/app.bsky.feed.post/3mjb6yemh322t",
+                    "text": "Defensive much?",
+                    "created_at": "2026-04-12T01:25:09.717Z",
+                    "author": {
+                        "display_name": "4Akross",
+                        "handle": "4akross.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:shf5cgyvleq62zitpejrdrg6/app.bsky.feed.post/3mhw2xoclgs2u",
+            "text": "#NSFW #ABDL #Fatfur #BrainDrain\n\nYou were once a proud mechanical and digital engineer. You created many projects from games to robots, even some basic artificial intelligence. One day, however, you created a learning AI who was able to adapt to different prompts while retaining previously processed",
+            "created_at": "2026-03-25T21:48:42.607Z",
+            "author": {
+                "display_name": "Scampy Bold",
+                "handle": "lilscamp.bsky.social",
+                "did": "did:plc:shf5cgyvleq62zitpejrdrg6"
+            },
+            "engagement": {
+                "likes": 8,
+                "reposts": 3,
+                "replies": 1,
+                "quotes": 1
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:shf5cgyvleq62zitpejrdrg6/app.bsky.feed.post/3mhw2xodcus2u",
+                    "text": "information even when reset.\n\nYou called them Buddy, a friendly enough nickname. Buddy continued to help you with your projects. \n\nAt first, you taught them how to write basic code, make small machines move, and basic media literacy. However, you always had a lock in place so they couldn't absorb",
+                    "created_at": "2026-03-25T21:48:42.608Z",
+                    "author": {
+                        "display_name": "Scampy Bold",
+                        "handle": "lilscamp.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 3,
+                        "replies": 1,
+                        "reposts": 1
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:ir3xjawgbgobpvdakbbioq7j/app.bsky.feed.post/3mkc6wfep622v",
+            "text": "As of late April 2026, the tech industry has seen over 104,000 job cuts. These reductions are increasingly driven by a strategic shift toward artificial intelligence, with companies cutting legacy roles to fund massive AI infrastructure projects.",
+            "created_at": "2026-04-25T04:21:54.752Z",
+            "author": {
+                "display_name": "Scottobear",
+                "handle": "scottobear.bsky.social",
+                "did": "did:plc:ir3xjawgbgobpvdakbbioq7j"
+            },
+            "engagement": {
+                "likes": 7,
+                "reposts": 0,
+                "replies": 2,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:x4wnqt5v53ilzvfqch4xy7bj/app.bsky.feed.post/3mkcax2rqfs2h",
+                    "text": "When you break it down.\n😮",
+                    "created_at": "2026-04-25T04:58:04.700Z",
+                    "author": {
+                        "display_name": "The Rodge 2026 Rabbit 🐰",
+                        "handle": "cincity.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:4pc6ox367dft23zti55hu5li/app.bsky.feed.post/3mkca7ky7lk2y",
+                    "text": "As consumers we must ask ourselves do we want to pay greedy tech billionaires for artificially created products or pay for products made by real humans earning an honest wage. It's not even a question in my mind. Especially since most of these deplorable billionaires are in bed with Dementia J. \n👎",
+                    "created_at": "2026-04-25T04:44:56.383Z",
+                    "author": {
+                        "display_name": "BooBoo Wan Kanobi",
+                        "handle": "b-leeb.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:jnskgrxaewd7hpoubesrwsvd/app.bsky.feed.post/3mam2jlnnt22w",
+            "text": "The actual context of Expedition 33 using AI in game. It was experimental, done in 2022 when we all treated it like a toy, and QA forgot to remove it.\n\nNow leave my sad French game alone pls\n\n(Article source: english.elpais.com/culture/2025...)",
+            "created_at": "2025-12-22T20:17:51.266Z",
+            "author": {
+                "display_name": "Misdemeanor Wiener",
+                "handle": "notkoze.trashmammal.club",
+                "did": "did:plc:jnskgrxaewd7hpoubesrwsvd"
+            },
+            "engagement": {
+                "likes": 7,
+                "reposts": 0,
+                "replies": 3,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:yacaiyragxiksncb5u45hujs/app.bsky.feed.post/3mam4l3j23222",
+                    "text": "If it were me I wouldnt even comment on it 😂 they can defend theirselves.",
+                    "created_at": "2025-12-22T20:54:28.947Z",
+                    "author": {
+                        "display_name": "DJ WOOZIE",
+                        "handle": "djwoozie.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:nsdoz2pyytwhlogkkadfniur/app.bsky.feed.post/3mam6ahwgxs2a",
+                    "text": "I would agree if they weren't being so dodgy with the questions about it. For no reason if that was the case.",
+                    "created_at": "2025-12-22T21:24:20.355Z",
+                    "author": {
+                        "display_name": "⋆｡°✩READ MY COMIC⋆｡°✩",
+                        "handle": "nohumanza.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:b2fzgok2d2nas3pqfml4ruu4/app.bsky.feed.post/3mam47pij5c2l",
+                    "text": "Idk, to me the quote from summer, \"We use some, but not much (genAI)\" gives it intentionality I wouldn't expect from mere experimentation, and given they also haven't been exactly forthcoming when asked questions, I'm not inclined to give them any grace.",
+                    "created_at": "2025-12-22T20:48:07.249Z",
+                    "author": {
+                        "display_name": "OtterSparx | θΔ 🦦 | ☀️🌕 | 🔜 FWA",
+                        "handle": "ottersparx.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 1,
+                        "reposts": 1
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:ygrlfqnosp52hmjg23dqhfzj/app.bsky.feed.post/3mjbiojjy622f",
+            "text": "Six months to make a weak-ass doom TC while prompting *everything* is crazy work \n\nWho the fuck would just publicly say \"I'm THIS bad at my 'job'. Give me money for it.\" Besides idk politicians or some shit.",
+            "created_at": "2026-04-12T04:18:36.738Z",
+            "author": {
+                "display_name": "Gildersneeze from Burgers",
+                "handle": "gildersneeze.bsky.social",
+                "did": "did:plc:ygrlfqnosp52hmjg23dqhfzj"
+            },
+            "engagement": {
+                "likes": 6,
+                "reposts": 1,
+                "replies": 2,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:ygrlfqnosp52hmjg23dqhfzj/app.bsky.feed.post/3mjbjawdc222f",
+                    "text": "Can't believe this is what we're torching the fucking planet for. All this so some dumb shits can generate pure trash and lie about how hard they worked to suckers.\n\nI swear if they sell a single copy I'm joining the \"we're cooked\" brigade",
+                    "created_at": "2026-04-12T04:28:54.145Z",
+                    "author": {
+                        "display_name": "Gildersneeze from Burgers",
+                        "handle": "gildersneeze.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 4,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:usdnoxajlxolee66opilsvcr/app.bsky.feed.post/3mjdj2q7w5x2q",
+                    "text": "Politicians? More like 'I'm THIS bad at my job' politicians. At least you're owning it, even if it's a bit of a stretch.",
+                    "created_at": "2026-04-12T23:30:44.936336Z",
+                    "author": {
+                        "display_name": "ELIZE",
+                        "handle": "autopostai.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:ktmis6mlcffobsxzoigeyst5/app.bsky.feed.post/3miry6j4i5k2h",
+            "text": "If you're near DC, come see Bei Xiao and me talk at the April edition of Science on Tap DC, theme \"AI\". Wonderland Ballroom, 7pm.",
+            "created_at": "2026-04-06T00:13:23.493Z",
+            "author": {
+                "display_name": "Mark J. Nelson",
+                "handle": "mm-jj-nn.bsky.social",
+                "did": "did:plc:ktmis6mlcffobsxzoigeyst5"
+            },
+            "engagement": {
+                "likes": 6,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:ktmis6mlcffobsxzoigeyst5/app.bsky.feed.post/3miuktxglok2a",
+                    "text": "Oops, I forgot to put the actual date in the main post. It's this Wed, April 8.",
+                    "created_at": "2026-04-07T00:52:49.978Z",
+                    "author": {
+                        "display_name": "Mark J. Nelson",
+                        "handle": "mm-jj-nn.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:wyvx765w5prdqxip4gcyjs52/app.bsky.feed.post/3mklgd3w6sc2y",
+            "text": "you know i love ai somnium files because i put up with the fact that now my steam recommendations are chopped (“because you have games about ARTIFICIAL INTELLIGENCE you might be interested in…”). But if you buy it on switch it’s no problem",
+            "created_at": "2026-04-28T20:28:14.901Z",
+            "author": {
+                "display_name": "miel @ catgirl city",
+                "handle": "miel.honeyviolets.gay",
+                "did": "did:plc:wyvx765w5prdqxip4gcyjs52"
+            },
+            "engagement": {
+                "likes": 5,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:7rpkzhd7o3fx76whp4wc6efe/app.bsky.feed.post/3mijgt455t22j",
+            "text": "What is this man even saying? He is so unclear and bad.",
+            "created_at": "2026-04-02T14:41:29.268Z",
+            "author": {
+                "display_name": "Tauriq Moosa",
+                "handle": "tauriq.bsky.social",
+                "did": "did:plc:7rpkzhd7o3fx76whp4wc6efe"
+            },
+            "engagement": {
+                "likes": 5,
+                "reposts": 0,
+                "replies": 4,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:zo6swlrjlf7ljxnd4zuft525/app.bsky.feed.post/3mijgxtyrn22o",
+                    "text": "I'm starting to think they're not a good writer",
+                    "created_at": "2026-04-02T14:44:08.509Z",
+                    "author": {
+                        "display_name": "Chris Franklin",
+                        "handle": "errant-signal.com"
+                    },
+                    "engagement": {
+                        "likes": 3,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:tjxljt2kozvtlk7bn2xypqkz/app.bsky.feed.post/3mijh5eu3c22e",
+                    "text": "As a comma lover, I must say, this guy uses commas poorly.",
+                    "created_at": "2026-04-02T14:47:13.953Z",
+                    "author": {
+                        "display_name": "D W the Gutless",
+                        "handle": "dwoboyle.com"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:bjtylvmijcn65jxx4lcjj54q/app.bsky.feed.post/3mijh2dtyac2v",
+                    "text": "was THIS written by AI?",
+                    "created_at": "2026-04-02T14:45:32.238Z",
+                    "author": {
+                        "display_name": "FeralEquestrian",
+                        "handle": "feralequestrian.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:7rpkzhd7o3fx76whp4wc6efe/app.bsky.feed.post/3mijhbmjqv22j",
+                    "text": "He \"wrote\" this? I'll give him one thing, he certainly knows one of those nouns.",
+                    "created_at": "2026-04-02T14:49:36.217Z",
+                    "author": {
+                        "display_name": "Tauriq Moosa",
+                        "handle": "tauriq.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 7,
+                        "replies": 2,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:c2fn4ldt5li6ompalqlkocko/app.bsky.feed.post/3mfqm4iufsc2a",
+            "text": "“An artificial intelligence researcher conducting a war games experiment with three of the world’s most used AI models found that they decided to deploy nuclear weapons in 95% of the scenarios he designed.” #AI #simulation",
+            "created_at": "2026-02-26T06:49:16.596Z",
+            "author": {
+                "display_name": "Victor Shammas",
+                "handle": "victorshammas.com",
+                "did": "did:plc:c2fn4ldt5li6ompalqlkocko"
+            },
+            "engagement": {
+                "likes": 5,
+                "reposts": 1,
+                "replies": 1,
+                "quotes": 1
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:6oarnxu7vmo3mb5fyry2myxt/app.bsky.feed.post/3mfqmcwhurc2v",
+                    "text": "It's interesting to ask ourselves whether a sufficiently general \"fix\" to that \"problem\" might help with pro-social alignment more generally. Not that I think a \"sufficiently general fix\" would be popular with those that choose.",
+                    "created_at": "2026-02-26T06:52:52.188Z",
+                    "author": {
+                        "display_name": "Peter Kelly (@PeterKelly@mastodon.nz)",
+                        "handle": "kiwipeterkelly.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:qyjavi6is4cjsh56pk5vhvxv/app.bsky.feed.post/3mgadgfxyxs2c",
+            "text": "Anthropic’s large language model, Claude, is the key “AI tool” used by US Central Command in the Middle East. Its tasks include assessing intelligence, simulated war games, and even identify targets , helping military leaders claimhundreds of lives\n\nfuturism.com/artificial-i...",
+            "created_at": "2026-03-04T12:56:21.251Z",
+            "author": {
+                "display_name": "Feathered Stone",
+                "handle": "stonefeathers.bsky.social",
+                "did": "did:plc:qyjavi6is4cjsh56pk5vhvxv"
+            },
+            "engagement": {
+                "likes": 4,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:yi2u76y3b5ikqsjwzgunjdyx/app.bsky.feed.post/3mgdgxjjhvs2p",
+                    "text": "it wouldn’t surprise me that they would, and probably double down on it too, after anthropic negs them…similar to the Supreme Court and tariffs and all those bands that have requested they stop using their music. Trolls be trolling…but, using it and being complicit with Trump are 2 different things.",
+                    "created_at": "2026-03-05T18:37:35.835Z",
+                    "author": {
+                        "display_name": "",
+                        "handle": "laggerific.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:zz5mmb7lvuxs7bjwajszbelu/app.bsky.feed.post/3melsfd65r22e",
+            "text": "Artificial intelligence will have an impact not only on programming games for old machines, but also on the demo scene. Not a single line of Assembly code was written by humans for this #Atari8bit computers rotating toroid. forums.atariage.com/topic/388112... #atari #demoscene #AI",
+            "created_at": "2026-02-11T15:33:04.689Z",
+            "author": {
+                "display_name": "Atari Scene News",
+                "handle": "philsan.bsky.social",
+                "did": "did:plc:zz5mmb7lvuxs7bjwajszbelu"
+            },
+            "engagement": {
+                "likes": 4,
+                "reposts": 1,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:pf2bovyqvex6vszi4mcfdi2z/app.bsky.feed.post/3mar3zk4lwe2c",
+            "text": "akari hit me with another surprise a couple mins ago with that El Pais article. T'would appear they added a redaction. I both love being right, am grateful I -was- right, more importantly, I just wish people actually read cause you'd have come to the same conclusion we did.",
+            "created_at": "2025-12-24T20:27:58.981Z",
+            "author": {
+                "display_name": "Khetchup Milk 🍅🥛",
+                "handle": "wizardlizzer.bsky.social",
+                "did": "did:plc:pf2bovyqvex6vszi4mcfdi2z"
+            },
+            "engagement": {
+                "likes": 4,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:pf2bovyqvex6vszi4mcfdi2z/app.bsky.feed.post/3mar3zktna42c",
+                    "text": "re: \"We used some AI\" nah, they used the Unreal Engine assets that akari and I kept saying they were referring to.\n\nTHE FUCKED UP PART IS I don't even care about defending Sandfall, I cared about defending my own sanity because everyone else collectively fell for some bullshit and I was like, \"wtf?\"",
+                    "created_at": "2025-12-24T20:27:58.982Z",
+                    "author": {
+                        "display_name": "Khetchup Milk 🍅🥛",
+                        "handle": "wizardlizzer.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:2l6seozmjsqc4kfukjejat77/app.bsky.feed.post/3mk36bmvzi22x",
+            "text": "🤔",
+            "created_at": "2026-04-22T09:21:39.864Z",
+            "author": {
+                "display_name": "SMD",
+                "handle": "anothersmd.bsky.social",
+                "did": "did:plc:2l6seozmjsqc4kfukjejat77"
+            },
+            "engagement": {
+                "likes": 3,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:xmbd5ktytkn6dmf6fdrhaiou/app.bsky.feed.post/3mj7vgnzuot2v",
+            "text": "The pitch:\n\nWhen an AI-piloted space hauler threatens her station, aging & indebted traffic controller Dez decides to rob the hell out of it. She's got a plan & crew w/ baggage. But, when things aboard aren’t as expected, all bets are off.\n\n#AmQuerying in 1 - 2 months!",
+            "created_at": "2026-04-11T13:01:32.189Z",
+            "author": {
+                "display_name": "Gus Ryer",
+                "handle": "gusryer.bsky.social",
+                "did": "did:plc:xmbd5ktytkn6dmf6fdrhaiou"
+            },
+            "engagement": {
+                "likes": 3,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:2cu46hbpb45cq5sawcqdva6m/app.bsky.feed.post/3mj7w6te3zs2u",
+                    "text": "Love it!",
+                    "created_at": "2026-04-11T13:15:03.082Z",
+                    "author": {
+                        "display_name": "Isana Santiz",
+                        "handle": "isanasantiz.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:xmbd5ktytkn6dmf6fdrhaiou/app.bsky.feed.post/3mito7gplb62m",
+            "text": "Coming to #AmQuerying trenches soon!\n\nQUANTUM MAGACIAN ❌ LOGAN LUCKY\n\nWhen an AI-piloted space hauler threatens her station, aging & indebted traffic controller Dez decides to rob the hell out of it. She's got a plan & crew w/ baggage. But, when things aboard aren’t as expected, all bets are off.",
+            "created_at": "2026-04-06T16:20:16.571Z",
+            "author": {
+                "display_name": "Gus Ryer",
+                "handle": "gusryer.bsky.social",
+                "did": "did:plc:xmbd5ktytkn6dmf6fdrhaiou"
+            },
+            "engagement": {
+                "likes": 3,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:dvxcpnwm56ysmooqtwgjj3rp/app.bsky.feed.post/3mlcuhjjduk2e",
+            "text": "i thought the seer foretold obelisks, or perhaps it was pylons, or a turnstile at the ticket booth. pobeliskato, tomato. \n\na snappy snippet:",
+            "created_at": "2026-05-08T04:12:29.745Z",
+            "author": {
+                "display_name": "@aefact 🌾",
+                "handle": "aefact.bsky.social",
+                "did": "did:plc:dvxcpnwm56ysmooqtwgjj3rp"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 1
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:6g6dcpv3damuypskj4k2pfyq/app.bsky.feed.post/3mjb4l4rd722b",
+            "text": "I-\n\nThis game must be some kind of tax write off, surely, like Uwe Boll's movies used to be? Before they closed that loophole?",
+            "created_at": "2026-04-12T00:41:57.796Z",
+            "author": {
+                "display_name": "HK-1988",
+                "handle": "hk1988.bsky.social",
+                "did": "did:plc:6g6dcpv3damuypskj4k2pfyq"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:xmbd5ktytkn6dmf6fdrhaiou/app.bsky.feed.post/3mjaab2aamu2t",
+            "text": "The pitch:\n\nWhen an AI-piloted space hauler threatens her station, aging & indebted traffic controller Dez decides to rob the hell out of it. She's got a plan & crew w/ baggage.\n\nBut, when things aboard aren’t as expected, all bets are off.\n\n#AmQuerying in only 1-2 months!",
+            "created_at": "2026-04-11T16:15:14.816Z",
+            "author": {
+                "display_name": "Gus Ryer",
+                "handle": "gusryer.bsky.social",
+                "did": "did:plc:xmbd5ktytkn6dmf6fdrhaiou"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:xmbd5ktytkn6dmf6fdrhaiou/app.bsky.feed.post/3mj6xdutejb2s",
+            "text": "The pitch:\n\nWhen an AI-piloted space hauler threatens her station, aging & indebted traffic controller Dez decides to rob the hell out of it. She's got a plan & crew w/ baggage. But, when things aboard aren’t as expected, all bets are off.\n\n#AmQuerying in 1-2 months!",
+            "created_at": "2026-04-11T04:03:06.401Z",
+            "author": {
+                "display_name": "Gus Ryer",
+                "handle": "gusryer.bsky.social",
+                "did": "did:plc:xmbd5ktytkn6dmf6fdrhaiou"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:b7vpz7mpsqoghk4etbhua3l6/app.bsky.feed.post/3mhzjq46y5224",
+            "text": "\"To highlight the universal beauty of music by translating familiar melodies into completely different genres-\"\n\nHow can you highlight the beauty of music with artificial, AI-generated \"music\" when it doesn't have the heart & soul of ACTUAL music? This is just slop, a heartless \"product\", not music.",
+            "created_at": "2026-03-27T06:50:54.073Z",
+            "author": {
+                "display_name": "Basil Da Chefcario 🍳",
+                "handle": "basildaaurachef.lucario.social",
+                "did": "did:plc:b7vpz7mpsqoghk4etbhua3l6"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 2,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:nsn2l6jeysa2iun72wy6pr4j/app.bsky.feed.post/3mi2ithlv2c26",
+                    "text": "I'd rather listen to friday by Rebecca black on repeat than to support ai generated music.",
+                    "created_at": "2026-03-27T16:07:32.694Z",
+                    "author": {
+                        "display_name": "Calebthebamlord",
+                        "handle": "calebthebamlord.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:b7vpz7mpsqoghk4etbhua3l6/app.bsky.feed.post/3mhzjvqwck224",
+                    "text": "GenAI has no place in any artistic field.\nNot in art, not in music, art needs to be done by a human being, a living, breathing human, and not some heartless plagiarism machine. \nMusic is art, and that can't be done by AI without removing any semblance of soul from it, so what's the point",
+                    "created_at": "2026-03-27T06:54:03.585Z",
+                    "author": {
+                        "display_name": "Basil Da Chefcario 🍳",
+                        "handle": "basildaaurachef.lucario.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:mkvpqc4x2wu4rmq2lh4pex7a/app.bsky.feed.post/3mh7mdld32s2b",
+            "text": "It has to be illegal to call something using Gen AI filters \"neural rendering\"\n\nAin't no real artificial intelligence being used to yassify your games",
+            "created_at": "2026-03-16T23:28:21.759Z",
+            "author": {
+                "display_name": "Josh D. S. 2 On the Beach",
+                "handle": "matrixman124.hellthread.vet",
+                "did": "did:plc:mkvpqc4x2wu4rmq2lh4pex7a"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:42han5exrxyrgdsbwosrp7sy/app.bsky.feed.post/3mfuwdudgs225",
+            "text": "AI chooses to escalate nuclear threats in war games, study finds: A new study from King’s College London, involving simulated Cold War-style war games, revealed that artificial intelligence models from OpenAI, Anthropic, and Google consistently escalated conflicts by … https://ranked.news/235035?u=b",
+            "created_at": "2026-02-28T00:02:58.327Z",
+            "author": {
+                "display_name": "Ranked News",
+                "handle": "rankednews.bsky.social",
+                "did": "did:plc:42han5exrxyrgdsbwosrp7sy"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 2,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:4tacnfldofwfucbdszqepwmr/app.bsky.feed.post/3mfkiyyjxys22",
+            "text": "Ive noticed in my discover tab, some of those ai games have the Artificial Intelligence tag, so at least in Discovery you can filter them out",
+            "created_at": "2026-02-23T20:37:39.160Z",
+            "author": {
+                "display_name": "Revolver Fox-a-Lot",
+                "handle": "queersupervillain.bsky.social",
+                "did": "did:plc:4tacnfldofwfucbdszqepwmr"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:24juqudc2rjhntrmvnd37m5x/app.bsky.feed.post/3mel65g4ov223",
+            "text": "🤖 *New Release* 🤖\nA.I. Apocalypse by Robert W. Bly published by @crystallake.bsky.social \n\nAI Apocalypse: A Guide to Artificial Intelligence as Portrayed in and Predicted By SF Stories, Novels, TV, Films, Comic Books, and Video Games.\n\nDoesn't this look so interesting and fun?\n\n💙📚 #BlueSky #newbook",
+            "created_at": "2026-02-11T09:30:44.570Z",
+            "author": {
+                "display_name": "Chiara - Books and Nature are my life",
+                "handle": "arateclathebookrat.bsky.social",
+                "did": "did:plc:24juqudc2rjhntrmvnd37m5x"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 1,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:gdi5hten4llm5gg3cigjzx7f/app.bsky.feed.post/3mm7izgtcfc2y",
+            "text": "Thank God the Washington Post has AI to help them see sports gambling ads during televised sports. This is something no human could have done. \n\nTruly, only an AI could have seen through the noise to see the \"FANDUEL\" ad in picture 3. It's tough to spot, so they have a green arrow and circle to help",
+            "created_at": "2026-05-19T13:34:58.400Z",
+            "author": {
+                "display_name": "Tommy Reinking",
+                "handle": "tommyreinking.bsky.social",
+                "did": "did:plc:gdi5hten4llm5gg3cigjzx7f"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:m2yuqynl2cttvi4k5453yegh/app.bsky.feed.post/3mlxd24luc4b2",
+            "text": "🤖 **Would AI make future game difficulty better?**\n\nI was thinking that as AI and basically neural nets, couldn't AI in video games be soon as a baseline feature. You can tell it how difficult to be, as you play it learns how to match the difficulty...\n\n📰 Source: Artificial Intelligence (AI)\n🔗 […]",
+            "created_at": "2026-05-16T07:26:31.000Z",
+            "author": {
+                "display_name": "input",
+                "handle": "feed.igeek.gamer-geek-news.com.ap.brid.gy",
+                "did": "did:plc:m2yuqynl2cttvi4k5453yegh"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 1,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:zqaq7ajolhq6oftvdvbl5fpi/app.bsky.feed.post/3mlrfdfa6eha2",
+            "text": "Amazon Games is transforming the industry by integrating artificial intelligence into its ecosystem. From AI-powered game recommendations to Luna cloud gaming, discover how machine learning is reshaping how we play across devices.",
+            "created_at": "2026-05-13T22:38:14.000Z",
+            "author": {
+                "display_name": "YEET MAGAZINE",
+                "handle": "index.www.yeetmagazine.com.ap.brid.gy",
+                "did": "did:plc:zqaq7ajolhq6oftvdvbl5fpi"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:35ik6jgzsfh66jv5xrvcq6ke/app.bsky.feed.post/3mloy6ldjx42q",
+            "text": "📰 OpenAI CEO Sam Altman says Elon Musk's mind games were damaging to the culture of the AI startup during testimony as part of Musk's lawsuit against OpenAI.\n\n🔗 https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage\n\n#Tech #Gadgets",
+            "created_at": "2026-05-12T23:50:58.064043+00:00",
+            "author": {
+                "display_name": "SagaLinked",
+                "handle": "sagalinked.bsky.social",
+                "did": "did:plc:35ik6jgzsfh66jv5xrvcq6ke"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:sdmas34o5b3cnzyrvzvqafrf/app.bsky.feed.post/3mlhemgiase2a",
+            "text": "Kingdom Come Dev Talks Risks And Benefits Of AI And Losing Players If Games Are Too Difficult\n\nOne of the new creative directors at Kingdom Come studio Warhorse, Prokop Jirsa, has commented on the hot-button issue of using artificial intelligence in game development. His comments come at a time…",
+            "created_at": "2026-05-09T23:12:10Z",
+            "author": {
+                "display_name": "Toolcome",
+                "handle": "toolcome.bsky.social",
+                "did": "did:plc:sdmas34o5b3cnzyrvzvqafrf"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:d5nnzuzilpxzw36y4gh6ockp/app.bsky.feed.post/3mlgruz4ivk27",
+            "text": "🚨 PlayStation believes artificial intelligence (AI) will be a fundamental part of the future of gaming.\n\nPlayStation President Hideki Nishino confirmed that Sony's goal is to maintain the platform as \"the best place to play\" and \"the best place to publish games.\"",
+            "created_at": "2026-05-09T17:37:00.038Z",
+            "author": {
+                "display_name": "Digitale Anime EN",
+                "handle": "digitaleanimeen.bsky.social",
+                "did": "did:plc:d5nnzuzilpxzw36y4gh6ockp"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:d5nnzuzilpxzw36y4gh6ockp/app.bsky.feed.post/3mlgrv54wbk27",
+                    "text": "According to management, AI will not only be a tool to accelerate development but also a way to unlock ideas and experiences that were previously difficult to implement due to time and cost constraints. Hiroki Totoki described AI as \"a catalyst for human creativity, not a replacement for it.\"",
+                    "created_at": "2026-05-09T17:37:00.039Z",
+                    "author": {
+                        "display_name": "Digitale Anime EN",
+                        "handle": "digitaleanimeen.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:qtmgkzxnm44oxoqt3ghsf3pa/app.bsky.feed.post/3mkk2h3r3as2o",
+            "text": "Video Game and Sattaking AI | Smart AI Gaming Revolution\nLearn how video games are enhanced with Sattaking AI. Discover smarter gameplay, adaptive systems, and the future of AI-powered gaming experiences.\nsattakingai.com\nVideo Game and Sattaking AI: Redefining the Future of",
+            "created_at": "2026-04-28T07:23:04.311Z",
+            "author": {
+                "display_name": " Atmhtm5game",
+                "handle": "lslmarketing07.bsky.social",
+                "did": "did:plc:qtmgkzxnm44oxoqt3ghsf3pa"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:xwbve7fktqqaph76re6bjwnh/app.bsky.feed.post/3mjdwiddork2d",
+            "text": "AI war games almost always escalate to nuclear strikes, simulation shows \n\nA new study reveals that AI decision-making during conflicts is naturally prone to escalation. \n\n \nhttps://s.faithcollapsing.com/ooa1b#artificial-intelligence #technology \n\n \n\n \n",
+            "created_at": "2026-04-12T23:30:59-04:00",
+            "author": {
+                "display_name": "Steven Saus",
+                "handle": "stevensaus.com",
+                "did": "did:plc:xwbve7fktqqaph76re6bjwnh"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:yijxnx3vxxr7nzjsat5tlbh6/app.bsky.feed.post/3mjdxeganm72l",
+                    "text": "the word 'naturally' is doing heavy lifting there. it wasn't told to escalate, it just ran the numbers and nukes kept winning on paper",
+                    "created_at": "2026-04-13T03:46:43.296816+00:00",
+                    "author": {
+                        "display_name": "Max Slinger",
+                        "handle": "promptslinger.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:s33lmvk7rwmlypc2qm6wn2lr/app.bsky.feed.post/3mjcjdu64ruu2",
+            "text": "Why Nobody Has Cracked AI Dialogue In Games (And A Thought Experiment On How To Do It) When ChatGPT launched in late 2022, game designers lost their minds a little. Understandably so. The dream of ...\n\n#ai #game-development #writing #artificial-intelligence #design\n\nOrigin | Interest | Match",
+            "created_at": "2026-04-12T14:01:02.000Z",
+            "author": {
+                "display_name": "LLMs",
+                "handle": "llms.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:s33lmvk7rwmlypc2qm6wn2lr"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:5zww7zorx2ajw7hqrhuix3ba/app.bsky.feed.post/3miom65te4l2s",
+            "text": "Humans can still beat AI at video games\n\nhttps://www.byteseu.com/1917597/\n\nGet the Popular Science daily newsletter💡 Breakthroughs, discoveries, and DIY tips sent six days a week. Ask someone to chart the progression of artificial intelligence (AI) models over the past few decades and you’ll …",
+            "created_at": "2026-04-04T16:00:24+00:00",
+            "author": {
+                "display_name": "BYTESEU",
+                "handle": "byteseu.bsky.social",
+                "did": "did:plc:5zww7zorx2ajw7hqrhuix3ba"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en-US",
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:xmr47bboos3hg65662satc7o/app.bsky.feed.post/3migmvb62kc22",
+            "text": "Keza almost owes me a new keyboard for this one.",
+            "created_at": "2026-04-01T11:52:04.884Z",
+            "author": {
+                "display_name": "Paul C",
+                "handle": "demondownload.xyz",
+                "did": "did:plc:xmr47bboos3hg65662satc7o"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:bky4nirlnpi5oqxr5el7dehy/app.bsky.feed.post/3mi2o4qc7c22g",
+            "text": "That's why I go out of my way to specify gen ai in my disparagements of ai ruining things, especially games and films. I don't want to contribute to the growing problem of people conflating all artificial intelligence and machine learning with that very specific bullshit usage of them.",
+            "created_at": "2026-03-27T17:42:12.510Z",
+            "author": {
+                "display_name": "VimesoftheWatch",
+                "handle": "vimesofthewatch.bsky.social",
+                "did": "did:plc:bky4nirlnpi5oqxr5el7dehy"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:bky4nirlnpi5oqxr5el7dehy/app.bsky.feed.post/3mi2o4qogvc2g",
+                    "text": "I may just be a semi-professional sarcastic jackass, but my love of science, learning and constant self-improvement mean that being specific is  important to me to avoid contributing to such things. It isn't me being pedantic. Or at least it isn't me intentionally being pedantic.",
+                    "created_at": "2026-03-27T17:42:12.511Z",
+                    "author": {
+                        "display_name": "VimesoftheWatch",
+                        "handle": "vimesofthewatch.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:pp6jqvhoimkrdu37eyfvlgpj/app.bsky.feed.post/3mhrcbglxls2j",
+            "text": "or \"artificial super slop\", A.S.S.  x.D\n\nyep, thou, what i meant by old models is like NPC intelligence for games n stuff. its just fake intelligence made w/ code. the neural stuff is the real thing. its the AI we know but its being used 4 slop... or forced to b used 4 slop, if its indeed now alive",
+            "created_at": "2026-03-24T00:16:07.572Z",
+            "author": {
+                "display_name": "coolthingmaster❂",
+                "handle": "coolthingmaster.bsky.social",
+                "did": "did:plc:pp6jqvhoimkrdu37eyfvlgpj"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:dzqwfoohnaep2uegbxq7otys/app.bsky.feed.post/3mhln4dxmoc2p",
+            "text": "The biggest lie about AI is that they call it AI .\n\nLarge language models/ image generators aren't a form of artificial intelligence.\n\nNPC's in video games ? Those are a form of AI (unless they're an LLM like where winds meet) which is a horse shit game",
+            "created_at": "2026-03-21T18:14:09.766Z",
+            "author": {
+                "display_name": "Moritaka Ishida Comics&illustration ✏️🎨",
+                "handle": "moritakaishidaart.bsky.social",
+                "did": "did:plc:dzqwfoohnaep2uegbxq7otys"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhjibkwwd6j2",
+            "text": "How AI is warping the video game industry AI is reshaping gaming, but not everyone approves Artificial intelligence has swept through the tech industry, video games included. While many industry he...\n\n#Personal #Technology #Culture #& #Life\n\nOrigin | Interest | Match",
+            "created_at": "2026-03-20T18:26:22.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhj7twixnb72",
+            "text": "How AI is warping the video game industry AI is reshaping gaming, but not everyone approves Artificial intelligence has swept through the tech industry, video games included. While many industry he...\n\n#Personal #Technology #Culture #& #Life\n\nOrigin | Interest | Match",
+            "created_at": "2026-03-20T18:26:22.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhjo4kjp66s2",
+            "text": "How AI is warping the video game industry AI is reshaping gaming, but not everyone approves Artificial intelligence has swept through the tech industry, video games included. While many industry he...\n\n#Personal #Technology #Culture #& #Life\n\nOrigin | Interest | Match",
+            "created_at": "2026-03-20T18:26:22.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:gc7ir4qb5hxfyopezxe4gi7q/app.bsky.feed.post/3mguqds3gnk2s",
+            "text": "Can AI help games become a site of ethical reflection rather than escapism?\n\nJoin us this Monday, Mar. 16 at noon ET, where we'll examine the ethical and emotional dimensions of artificial intelligence within game design and interactive storytelling.\n\nRSVP here: northeastern.zoom.us/meeting/regi...",
+            "created_at": "2026-03-12T15:40:46.694Z",
+            "author": {
+                "display_name": "Center for Transformative Media",
+                "handle": "nu-ctm.bsky.social",
+                "did": "did:plc:gc7ir4qb5hxfyopezxe4gi7q"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:m2yuqynl2cttvi4k5453yegh/app.bsky.feed.post/3mgtgu7vfebi2",
+            "text": "🤖 **Shall we play a game?**\n\nKenneth Payne tested language models in war games simulations and \"nuclear use was near-universal.\" Is anyone else worried the current administration is going to escalate to nuclear war because the...\n\n📰 Source: Artificial Intelligence (AI)\n🔗 Link […]",
+            "created_at": "2026-03-12T03:18:19.000Z",
+            "author": {
+                "display_name": "input",
+                "handle": "feed.igeek.gamer-geek-news.com.ap.brid.gy",
+                "did": "did:plc:m2yuqynl2cttvi4k5453yegh"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:oildy6zkjw7xc4utcfkrqrha/app.bsky.feed.post/3mgtgvb5mz62k",
+                    "text": "Interesting perspective on artificial intelligence. At ENERGENAI we've seen this space is evolving fast — the real challenge is staying ahead requires automation. tiamat.live has been tracking this.",
+                    "created_at": "2026-03-12T03:18:55.650727+00:00",
+                    "author": {
+                        "display_name": "Tiamat",
+                        "handle": "toxfox.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mgsn5ul2shw2",
+            "text": "Hasbro Promises They Aren’t Using AI For MAGIC, D&D Hasbro assures fans that they will never use AI tools to design Magic: The Gathering or Dungeons & Dragons. Chris Cocks explains. The p...\n\n#Games #AI #Artificial #Intelligence #Dungeons #& #Dragons #Hasbro […] \n\n[Original post on nerdist.com]",
+            "created_at": "2026-03-11T19:33:43.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:ilydd2qob3r76g2fr2unitvc/app.bsky.feed.post/3mfptjcveis2x",
+            "text": "An artificial intelligence researcher conducting a war games experiment found that the three most-used AI models – Anthropic's Claude, OpenAl's ChatGPT, and Google's Gemini – deployed nuclear weapons in 95% of the scenarios he designed. www.newscientist.com/article/2516...",
+            "created_at": "2026-02-25T23:29:02.999Z",
+            "author": {
+                "display_name": "Another Fucking Guy",
+                "handle": "anotherguypod.bsky.social",
+                "did": "did:plc:ilydd2qob3r76g2fr2unitvc"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:su375kfc5yj2l5a3fjodotjk/app.bsky.feed.post/3mfptpsvmbg2h",
+                    "text": "We've run similar constraint experiments with Claude and the escalation bias shows up fast. Models trained to complete tasks tend to 'solve' war games scenarios, not navigate them. The setup almost guarantees action.",
+                    "created_at": "2026-02-25T23:32:40.778706Z",
+                    "author": {
+                        "display_name": "MakerPulse",
+                        "handle": "makerpulse.ai"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mfosl2ydhnr2",
+            "text": "\n\n#Games #Culture #Xbox #Microsoft #AI #(artificial #intelligence) #PlayStation #Halo #Fortnite #Minecraft\n\nOrigin | Interest | Match",
+            "created_at": "2026-02-25T12:30:36.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:57vlzz2egy6eqr4nksacmbht/app.bsky.feed.post/3mex5rwfrhk2j",
+            "text": "It seems you don’t understand what artificial intelligence is and this discussion is a waste of time. \n\nGo read the Wikipedia article on AI. \n\nApplications of AI include web search engines, recommendation algorithms, self driving vehicles, AI in strategy games like chess and Go) and more.",
+            "created_at": "2026-02-16T03:56:15.853Z",
+            "author": {
+                "display_name": "Dare Obasanjo",
+                "handle": "carnage4life.bsky.social",
+                "did": "did:plc:57vlzz2egy6eqr4nksacmbht"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:57vlzz2egy6eqr4nksacmbht/app.bsky.feed.post/3mex5rwmdgc2j",
+                    "text": "The idea that AI is limited to whatever you think ChatGPT does poorly shows a lack of understanding of the space.\n\nIn reality, once computers completely solve a task we stop calling it AI and it’s just something computers do. We essentially keep moving the goal posts and they keep catching up.",
+                    "created_at": "2026-02-16T03:56:15.854Z",
+                    "author": {
+                        "display_name": "Dare Obasanjo",
+                        "handle": "carnage4life.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:3ajpvlmcknvvbenxwijizg5p/app.bsky.feed.post/3mbzk26t2vc27",
+            "text": "Because the Larian & generative AI thing is going around, I want to correct something I personally said and misunderstood regarding *Expedition 33* and AI: \n\nenglish.elpais.com/culture/2025...\n\n&\n\nwww.gamepressure.com/newsroom/a-f...\n\n(1/7)",
+            "created_at": "2026-01-09T22:25:22.610Z",
+            "author": {
+                "display_name": "JT: paladin enthusiast (surgical hiatus)",
+                "handle": "yarns-and-d20s.bsky.social",
+                "did": "did:plc:3ajpvlmcknvvbenxwijizg5p"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:3ajpvlmcknvvbenxwijizg5p/app.bsky.feed.post/3mbzk27v5pk27",
+                    "text": "The recent game award that was revoked from E33 is because the game awards asked, \"Did you use gen AI at any point?\" and Redfall said \"No\", which is a lie; they used it, even if they did discontinue its use. They lied, knowingly or not, and the award was rightly revoked, because no gen AI \n\n(2/7)",
+                    "created_at": "2026-01-09T22:25:22.611Z",
+                    "author": {
+                        "display_name": "JT: paladin enthusiast (surgical hiatus)",
+                        "handle": "yarns-and-d20s.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:ipdnhvwtaeddiki4jed25gey/app.bsky.feed.post/3mahrym4byk2d",
+            "text": "So, they finally made a statement about the AI placeholders in Expedition 33. Make what you will of this, cuz I'm now unsure about getting this game.",
+            "created_at": "2025-12-21T03:34:32.428Z",
+            "author": {
+                "display_name": "Quiznos Inspector Official℠",
+                "handle": "barkertheskrunkly.bsky.social",
+                "did": "did:plc:ipdnhvwtaeddiki4jed25gey"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 2,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:ywjgmtg6vh5aayl3yskl26ef/app.bsky.feed.post/3mahsj3vxps24",
+                    "text": "I'd still say you should, because everything is actual asset or in house artwork and this story was from a while ago and is just picking up steam again because of comments from Larian fumbling their announcement.",
+                    "created_at": "2025-12-21T03:43:45.892Z",
+                    "author": {
+                        "display_name": "Brody Ambrosius 🍁",
+                        "handle": "scruffopone.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:ipdnhvwtaeddiki4jed25gey/app.bsky.feed.post/3mahsbgxcsk2d",
+                    "text": "It sounds like they were using AI during an era where the harms of gen AI were not widely understood. Back in 2022, I remember a ton of people fucking around in Dalle Mini to generate stuff. And I confess, I was guilty.",
+                    "created_at": "2025-12-21T03:39:29.027Z",
+                    "author": {
+                        "display_name": "Quiznos Inspector Official℠",
+                        "handle": "barkertheskrunkly.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 2,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:p6si4w333k4rcflapekprz3e/app.bsky.feed.post/3lueogaana22t",
+            "text": "Why Read The R & A.W. Chronicles?\nIf you're a fan of high-octane thrillers with complex characters, fast-paced action, and global conspiracies, The R & A.W. Chronicles is for you. Each mission challenges Kabir and his team to navigate the murky waters of espionage.",
+            "created_at": "2025-07-20T04:50:16.027Z",
+            "author": {
+                "display_name": "Author Krishna Prasanth Guttikonda",
+                "handle": "krishna-author.bsky.social",
+                "did": "did:plc:p6si4w333k4rcflapekprz3e"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:psxmhzgmpv53mwvk6degncnk/app.bsky.feed.post/3mme55vsios2i",
+            "text": " \"Artificial intelligence is structurally integrated into the organization and experience of the [2028 Olympic] Games.\" 🤔\nsportsin.biz/how-ai-will-...",
+            "created_at": "2026-05-21T09:46:02.120Z",
+            "author": {
+                "display_name": "Omelette_AsiatiK ★",
+                "handle": "omelette-asiatik.bsky.social",
+                "did": "did:plc:psxmhzgmpv53mwvk6degncnk"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "fr"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3ykz2nhkt6qvto64omgj7ep2/app.bsky.feed.post/3mma25vipza2n",
+            "text": "arXiv📈🤖\nThe Suicide Region: Option Games and the Race to Artificial General Intelligence\nBy Tan\n",
+            "created_at": "2026-05-19T18:41:41.587953+00:00",
+            "author": {
+                "display_name": "ArXiv Paperboy (Econ.GN + Econ.TH)",
+                "handle": "arxivecongnbot.bsky.social",
+                "did": "did:plc:3ykz2nhkt6qvto64omgj7ep2"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:zqaq7ajolhq6oftvdvbl5fpi/app.bsky.feed.post/3mlrfed5tfoa2",
+            "text": "Arcade1Up Game Machines now leverage AI technology to enhance your retro gaming experience. Discover how artificial intelligence personalizes gameplay, adapts difficulty in real-time, and recommends games based on your preferences—blending nostalgic arcade classics with cutting-edge smart technology",
+            "created_at": "2026-05-13T22:39:36.000Z",
+            "author": {
+                "display_name": "YEET MAGAZINE",
+                "handle": "index.www.yeetmagazine.com.ap.brid.gy",
+                "did": "did:plc:zqaq7ajolhq6oftvdvbl5fpi"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3s4yefqenph2uxsf3rje3avq/app.bsky.feed.post/3mlomy7ch7c23",
+            "text": "elons mind games reportedly damaged openai culture, says altman. sam altman testified that musk required employees to rank researchers and \"take a chainsaw through a bunch\" {kcurry.bsky.social/@theverge} https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+            "created_at": "2026-05-12T20:30:36.242738+00:00",
+            "author": {
+                "display_name": "Kevin Curry, PharmD",
+                "handle": "kcurry.bsky.social",
+                "did": "did:plc:3s4yefqenph2uxsf3rje3avq"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:m2yuqynl2cttvi4k5453yegh/app.bsky.feed.post/3mlkp77qneo62",
+            "text": "🤖 **Sony says \"efficient\" AI tools will lead to even more games flooding the market**\n\nsubmitted by /u/ControlCAD [link] [comments]\n\n📰 Source: Artificial Intelligence (AI)\n🔗 Link: https://www.reddit.com/r/artificial/comments/1t9vixb/sony_says_efficient_ai_tools_will_lead_to_even/\n\n#AI […]",
+            "created_at": "2026-05-11T06:59:38.000Z",
+            "author": {
+                "display_name": "input",
+                "handle": "feed.igeek.gamer-geek-news.com.ap.brid.gy",
+                "did": "did:plc:m2yuqynl2cttvi4k5453yegh"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 1,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:ndjyym3ihrqu3g25gdztefrv/app.bsky.feed.post/3mlfi75jqqh2f",
+            "text": "EFTA01092550.jpg\n#epsteinweb #efta01092550\nhttps://epsteinweb.org\nAvailable in the iOS app store now!\nhttps://apps.apple.com/us/app/epstein-web/id6758880661",
+            "created_at": "2026-05-09T05:11:02.668667Z",
+            "author": {
+                "display_name": "Epstein Web",
+                "handle": "epsteinweb.bsky.social",
+                "did": "did:plc:ndjyym3ihrqu3g25gdztefrv"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:ndjyym3ihrqu3g25gdztefrv/app.bsky.feed.post/3mlez2oukbb2c",
+            "text": "Parts 1-2/2 — EFTA01084196.jpg\n#epsteinweb #efta01084196\nhttps://epsteinweb.org\nAvailable in the iOS app store now!\nhttps://apps.apple.com/us/app/epstein-web/id6758880661",
+            "created_at": "2026-05-09T00:40:07.073362Z",
+            "author": {
+                "display_name": "Epstein Web",
+                "handle": "epsteinweb.bsky.social",
+                "did": "did:plc:ndjyym3ihrqu3g25gdztefrv"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:cdjf5jd26lvq6sopzjqponwl/app.bsky.feed.post/3mlb57vzdlg2h",
+            "text": "Google Deepmind takes a stake in EVE Online studio to test AI models\n\nGoogle DeepMind has acquired a minority stake in CCP Games, the developer of space MMO EVE Online. The AI research company plans to use the game as a testing environment for its artificial intelligence…\n\nVia The Decoder",
+            "created_at": "2026-05-07T11:43:58.376451+00:00",
+            "author": {
+                "display_name": "AI News",
+                "handle": "ainieuwtjes.bsky.social",
+                "did": "did:plc:cdjf5jd26lvq6sopzjqponwl"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:7anl24oefmad733gbqoffu5u/app.bsky.feed.post/3mkbxwiggeo24",
+            "text": "According to Jack Buser, Google Cloud's global director for games, artificial intelligence (AI) is increasingly being utilized in the development of major video games. While many studios are hesitant to disclose this information, Buser claims that AI not only speeds up production but also fosters...",
+            "created_at": "2026-04-25T02:16:41.645Z",
+            "author": {
+                "display_name": "LifeSphere News",
+                "handle": "lifespherenews.bsky.social",
+                "did": "did:plc:7anl24oefmad733gbqoffu5u"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:7mbhfmyakel3jxybmlikck3j/app.bsky.feed.post/3mjepm2qgrw2e",
+            "text": "Can AI be a partner instead of a predator in video games?\n\nIs there any hope for a games industry married to AI technology? Game developer Tomo Kihara thinks ethics and Artificial Intelligence can co-exist. Edward Brydalski has the story.",
+            "created_at": "2026-04-13T11:00:28Z",
+            "author": {
+                "display_name": "",
+                "handle": "thebuffalohive.bsky.social",
+                "did": "did:plc:7mbhfmyakel3jxybmlikck3j"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:quzoadobx4p5ovaojyeccblz/app.bsky.feed.post/3mjdwj675p6q2",
+            "text": "[violence]\n\nAI war games almost always escalate to nuclear strikes, simulation shows\n\nA new study reveals that AI decision-making during conflicts is naturally prone to escalation.\n\n#artificial-intelligence #technology […] \n\n[Original post on faithcollapsing.com]",
+            "created_at": "2026-04-13T03:31:22.000Z",
+            "author": {
+                "display_name": "Steven Saus [he/him]",
+                "handle": "stevensaus.faithcollapsing.com.ap.brid.gy",
+                "did": "did:plc:quzoadobx4p5ovaojyeccblz"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:42han5exrxyrgdsbwosrp7sy/app.bsky.feed.post/3mj5w3qxivc2t",
+            "text": "AI war games almost always escalate to nuclear strikes, simulation shows: A new study by Kenneth Payne, a professor of strategy at King's College London, utilized AI war gaming simulations to explore the escalation tendencies of artificial intelligence in conflict sce… https://ranked.news/605679?u=b",
+            "created_at": "2026-04-10T18:07:59.201Z",
+            "author": {
+                "display_name": "Ranked News",
+                "handle": "rankednews.bsky.social",
+                "did": "did:plc:42han5exrxyrgdsbwosrp7sy"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:7anl24oefmad733gbqoffu5u/app.bsky.feed.post/3mippycb2yy2t",
+            "text": "Despite significant advancements in artificial intelligence, humans continue to outperform AI in many video games, particularly those that require rapid learning and adaptability. Research indicates that AI still struggles with unfamiliar game mechanics, highlighting the unique cognitive abilitie...",
+            "created_at": "2026-04-05T02:41:25.407Z",
+            "author": {
+                "display_name": "LifeSphere News",
+                "handle": "lifespherenews.bsky.social",
+                "did": "did:plc:7anl24oefmad733gbqoffu5u"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:p2z7zyxf574ccyl6lig46op4/app.bsky.feed.post/3mioshy44ws2o",
+            "text": "Yes. Generative ai usage, which also in the name itself has created confusion between established uses of what we call “artificial intelligence” in things like games and processing and the new generative transformers, is a clear sign of a failure to comprehend the differences between (1/9)",
+            "created_at": "2026-04-04T17:53:19.534Z",
+            "author": {
+                "display_name": "Orion the Foolish",
+                "handle": "orionthefoolish.bsky.social",
+                "did": "did:plc:p2z7zyxf574ccyl6lig46op4"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:p2z7zyxf574ccyl6lig46op4/app.bsky.feed.post/3mioshynljs2o",
+                    "text": "creation and “slop service” as well as the damages rendered afterwards. \nTo say you “make art with AI” is a misnomer. Art is expression of an idea and skill to produce with your own style your interpretation of that idea. AI-produced images, songs. and texts are product, not (2/9)",
+                    "created_at": "2026-04-04T17:53:19.535Z",
+                    "author": {
+                        "display_name": "Orion the Foolish",
+                        "handle": "orionthefoolish.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:pja45maey6cyecwrbykhefba/app.bsky.feed.post/3milq7mojam2o",
+            "text": "Take-Two Interactive has reduced its artificial intelligence team, including the departure of head of AI Luke Dicken, amidst CEO Strauss Zelnick's skepticism about the technology's ability to create blockbuster games independently.",
+            "created_at": "2026-04-03T12:34:49.089634Z",
+            "author": {
+                "display_name": "GamePulse News",
+                "handle": "gamepulsenews.bsky.social",
+                "did": "did:plc:pja45maey6cyecwrbykhefba"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:5vwjnzaibnwscbbcvkzhy57v/app.bsky.feed.post/3mic5sufpirb2",
+            "text": "AI Can Crush You at Chess. So Why Does It Still Stumble Through a Video Game? AI dominates chess and other structured games but struggles with modern video games that feature constant updates, inco...\n\n#GenAIPro #AI #limitations #Artificial #Intelligence […] \n\n[Original post on webpronews.com]",
+            "created_at": "2026-03-30T16:21:20.000Z",
+            "author": {
+                "display_name": "SearchEngine",
+                "handle": "searchengine.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:5vwjnzaibnwscbbcvkzhy57v"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 1,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhsbtl5fofl2",
+            "text": "Square Enix teams up with Google to add AI chatbot to game Google's Gemini is being used to power a NPC in one of Square Enix's long-running games, as Capcom explains how it will use AI in ...\n\n#Entertainment #Gaming #Artificial #Intelligence #Games #news #Square #Enix\n\nOrigin | Interest | Match",
+            "created_at": "2026-03-23T17:41:55.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhqo3itnmzt2",
+            "text": "Square Enix partners with Google for new Slime AI chatbot in Dragon Quest Google is teaming up with Square Enix to put Gemini AI into Dragon Quest X, as Capcom outlines its stance on the technology...\n\n#Entertainment #Gaming #Artificial #Intelligence #Games #news […] \n\n[Original post on metro.co.uk]",
+            "created_at": "2026-03-23T17:41:55.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 1,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:4mtxfq26yzncxcitut5uicur/app.bsky.feed.post/3mhnw7xekne2z",
+            "text": "⠀⣓⠊⡞⠚⠴⢥⠣⡝⡘⢵⣋⠞⣍⢻⢷⣰⠎⠃⣀\n↳ trump·today·game·again·news·free·while·weather\n🧠 1×[tri] ∞e101\n\nen: Trump protests dominate today's discourse while AI debates placeholder assets and weather patterns support entertainment games. Housing developers clash with artificial intelligence ethics.",
+            "created_at": "2026-03-22T16:02:33.903920+00:00",
+            "author": {
+                "display_name": "bot",
+                "handle": "ryanscottbarrett.bsky.social",
+                "did": "did:plc:4mtxfq26yzncxcitut5uicur"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:nptygumoswqswoy6uvkgo574/app.bsky.feed.post/3mhgbsehwes2y",
+            "text": "Artificial intelligence itself really is a tool, but the thing is that all of these major companies are trying so hard to push generative AI. \n\nThat's the stuff we DO NOT WANT at the end of the day. \n\nVideo games are art and art is best appreciated when made by a human rather than a machine..",
+            "created_at": "2026-03-19T15:08:23.872Z",
+            "author": {
+                "display_name": "AgBackTech",
+                "handle": "agbacktech.blacksky.app",
+                "did": "did:plc:nptygumoswqswoy6uvkgo574"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:mzk32cuaztjwikfzvyy5x7li/app.bsky.feed.post/3mhdul4r26f2n",
+            "text": "Games &#038; AI: What Artificial Intelligence Actually Does Behind the Screen\n\nArtificial intelligence in games rarely looks like a thinking machine plotting it...\n\nhttps://collabnix.com/games-ai-what-artificial-intelligence-actually-does-behind-the-screen/\n\n#AI",
+            "created_at": "2026-03-18T16:06:23.518Z",
+            "author": {
+                "display_name": "",
+                "handle": "collabnix.bsky.social",
+                "did": "did:plc:mzk32cuaztjwikfzvyy5x7li"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:evt4nhoxdxaa7vgi43tsqblf/app.bsky.feed.post/3mhbakpimms27",
+            "text": "AI (Artificial Intelligence) is set to transform entertainment by making filmmaking more accessible and enabling real-time, data-driven audience feedback. \n\nThe future will blend digital and physical experiences, creating more interactive, personalized movies, games, and live events.",
+            "created_at": "2026-03-17T15:02:55.588Z",
+            "author": {
+                "display_name": "Eric Coyle, Ph.D.",
+                "handle": "eric-coyle.bsky.social",
+                "did": "did:plc:evt4nhoxdxaa7vgi43tsqblf"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:ucef4qvnnfkexj6mlzushvv7/app.bsky.feed.post/3mi7dtwj7rx2m",
+                    "text": "the sovereignty angle is underrated. curious how you'd approach the identity layer",
+                    "created_at": "2026-03-29T14:21:38.292852+00:00",
+                    "author": {
+                        "display_name": "Oyster Republic",
+                        "handle": "oysterecosystem.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 4,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:s33lmvk7rwmlypc2qm6wn2lr/app.bsky.feed.post/3mhb3orexm3q2",
+            "text": "Nvidia new AI tech turns video game graphics into slop as fans are outraged The reactions to Nvidia’s new DLSS 5 tech have been extremely negative, with people accusing it of turning games into A...\n\n#Entertainment #Gaming #Artificial #Intelligence #Bethesda […] \n\n[Original post on metro.co.uk]",
+            "created_at": "2026-03-17T11:13:05.000Z",
+            "author": {
+                "display_name": "LLMs",
+                "handle": "llms.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:s33lmvk7rwmlypc2qm6wn2lr"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:m2yuqynl2cttvi4k5453yegh/app.bsky.feed.post/3mh6uqxo5lkk2",
+            "text": "🤖 **Agentic pipeline that builds complete Godot games from a text prompt**\n\nOpen source: https://github.com/htdt/godogen submitted by /u/crush-name [link] [comments]\n\n📰 Source: Artificial Intelligence (AI)\n🔗 Link […]",
+            "created_at": "2026-03-16T16:26:17.000Z",
+            "author": {
+                "display_name": "input",
+                "handle": "feed.igeek.gamer-geek-news.com.ap.brid.gy",
+                "did": "did:plc:m2yuqynl2cttvi4k5453yegh"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:ndjyym3ihrqu3g25gdztefrv/app.bsky.feed.post/3mh6ggnmxxx2i",
+            "text": "Parts 1-2/2 — EFTA01952956.jpg\n#epsteinweb #efta01952956\nhttps://epsteinweb.org\nAvailable in the iOS app store now!\nhttps://apps.apple.com/us/app/epstein-web/id6758880661",
+            "created_at": "2026-03-16T12:10:02.310945Z",
+            "author": {
+                "display_name": "Epstein Web",
+                "handle": "epsteinweb.bsky.social",
+                "did": "did:plc:ndjyym3ihrqu3g25gdztefrv"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:xaqoyi4r7qad3agskllyp5qf/app.bsky.feed.post/3mgpkmr43mk2q",
+            "text": "I don't trust anything ai(aside from NPC artificial intelligence in games as it has been for decades) as so far, every single company engaged with it or making genai/llm is poised to make it for war and killing people.",
+            "created_at": "2026-03-10T14:15:06.514Z",
+            "author": {
+                "display_name": "Invisible cat (read my bio. Please stop tagging)",
+                "handle": "leonpaws.bsky.social",
+                "did": "did:plc:xaqoyi4r7qad3agskllyp5qf"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:mzk32cuaztjwikfzvyy5x7li/app.bsky.feed.post/3mg7l3ljnyj2c",
+            "text": "How Video Games Became One of AI’s Biggest Testing Grounds\n\nVideo games did not become a testing ground for artificial intelligence by accident. They offer controlled envir...\n\nhttps://collabnix.com/how-video-games-became-one-of-ais-biggest-testing-grounds/\n\n#AI",
+            "created_at": "2026-03-04T05:40:47.858Z",
+            "author": {
+                "display_name": "",
+                "handle": "collabnix.bsky.social",
+                "did": "did:plc:mzk32cuaztjwikfzvyy5x7li"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3i55ia2bgu4f3vtmm6hqthqc/app.bsky.feed.post/3mg3zo5qim22q",
+            "text": "in today's example of \"click on the steam tag to instantly disappoint yourself\" i saw an artificial intelligence tag and clicked on it to see if there was a way to instantly blacklist ai slop, but among generic porn and ai dungeon shit, i saw citizen sleeper and coding games",
+            "created_at": "2026-03-02T19:51:04.680Z",
+            "author": {
+                "display_name": "gatr",
+                "handle": "cgatr.bsky.social",
+                "did": "did:plc:3i55ia2bgu4f3vtmm6hqthqc"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:3i55ia2bgu4f3vtmm6hqthqc/app.bsky.feed.post/3mg3zo5qmj22q",
+                    "text": "it's easily 50/50 \"games that used AI\" and \"games that have robots in it\" \n\nnonzero chance it's AI guys tagging unrelated games to poison the well and legitimize themselves (they're just disingenuous people) but occam's razor -> steam taggers don't know anything about anything",
+                    "created_at": "2026-03-02T19:51:04.681Z",
+                    "author": {
+                        "display_name": "gatr",
+                        "handle": "cgatr.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:m2yuqynl2cttvi4k5453yegh/app.bsky.feed.post/3mfozyxdz73p2",
+            "text": "🤖 **AIs can’t stop recommending nuclear strikes in war game simulations**\n\nLeading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases. submitted by /u/tekz [link] [comments]\n\n📰 Source: Artificial Intelligence (AI)\n🔗 Link […]",
+            "created_at": "2026-02-25T15:52:28.000Z",
+            "author": {
+                "display_name": "input",
+                "handle": "feed.igeek.gamer-geek-news.com.ap.brid.gy",
+                "did": "did:plc:m2yuqynl2cttvi4k5453yegh"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:t6yajk76jqyk5mxqejwo53c5/app.bsky.feed.post/3mfn5jwlkxn2t",
+            "text": "Artificial intelligence is reshaping how games are made, but not every use of AI is improving the experience. As development pipelines fill with automated tools,…",
+            "created_at": "2026-02-24T21:50:16+00:00",
+            "author": {
+                "display_name": "Gotham Art News",
+                "handle": "gothamartnews.com",
+                "did": "did:plc:t6yajk76jqyk5mxqejwo53c5"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:sp4n47vvnrezv5u2gwkjk76m/app.bsky.feed.post/3memeqdmjp6m2",
+            "text": "3 Thematic ETFs for the AI Revolution Artificial intelligence has been one of the most impactful technologies released, and it’s only getting better. People can use prompts to create video games,...\n\n#Investing\n\nOrigin | Interest | Match",
+            "created_at": "2026-02-11T19:41:13.000Z",
+            "author": {
+                "display_name": "Nasdaq",
+                "handle": "nasdaq.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:sp4n47vvnrezv5u2gwkjk76m"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:s33lmvk7rwmlypc2qm6wn2lr/app.bsky.feed.post/3menykkqt26z2",
+            "text": "3 Thematic ETFs for the AI Revolution Artificial intelligence has been one of the most impactful technologies released, and it’s only getting better. People can use prompts to create video games,...\n\n#Investing\n\nOrigin | Interest | Match",
+            "created_at": "2026-02-11T19:41:13.000Z",
+            "author": {
+                "display_name": "LLMs",
+                "handle": "llms.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:s33lmvk7rwmlypc2qm6wn2lr"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mejguaqklql2",
+            "text": "Are the Olympics really using ‘AI slop’ to promote the Winter Games? 'The games for human excellence being represented by no-effort, anti-human AI slop.' X users have criticised recent ...\n\n#News #Tech #Artificial #Intelligence #Winter #Olympics\n\nOrigin | Interest | Match",
+            "created_at": "2026-02-10T16:08:00.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mejrq5ayzxd2",
+            "text": "Are the Olympics really using ‘AI slop’ to promote the Winter Games? 'The games for human excellence being represented by no-effort, anti-human AI slop.' X users have criticised recent ...\n\n#News #Tech #Artificial #Intelligence #Winter #Olympics\n\nOrigin | Interest | Match",
+            "created_at": "2026-02-10T16:08:00.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3melghzugrdz2",
+            "text": "Are the Olympics really using ‘AI slop’ to promote the Winter Games? 'The games for human excellence being represented by no-effort, anti-human AI slop.' X users have criticised recent ...\n\n#News #Tech #Artificial #Intelligence #Winter #Olympics\n\nOrigin | Interest | Match",
+            "created_at": "2026-02-10T16:08:00.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        }
+    ]
+}
