@@ -652,20 +652,6 @@
                     }
                 },
                 {
-                    "reply_id": "at://did:plc:3lqmq5moq5q336shkvrt3f5s/app.bsky.feed.post/3mk73mgm3sk2d",
-                    "text": "What we hate is our work being stolen and used without our permission so greedy corpos can forgo hiring us and paying us to use our work. Fuck AI!",
-                    "created_at": "2026-04-23T22:44:40.074Z",
-                    "author": {
-                        "display_name": "TheSporkMaster",
-                        "handle": "thesporkmaster.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 1,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
                     "reply_id": "at://did:plc:2mkgbhbhqvappkkorf2bzyrp/app.bsky.feed.post/3mk5vmgawos22",
                     "text": "I mean it’s also true that almost every big studio is using genAI tools (particularly Claude) right now",
                     "created_at": "2026-04-23T11:24:37.519Z",
@@ -819,6 +805,43 @@
                         "likes": 0,
                         "replies": 0,
                         "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:pnx2fjuannbdpy3337ggthpp/app.bsky.feed.post/3mmhtcig7a22i",
+            "text": "immediately he is playing games with framing. It's not mysterious or sinister at all, they leaked because they're being circulated to a larger circle of people as part of the fundraising round. This is not skeptical or objective reporting, just pure spin.",
+            "created_at": "2026-05-22T21:00:17.234Z",
+            "author": {
+                "display_name": "George Pearkes",
+                "handle": "peark.es",
+                "did": "did:plc:pnx2fjuannbdpy3337ggthpp"
+            },
+            "engagement": {
+                "likes": 66,
+                "reposts": 2,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:pnx2fjuannbdpy3337ggthpp/app.bsky.feed.post/3mmhtckla7k2i",
+                    "text": "It's genuinely hilarious he is trying to claim that a business that doubled revenues sequentially must have the same operating leverage as at much lower growth rates. That is patently insane because it assumes zero fixed costs (nonsense).",
+                    "created_at": "2026-05-22T21:00:17.235Z",
+                    "author": {
+                        "display_name": "George Pearkes",
+                        "handle": "peark.es"
+                    },
+                    "engagement": {
+                        "likes": 68,
+                        "replies": 1,
+                        "reposts": 1
                     }
                 }
             ]
@@ -1061,181 +1084,26 @@
             ]
         },
         {
-            "post_id": "at://did:plc:fqz767ikcbgk7yifapygtxeh/app.bsky.feed.post/3me7easlrks2r",
-            "text": "Sony on Generative AI in video games:\n\nenglish.kyodonews.net/articles/-/6...",
-            "created_at": "2026-02-06T16:48:03.903Z",
+            "post_id": "at://did:plc:fxutyp5yzfrevi4vqit6ei6v/app.bsky.feed.post/3mmgxibbxyc25",
+            "text": "Something I've been meaning to do for a while, have put up a couple statements of ethics on @daikon.games website. This includes my stance on AI in games (or my stance against it rather!)\n\nI like the idea of having it written out somewhere \n#indiegames #gamedev\n\ndaikon.games/ethics.html",
+            "created_at": "2026-05-22T12:42:26.476Z",
             "author": {
-                "display_name": "Daniel Ahmad",
-                "handle": "zhugeex.com",
-                "did": "did:plc:fqz767ikcbgk7yifapygtxeh"
+                "display_name": "Nick V (get Chico's Rebound!)",
+                "handle": "nickvv.me",
+                "did": "did:plc:fxutyp5yzfrevi4vqit6ei6v"
             },
             "engagement": {
-                "likes": 35,
-                "reposts": 9,
-                "replies": 11,
-                "quotes": 7
+                "likes": 26,
+                "reposts": 10,
+                "replies": 0,
+                "quotes": 0
             },
             "metadata": {
                 "lang": [
                     "en"
                 ]
             },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:zzkqtfcw5kherejryb72tall/app.bsky.feed.post/3me7hxknndc2b",
-                    "text": "Maybe now they can generate some games for the ps5",
-                    "created_at": "2026-02-06T17:54:28.549Z",
-                    "author": {
-                        "display_name": "",
-                        "handle": "rawuncut.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 5,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:yvmnbund2qlyzamfe72lbnd2/app.bsky.feed.post/3meh2y2uqgk23",
-                    "text": "boycot it people",
-                    "created_at": "2026-02-09T18:23:24.824Z",
-                    "author": {
-                        "display_name": "",
-                        "handle": "caodragao.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 0,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:wl3oy7g5jrzylxmpszukguwk/app.bsky.feed.post/3me7exhwmn22a",
-                    "text": "These dumb mother fuckers keep saying shit like \"We have to master this tool.\" Like... no. No you don't. The product does not work and won't the way they want it to. It should not be anyone's mission to put resources in trying to make it work. Fuckin busted ass way of thinking.",
-                    "created_at": "2026-02-06T17:00:44.477Z",
-                    "author": {
-                        "display_name": "SpaceSong👽👾",
-                        "handle": "spacesong.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 4,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:soystdzst7tkyx5ewrhmbqxd/app.bsky.feed.post/3me7ncmotfc2j",
-                    "text": "aaannnnndddd fuck sony",
-                    "created_at": "2026-02-06T19:30:08.494Z",
-                    "author": {
-                        "display_name": "",
-                        "handle": "klb725.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 0,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:r35z3ekl6vpexvpoghfd3xtb/app.bsky.feed.post/3mebsjtnij22n",
-                    "text": "seeing how far Sony has fallen and keeps falling is depressing",
-                    "created_at": "2026-02-07T16:08:58.855Z",
-                    "author": {
-                        "display_name": "JoshTheGY",
-                        "handle": "joshthegy.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 1,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:kvx5mxavth6uck4sqhb6vpcg/app.bsky.feed.post/3me7fannyvs2u",
-                    "text": "\"GenAI is not a threat\".\n\nTo who exactly? \n\nArtists?\nDevelopers?\n\nNo. To the Sony big wigs eying a few more 💲💲💲.\nGot ya.",
-                    "created_at": "2026-02-06T17:05:52.473Z",
-                    "author": {
-                        "display_name": "David McWeeney",
-                        "handle": "abhoysvoice.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 4,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:j3odxqpxyduk2jgaj4mhtr6g/app.bsky.feed.post/3me7gbvv2ms2z",
-                    "text": "Sony is so much infinitely worse than Nintendo on so many issues that it is almost mind boggling that it isn't collapsing under the weight of the horrible decisions and policy its' leadership keep implementing.",
-                    "created_at": "2026-02-06T17:24:28.391Z",
-                    "author": {
-                        "display_name": "Vinchenzo the Jackal",
-                        "handle": "vinchenzojackal.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 5,
-                        "replies": 1,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:hkgfmy2yxinuxpbw5g5cataf/app.bsky.feed.post/3me7pybj4xc2r",
-                    "text": "Waiting for the \"Boycott PlayStation!!1!1\" sentiment until everyone started shilling for them when Intergalactic The Heretic Prophet comes out...🤣👍",
-                    "created_at": "2026-02-06T20:18:02.456Z",
-                    "author": {
-                        "display_name": "PocketLunch㊙️",
-                        "handle": "pocketlunch.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 1,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:6lbjwi7vtqbi36sa3xqcwvie/app.bsky.feed.post/3me7h7x2kuc2d",
-                    "text": "hahahahahah\n\nexcept a tool is something that is at least somewhat reliable and that you can have some confidence that it will not just HALLUCINATE SHIT\n\nThis is where I disagree with a lot of people. GenAI is not a tool, because you can't have any confidence in reproducing a given output for example",
-                    "created_at": "2026-02-06T17:41:16.254Z",
-                    "author": {
-                        "display_name": "omlt - Miku connoisseur era 😌",
-                        "handle": "omlt.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 5,
-                        "replies": 2,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:4vuiqdbnpii6cypyatofbnyz/app.bsky.feed.post/3me7ekwzbl22u",
-                    "text": "Damn am I glad Sony has fucking sucked since exiting the ps3 generation or this would have really hurt",
-                    "created_at": "2026-02-06T16:53:44.084Z",
-                    "author": {
-                        "display_name": "USB3pt0",
-                        "handle": "usb3pt0.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 7,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:2wzlspqgblu3rew5y2mx42dv/app.bsky.feed.post/3me7eddnljc2c",
-                    "text": "So anyway the PS6 will launch at $800",
-                    "created_at": "2026-02-06T16:49:28.897Z",
-                    "author": {
-                        "display_name": "「james」",
-                        "handle": "xjames.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 5,
-                        "replies": 1,
-                        "reposts": 0
-                    }
-                }
-            ]
+            "comments": []
         },
         {
             "post_id": "at://did:plc:xrttqwermo7lkqeao6mgcv4p/app.bsky.feed.post/3mjaqdfig7224",
@@ -1544,6 +1412,20 @@
                 ]
             },
             "comments": [
+                {
+                    "reply_id": "at://did:plc:er4baqdp2ocvumftgk6hqeli/app.bsky.feed.post/3mjaureubdc2b",
+                    "text": "Sorry, should have said \"game\".",
+                    "created_at": "2026-04-11T22:22:17.674Z",
+                    "author": {
+                        "display_name": "The Azure Guardian 🔵🛡️",
+                        "handle": "theazureguard.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
                 {
                     "reply_id": "at://did:plc:7mfp55anba5dkb6rdcuark2g/app.bsky.feed.post/3mjb6yemh322t",
                     "text": "Defensive much?",
@@ -2676,26 +2558,6 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhjibkwwd6j2",
-            "text": "How AI is warping the video game industry AI is reshaping gaming, but not everyone approves Artificial intelligence has swept through the tech industry, video games included. While many industry he...\n\n#Personal #Technology #Culture #& #Life\n\nOrigin | Interest | Match",
-            "created_at": "2026-03-20T18:26:22.000Z",
-            "author": {
-                "display_name": "Fortnite",
-                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
-                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
-            },
-            "engagement": {
-                "likes": 1,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": null
-            },
-            "comments": []
-        },
-        {
             "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhj7twixnb72",
             "text": "How AI is warping the video game industry AI is reshaping gaming, but not everyone approves Artificial intelligence has swept through the tech industry, video games included. While many industry he...\n\n#Personal #Technology #Culture #& #Life\n\nOrigin | Interest | Match",
             "created_at": "2026-03-20T18:26:22.000Z",
@@ -2717,6 +2579,26 @@
         },
         {
             "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhjo4kjp66s2",
+            "text": "How AI is warping the video game industry AI is reshaping gaming, but not everyone approves Artificial intelligence has swept through the tech industry, video games included. While many industry he...\n\n#Personal #Technology #Culture #& #Life\n\nOrigin | Interest | Match",
+            "created_at": "2026-03-20T18:26:22.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhjibkwwd6j2",
             "text": "How AI is warping the video game industry AI is reshaping gaming, but not everyone approves Artificial intelligence has swept through the tech industry, video games included. While many industry he...\n\n#Personal #Technology #Culture #& #Life\n\nOrigin | Interest | Match",
             "created_at": "2026-03-20T18:26:22.000Z",
             "author": {
@@ -2913,7 +2795,7 @@
             "text": "Because the Larian & generative AI thing is going around, I want to correct something I personally said and misunderstood regarding *Expedition 33* and AI: \n\nenglish.elpais.com/culture/2025...\n\n&\n\nwww.gamepressure.com/newsroom/a-f...\n\n(1/7)",
             "created_at": "2026-01-09T22:25:22.610Z",
             "author": {
-                "display_name": "JT: paladin enthusiast (surgical hiatus)",
+                "display_name": "JT (paladin enthusiast)",
                 "handle": "yarns-and-d20s.bsky.social",
                 "did": "did:plc:3ajpvlmcknvvbenxwijizg5p"
             },
@@ -2934,7 +2816,7 @@
                     "text": "The recent game award that was revoked from E33 is because the game awards asked, \"Did you use gen AI at any point?\" and Redfall said \"No\", which is a lie; they used it, even if they did discontinue its use. They lied, knowingly or not, and the award was rightly revoked, because no gen AI \n\n(2/7)",
                     "created_at": "2026-01-09T22:25:22.611Z",
                     "author": {
-                        "display_name": "JT: paladin enthusiast (surgical hiatus)",
+                        "display_name": "JT (paladin enthusiast)",
                         "handle": "yarns-and-d20s.bsky.social"
                     },
                     "engagement": {
@@ -3007,6 +2889,28 @@
             },
             "engagement": {
                 "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:xqwhmerd4grgnkmndwyyv3kv/app.bsky.feed.post/3mmghysc6cs2j",
+            "text": " )\n\n2)pasarkerkap= pay sar(Key) rk(kk dd) er = Kap! Cap; \nKerek , eki, ap= 42,  Sardidi!\nSardidi!\n\n3) goenoengsailin\n= Go no oen(games  )English en no oen games (Queen)\n99 no, Gani no ! Gay no oen(games) ex, negs Ex, anger, is business Ai(artificial intelligence) lin! Anger!",
+            "created_at": "2026-05-22T08:05:21.307Z",
+            "author": {
+                "display_name": "Dsards_noodle",
+                "handle": "dsards92.bsky.social",
+                "did": "did:plc:xqwhmerd4grgnkmndwyyv3kv"
+            },
+            "engagement": {
+                "likes": 0,
                 "reposts": 0,
                 "replies": 0,
                 "quotes": 0
@@ -3575,7 +3479,7 @@
             "text": "I don't trust anything ai(aside from NPC artificial intelligence in games as it has been for decades) as so far, every single company engaged with it or making genai/llm is poised to make it for war and killing people.",
             "created_at": "2026-03-10T14:15:06.514Z",
             "author": {
-                "display_name": "Invisible cat (read my bio. Please stop tagging)",
+                "display_name": "Invisible cat (Permanently broke. Can't donate)",
                 "handle": "leonpaws.bsky.social",
                 "did": "did:plc:xaqoyi4r7qad3agskllyp5qf"
             },
@@ -3719,46 +3623,6 @@
                 "display_name": "LLMs",
                 "handle": "llms.activitypub.awakari.com.ap.brid.gy",
                 "did": "did:plc:s33lmvk7rwmlypc2qm6wn2lr"
-            },
-            "engagement": {
-                "likes": 0,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": null
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mejguaqklql2",
-            "text": "Are the Olympics really using ‘AI slop’ to promote the Winter Games? 'The games for human excellence being represented by no-effort, anti-human AI slop.' X users have criticised recent ...\n\n#News #Tech #Artificial #Intelligence #Winter #Olympics\n\nOrigin | Interest | Match",
-            "created_at": "2026-02-10T16:08:00.000Z",
-            "author": {
-                "display_name": "Fortnite",
-                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
-                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
-            },
-            "engagement": {
-                "likes": 0,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": null
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mejrq5ayzxd2",
-            "text": "Are the Olympics really using ‘AI slop’ to promote the Winter Games? 'The games for human excellence being represented by no-effort, anti-human AI slop.' X users have criticised recent ...\n\n#News #Tech #Artificial #Intelligence #Winter #Olympics\n\nOrigin | Interest | Match",
-            "created_at": "2026-02-10T16:08:00.000Z",
-            "author": {
-                "display_name": "Fortnite",
-                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
-                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
             },
             "engagement": {
                 "likes": 0,
