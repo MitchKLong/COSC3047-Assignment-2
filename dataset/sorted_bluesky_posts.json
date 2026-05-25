@@ -11,7 +11,7 @@
             },
             "engagement": {
                 "likes": 7332,
-                "reposts": 1914,
+                "reposts": 1913,
                 "replies": 101,
                 "quotes": 106
             },
@@ -1391,10 +1391,10 @@
                 "did": "did:plc:tgw3d4hvw3x5ijrxax7lg26u"
             },
             "engagement": {
-                "likes": 3583,
-                "reposts": 1163,
+                "likes": 3647,
+                "reposts": 1193,
                 "replies": 52,
-                "quotes": 211
+                "quotes": 214
             },
             "metadata": {
                 "lang": [
@@ -1537,7 +1537,7 @@
                         "handle": "nkalamb.bsky.social"
                     },
                     "engagement": {
-                        "likes": 139,
+                        "likes": 140,
                         "replies": 1,
                         "reposts": 20
                     }
@@ -1789,7 +1789,7 @@
                         "handle": "chadlevinson.com"
                     },
                     "engagement": {
-                        "likes": 18,
+                        "likes": 21,
                         "replies": 1,
                         "reposts": 3
                     }
@@ -1817,7 +1817,7 @@
                         "handle": "lightupfox.bsky.social"
                     },
                     "engagement": {
-                        "likes": 21,
+                        "likes": 22,
                         "replies": 0,
                         "reposts": 0
                     }
@@ -1985,7 +1985,7 @@
                         "handle": "juliaazari.bsky.social"
                     },
                     "engagement": {
-                        "likes": 110,
+                        "likes": 113,
                         "replies": 4,
                         "reposts": 14
                     }
@@ -2027,7 +2027,7 @@
                         "handle": "cmitchellsask.bsky.social"
                     },
                     "engagement": {
-                        "likes": 32,
+                        "likes": 34,
                         "replies": 1,
                         "reposts": 0
                     }
@@ -3093,8 +3093,8 @@
                 "did": "did:plc:ysy6loqxjrtwtqul7x4php7f"
             },
             "engagement": {
-                "likes": 354,
-                "reposts": 69,
+                "likes": 356,
+                "reposts": 70,
                 "replies": 9,
                 "quotes": 1
             },
@@ -3169,7 +3169,7 @@
                         "handle": "woofsalittle.bsky.social"
                     },
                     "engagement": {
-                        "likes": 1,
+                        "likes": 2,
                         "replies": 0,
                         "reposts": 0
                     }
@@ -3305,85 +3305,6 @@
                     },
                     "engagement": {
                         "likes": 2,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
-            "post_id": "at://did:plc:g2vawiicy47fges2xzlaevv3/app.bsky.feed.post/3mlqnxzfjcc24",
-            "text": "Here's my Party Animals review 👎 #AIslop #fuckAI",
-            "created_at": "2026-05-13T15:53:43.413Z",
-            "author": {
-                "display_name": "BixByte",
-                "handle": "bixbyte.bsky.social",
-                "did": "did:plc:g2vawiicy47fges2xzlaevv3"
-            },
-            "engagement": {
-                "likes": 272,
-                "reposts": 110,
-                "replies": 4,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:u4fkjr5aakjklhilokydcxfx/app.bsky.feed.post/3mlqq5brpjc2d",
-                    "text": "Any% speedrun killing all goodwill with your player base",
-                    "created_at": "2026-05-13T16:32:27.457Z",
-                    "author": {
-                        "display_name": "GUTEX",
-                        "handle": "gutex64128.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 7,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:mvs2oxnigpt4uw6r5dp656aa/app.bsky.feed.post/3mlqu6dpzwc2w",
-                    "text": "It was taking up too mich space on my hdd anyway. Uninstalled.",
-                    "created_at": "2026-05-13T17:44:38.021Z",
-                    "author": {
-                        "display_name": "Yuko is back and BLACKER than ever ❤️ 💚 🖤 ✊🏾",
-                        "handle": "blackpanther.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 2,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:gzdbeabwm5tlcwj4p5fs2xjr/app.bsky.feed.post/3mlqqnmbess2l",
-                    "text": "🌪️ they already lost our money to refund when we couldnt even use our everywhere username in it (why the fuck did they need to censor the name \"intaurnet\" anyway????) but this is just vindication for continuing to stay away even after that minor gripe died down.\n\nLike. Fucking lmao",
-                    "created_at": "2026-05-13T16:41:35.328Z",
-                    "author": {
-                        "display_name": "Intaurnet",
-                        "handle": "intaur.net"
-                    },
-                    "engagement": {
-                        "likes": 3,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:acpfere2wwnxa7335lsclwoh/app.bsky.feed.post/3mlt33np3ok2q",
-                    "text": "it's at like 24% now. They absolutely FUCKED it",
-                    "created_at": "2026-05-14T14:53:43.483Z",
-                    "author": {
-                        "display_name": "Venus (Any/All) (£0/£30 for GenderGP shit)",
-                        "handle": "venussystem.myatproto.social"
-                    },
-                    "engagement": {
-                        "likes": 1,
                         "replies": 0,
                         "reposts": 0
                     }
@@ -3555,7 +3476,7 @@
                         "handle": "edzitron.com"
                     },
                     "engagement": {
-                        "likes": 74,
+                        "likes": 75,
                         "replies": 1,
                         "reposts": 8
                     }
@@ -3763,8 +3684,8 @@
                 "did": "did:plc:xrxit4qqdh2ueyw6uynwfzhh"
             },
             "engagement": {
-                "likes": 153,
-                "reposts": 46,
+                "likes": 158,
+                "reposts": 47,
                 "replies": 2,
                 "quotes": 1
             },
@@ -3814,8 +3735,8 @@
                 "did": "did:plc:xrxit4qqdh2ueyw6uynwfzhh"
             },
             "engagement": {
-                "likes": 153,
-                "reposts": 46,
+                "likes": 158,
+                "reposts": 47,
                 "replies": 2,
                 "quotes": 1
             },
@@ -3865,8 +3786,8 @@
                 "did": "did:plc:fzlvgco5ne72wyhzsre4qqge"
             },
             "engagement": {
-                "likes": 140,
-                "reposts": 15,
+                "likes": 143,
+                "reposts": 16,
                 "replies": 1,
                 "quotes": 0
             },
@@ -4272,43 +4193,6 @@
             ]
         },
         {
-            "post_id": "at://did:plc:gyu37737cldtehocmchkyold/app.bsky.feed.post/3mluoruvi7k2f",
-            "text": "Generative AI, AI that writes for you, chatbots, and AI customer service “agents” are bad. \n\nMachine learning used judiciously in everything from medical research to audio mixing tools can be good. But they need to stop shoving the generative crap and chatbots down our throats.",
-            "created_at": "2026-05-15T06:18:50.062Z",
-            "author": {
-                "display_name": "Chuck Taggart, Private Eye",
-                "handle": "sazeracla.bsky.social",
-                "did": "did:plc:gyu37737cldtehocmchkyold"
-            },
-            "engagement": {
-                "likes": 71,
-                "reposts": 1,
-                "replies": 3,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:beuafbzsl63t4seqots65ntz/app.bsky.feed.post/3mlva5z3g5s2j",
-                    "text": "Agreed. The actual use cases are  a fraction of what they’re shoving at us.  For most, it’s a toy. It certainly doesn’t justify the cost or their valuation.  It’s like WeWork.",
-                    "created_at": "2026-05-15T11:29:50.715Z",
-                    "author": {
-                        "display_name": null,
-                        "handle": "lmhinh.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 16,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
             "post_id": "at://did:plc:pnx2fjuannbdpy3337ggthpp/app.bsky.feed.post/3mmhtcig7a22i",
             "text": "immediately he is playing games with framing. It's not mysterious or sinister at all, they leaked because they're being circulated to a larger circle of people as part of the fundraising round. This is not skeptical or objective reporting, just pure spin.",
             "created_at": "2026-05-22T21:00:17.234Z",
@@ -4346,6 +4230,99 @@
             ]
         },
         {
+            "post_id": "at://did:plc:nkatjcr76lx7vwrpvx2bp5jb/app.bsky.feed.post/3mmmqbvhjrs26",
+            "text": "The surrender to “Generative AI” (as its propagandists call it) is degrading, basically, everything that actually advances genuine human self-cultivation: thinking, notvbeing thought for, for a start. It is shading into a surrender of liberty at a very profound level. Just ask any good teacher.",
+            "created_at": "2026-05-24T19:49:34.988Z",
+            "author": {
+                "display_name": "Rick Perlstein",
+                "handle": "rickperlstein.bsky.social",
+                "did": "did:plc:nkatjcr76lx7vwrpvx2bp5jb"
+            },
+            "engagement": {
+                "likes": 68,
+                "reposts": 11,
+                "replies": 5,
+                "quotes": 1
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:xlo4blxjyhiipbwphrw5wtwe/app.bsky.feed.post/3mmmqqetfxs2x",
+                    "text": "Sam Altman can surrender to deez nuts. They can do like the crypto bros and go to jail. their data centers will be hulled and converted to wildlife preserves and homeless shelters.",
+                    "created_at": "2026-05-24T19:57:40.867Z",
+                    "author": {
+                        "display_name": "BlonicYouth",
+                        "handle": "blonicyouth.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:h2zniaohr4inmrzcq6e2onaf/app.bsky.feed.post/3mmmqkmqj6k26",
+                    "text": "Rick - anybody who did any time in the world of computer software knows more about this than they'd like.  We called it 'vaporware'. It's how Micro$erf (& Musk) made money thru massive promises to the US Govt to ensure they'd always have a profit. Other social networks refer to it as 'sucker bait'.",
+                    "created_at": "2026-05-24T19:54:27.835Z",
+                    "author": {
+                        "display_name": "",
+                        "handle": "gwpda.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 3,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:gtcpgzvtw6fbrxt5xs2gqtcr/app.bsky.feed.post/3mmmr6kueq22q",
+                    "text": "There are disturbing aspects of generative ai, but I think portraying its use as some soul corroding act of victimhood is a bit ripe. It has helped me in language translation & reconnecting with overseas friends; it’s superb for math self-study. A lot of reflection goes into writing a good prompt.",
+                    "created_at": "2026-05-24T20:05:36.949Z",
+                    "author": {
+                        "display_name": "Shannon",
+                        "handle": "swalkthewalk.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:dfvyrrlgkmjwm2eduwpzbrqs/app.bsky.feed.post/3mmmqvdbk4c2o",
+                    "text": "\"It is shading into a surrender of liberty at a very profound level.\"\n\nShading? More like an enthusiastic bellyflop.",
+                    "created_at": "2026-05-24T20:00:27.005Z",
+                    "author": {
+                        "display_name": "Peter Principle",
+                        "handle": "peterprinciple.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:7tvymumxsrpkiwsrbdmdspgw/app.bsky.feed.post/3mmmtusrfb22e",
+                    "text": "Generative AI is just fancy plagiarism and fantasies, knows how to format a citation so invents them, doesn't know how to do research, lack of critical thinking, just regurgitation.",
+                    "created_at": "2026-05-24T20:53:50.925Z",
+                    "author": {
+                        "display_name": "ChainSmokingNihilist",
+                        "handle": "zavanova.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
             "post_id": "at://did:plc:m2qptvt67zm7mq4knfybbo2o/app.bsky.feed.post/3mlmhvag7h22h",
             "text": "He probably moved the goalpost to \"90% of games in 5 years will be made with [Generative] AI\" by now",
             "created_at": "2026-05-11T23:54:08.709Z",
@@ -4357,28 +4334,6 @@
             "engagement": {
                 "likes": 64,
                 "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:r7ro6b43nx6lojm4vu2d6eyt/app.bsky.feed.post/3mlqsgavrgs2h",
-            "text": "And my negative feedback has been posted. Feel free to join me if you own the game! store.steampowered.com/app/1260320/...",
-            "created_at": "2026-05-13T17:13:16.016Z",
-            "author": {
-                "display_name": "Temiree 🌱🦦",
-                "handle": "temiree.bsky.social",
-                "did": "did:plc:r7ro6b43nx6lojm4vu2d6eyt"
-            },
-            "engagement": {
-                "likes": 63,
-                "reposts": 6,
                 "replies": 0,
                 "quotes": 0
             },
@@ -4602,7 +4557,7 @@
                     "created_at": "2026-02-12T14:18:59.774Z",
                     "author": {
                         "display_name": "Lizzy",
-                        "handle": "lizbeanz.bsky.social"
+                        "handle": "ditherwitch.bsky.social"
                     },
                     "engagement": {
                         "likes": 2,
@@ -4804,17 +4759,17 @@
             ]
         },
         {
-            "post_id": "at://did:plc:654hqjjpmak2ni6h674fnucj/app.bsky.feed.post/3mm2ymla2ks2k",
-            "text": "If 'artist's block' is your reason/justification/excuse for using generative AI to make work then you are completely missing the point. You have to work at your craft, being good isn't a 'right' it's the result of putting the hundreds of hours in working to build those skills.",
-            "created_at": "2026-05-17T18:30:47.999Z",
+            "post_id": "at://did:plc:yr4nnpwc5ppz3scr72utzq25/app.bsky.feed.post/3mmieur73ps2y",
+            "text": "Ah yes, generative AI. Formerly known as \"deep fake\" technology.\n\nI've seen broadcast news reporters do pieces on companies that were building deep-fake technology, but I never once saw a reporter ask: \n\n\"So... How is deep-fake technology helpful? How does it serve the public good?\"\n\n(It doesn't)",
+            "created_at": "2026-05-23T02:14:44.195Z",
             "author": {
-                "display_name": "Marc Laming all singing, all dancing comics guy.",
-                "handle": "marclaming.bsky.social",
-                "did": "did:plc:654hqjjpmak2ni6h674fnucj"
+                "display_name": "Ben Ricchio",
+                "handle": "benricchio.bsky.social",
+                "did": "did:plc:yr4nnpwc5ppz3scr72utzq25"
             },
             "engagement": {
                 "likes": 49,
-                "reposts": 10,
+                "reposts": 6,
                 "replies": 0,
                 "quotes": 0
             },
@@ -4826,17 +4781,17 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:yr4nnpwc5ppz3scr72utzq25/app.bsky.feed.post/3mmieur73ps2y",
-            "text": "Ah yes, generative AI. Formerly known as \"deep fake\" technology.\n\nI've seen broadcast news reporters do pieces on companies that were building deep-fake technology, but I never once saw a reporter ask: \n\n\"So... How is deep-fake technology helpful? How does it serve the public good?\"\n\n(It doesn't)",
-            "created_at": "2026-05-23T02:14:44.195Z",
+            "post_id": "at://did:plc:654hqjjpmak2ni6h674fnucj/app.bsky.feed.post/3mm2ymla2ks2k",
+            "text": "If 'artist's block' is your reason/justification/excuse for using generative AI to make work then you are completely missing the point. You have to work at your craft, being good isn't a 'right' it's the result of putting the hundreds of hours in working to build those skills.",
+            "created_at": "2026-05-17T18:30:47.999Z",
             "author": {
-                "display_name": "Ben Ricchio",
-                "handle": "benricchio.bsky.social",
-                "did": "did:plc:yr4nnpwc5ppz3scr72utzq25"
+                "display_name": "Marc Laming all singing, all dancing comics guy.",
+                "handle": "marclaming.bsky.social",
+                "did": "did:plc:654hqjjpmak2ni6h674fnucj"
             },
             "engagement": {
-                "likes": 48,
-                "reposts": 6,
+                "likes": 49,
+                "reposts": 10,
                 "replies": 0,
                 "quotes": 0
             },
@@ -5057,85 +5012,6 @@
             ]
         },
         {
-            "post_id": "at://did:plc:4ryg6dat2jzjyjl5mosswfgl/app.bsky.feed.post/3mltxobrbn22i",
-            "text": "I kind of just don't care one way or the other at this point, but I do dislike calling the Mario Movies \"AI generated\" when Illumination is one of the few big-name, Hollywood studios I can even name that have been *openly against* generative AI.\n\nDoesn't mean it's *good*, it just feels desperate.",
-            "created_at": "2026-05-14T23:25:13.276Z",
-            "author": {
-                "display_name": "sleepr",
-                "handle": "sleeprhit.bsky.social",
-                "did": "did:plc:4ryg6dat2jzjyjl5mosswfgl"
-            },
-            "engagement": {
-                "likes": 42,
-                "reposts": 15,
-                "replies": 4,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:uhihhbysw6hovryk2l2m2ysu/app.bsky.feed.post/3mltyklms7s2m",
-                    "text": "For as much flack as the animation fandom gives them, at least Illumination has enough integrity to not rely on ai manufactured production for their films.",
-                    "created_at": "2026-05-14T23:41:03.140Z",
-                    "author": {
-                        "display_name": "Jaelen Cole",
-                        "handle": "jaelencole.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 3,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:ipy5houvy6vhde6urgytess4/app.bsky.feed.post/3mm3v6fyq7s25",
-                    "text": "I hate when people use the term \"Ai Generated\" to mean \"thing I don't like\"\n\nlike not only does it dismiss the artistic value in it, but it also makes it seem like the people who worked on it didn't do anything of value on top of that.",
-                    "created_at": "2026-05-18T03:01:51.268Z",
-                    "author": {
-                        "display_name": "Miles Games (Moxxie)",
-                        "handle": "milesgames.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 13,
-                        "replies": 1,
-                        "reposts": 4
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:atuyn4swdrgs4hjf5ulqht3y/app.bsky.feed.post/3mm2o5wdxws2a",
-                    "text": "The Mario movies are very safe and the Galaxy movie was disappointing and disjointed but it has far more artistic value than anything AI could shit out.",
-                    "created_at": "2026-05-17T15:23:38.926Z",
-                    "author": {
-                        "display_name": "Mario123311",
-                        "handle": "mario123311.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 5,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:5qbtttqve4jl7wqksc3zuhor/app.bsky.feed.post/3mm3wn3tyd22l",
-                    "text": "Calling the movie \"AI generated\" pales in comparison to asking \"What's the theme of the movie\" because that's a real critic that strikes at the very heart of what makes a story",
-                    "created_at": "2026-05-18T03:27:57.684Z",
-                    "author": {
-                        "display_name": "Vee",
-                        "handle": "supersquidoodle.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 1,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
             "post_id": "at://did:plc:knzdyfqr7qz3mgjsxf4wiinb/app.bsky.feed.post/3mahjpre2ms2h",
             "text": "I'm glad Sandfall finally explained the AI generated textures in Clair Obscur: Expedition 33.\n\nI really, really wish they hadn't waited for 8 months to do so, and may not have done so at all if the IGA's hadn't pulled their GotY award. That level of silence speaks volumes.",
             "created_at": "2025-12-21T01:06:26.022Z",
@@ -5215,43 +5091,6 @@
             ]
         },
         {
-            "post_id": "at://did:plc:oq3sjjfolewfhbzuhmwordhw/app.bsky.feed.post/3mlbkgl5opk2x",
-            "text": "not that I'm buying too many games these days (especially new releases) but if I hear generative AI has been used in ANY POINT of your games development, straight to the trash pile and I'm never buying from your studio",
-            "created_at": "2026-05-07T15:40:20.751Z",
-            "author": {
-                "display_name": "Jing - Commissions Open",
-                "handle": "jingbear.bsky.social",
-                "did": "did:plc:oq3sjjfolewfhbzuhmwordhw"
-            },
-            "engagement": {
-                "likes": 39,
-                "reposts": 12,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:hov3rletc4xbrmhokebjfjo5/app.bsky.feed.post/3mlbq5xp2fs2c",
-                    "text": "A-fucking-men, man.\nLike, what part of 'Do Not the Torment Nexus' do people not get, seriously?",
-                    "created_at": "2026-05-07T17:22:54.363Z",
-                    "author": {
-                        "display_name": "Red Winterwolf",
-                        "handle": "redwinterwolf.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 1,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
             "post_id": "at://did:plc:k6jfo5phiaajpmqtxwxju7g3/app.bsky.feed.post/3mlzfw4q6jk2h",
             "text": "🧵 Educational thread about Gen AI vs. other types of AI!\nI've seen a lot of misinformation circling so I wanted to make a thread, since I work in games and have learned about different types of AI!\nFirst thing, not all AI is Generative AI!\n(1/17)",
             "created_at": "2026-05-17T03:23:27.511Z",
@@ -5261,8 +5100,8 @@
                 "did": "did:plc:k6jfo5phiaajpmqtxwxju7g3"
             },
             "engagement": {
-                "likes": 38,
-                "reposts": 16,
+                "likes": 39,
+                "reposts": 17,
                 "replies": 3,
                 "quotes": 0
             },
@@ -5311,6 +5150,43 @@
                     "engagement": {
                         "likes": 4,
                         "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:oq3sjjfolewfhbzuhmwordhw/app.bsky.feed.post/3mlbkgl5opk2x",
+            "text": "not that I'm buying too many games these days (especially new releases) but if I hear generative AI has been used in ANY POINT of your games development, straight to the trash pile and I'm never buying from your studio",
+            "created_at": "2026-05-07T15:40:20.751Z",
+            "author": {
+                "display_name": "Jing - Commissions Open",
+                "handle": "jingbear.bsky.social",
+                "did": "did:plc:oq3sjjfolewfhbzuhmwordhw"
+            },
+            "engagement": {
+                "likes": 39,
+                "reposts": 12,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:hov3rletc4xbrmhokebjfjo5/app.bsky.feed.post/3mlbq5xp2fs2c",
+                    "text": "A-fucking-men, man.\nLike, what part of 'Do Not the Torment Nexus' do people not get, seriously?",
+                    "created_at": "2026-05-07T17:22:54.363Z",
+                    "author": {
+                        "display_name": "Red Winterwolf",
+                        "handle": "redwinterwolf.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
                         "reposts": 0
                     }
                 }
@@ -5376,6 +5252,43 @@
                     "engagement": {
                         "likes": 3,
                         "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:rnqxosmjhw435i7mpakpajhl/app.bsky.feed.post/3mmhgsjpr4c27",
+            "text": "This is a super helpful primer on AI myths. I especially like this response to the hype that workers need to learn AI as a \"necessary skill for all jobs\": \"Generative AI tools deskill workers by reducing their work to closely supervising bad outputs & by decreasing learning on the job.\"",
+            "created_at": "2026-05-22T17:16:36.989Z",
+            "author": {
+                "display_name": "Lisa Diedrich",
+                "handle": "lisadiedrich.bsky.social",
+                "did": "did:plc:rnqxosmjhw435i7mpakpajhl"
+            },
+            "engagement": {
+                "likes": 36,
+                "reposts": 21,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:m4fvxlyv4gqpugzszzp4cjxf/app.bsky.feed.post/3mmhguywjg22j",
+                    "text": "Thank you!",
+                    "created_at": "2026-05-22T17:18:00.049Z",
+                    "author": {
+                        "display_name": "Alex Hanna",
+                        "handle": "alexhanna.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 1,
                         "reposts": 0
                     }
                 }
@@ -5825,6 +5738,80 @@
             ]
         },
         {
+            "post_id": "at://did:plc:fxutyp5yzfrevi4vqit6ei6v/app.bsky.feed.post/3mmgxibbxyc25",
+            "text": "Something I've been meaning to do for a while, have put up a couple statements of ethics on @daikon.games website. This includes my stance on AI in games (or my stance against it rather!)\n\nI like the idea of having it written out somewhere \n#indiegames #gamedev\n\ndaikon.games/ethics.html",
+            "created_at": "2026-05-22T12:42:26.476Z",
+            "author": {
+                "display_name": "Nick V (get Chico's Rebound!)",
+                "handle": "nickvv.me",
+                "did": "did:plc:fxutyp5yzfrevi4vqit6ei6v"
+            },
+            "engagement": {
+                "likes": 27,
+                "reposts": 11,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:zg2cldonpbgfa6d4wczbvjpm/app.bsky.feed.post/3mmmyo4n5ns24",
+                    "text": "Booyah. Thank you for your standard. +1 token’O’respect",
+                    "created_at": "2026-05-24T22:19:35.099Z",
+                    "author": {
+                        "display_name": "Joshua Ward",
+                        "handle": "joshuaward.roomy.chat"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:fxutyp5yzfrevi4vqit6ei6v/app.bsky.feed.post/3mmgxibbxyc25",
+            "text": "Something I've been meaning to do for a while, have put up a couple statements of ethics on @daikon.games website. This includes my stance on AI in games (or my stance against it rather!)\n\nI like the idea of having it written out somewhere \n#indiegames #gamedev\n\ndaikon.games/ethics.html",
+            "created_at": "2026-05-22T12:42:26.476Z",
+            "author": {
+                "display_name": "Nick V (get Chico's Rebound!)",
+                "handle": "nickvv.me",
+                "did": "did:plc:fxutyp5yzfrevi4vqit6ei6v"
+            },
+            "engagement": {
+                "likes": 27,
+                "reposts": 11,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:zg2cldonpbgfa6d4wczbvjpm/app.bsky.feed.post/3mmmyo4n5ns24",
+                    "text": "Booyah. Thank you for your standard. +1 token’O’respect",
+                    "created_at": "2026-05-24T22:19:35.099Z",
+                    "author": {
+                        "display_name": "Joshua Ward",
+                        "handle": "joshuaward.roomy.chat"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
             "post_id": "at://did:plc:mencpxk4spd3xn3qotwkyyqf/app.bsky.feed.post/3mmeqt3yyjc2i",
             "text": "Today is a good day to follow news outlets that take a stand against Generative AI slop:\n\ngo.bsky.app/8cn1XfT/",
             "created_at": "2026-05-21T15:37:54.369Z",
@@ -5869,50 +5856,6 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:fxutyp5yzfrevi4vqit6ei6v/app.bsky.feed.post/3mmgxibbxyc25",
-            "text": "Something I've been meaning to do for a while, have put up a couple statements of ethics on @daikon.games website. This includes my stance on AI in games (or my stance against it rather!)\n\nI like the idea of having it written out somewhere \n#indiegames #gamedev\n\ndaikon.games/ethics.html",
-            "created_at": "2026-05-22T12:42:26.476Z",
-            "author": {
-                "display_name": "Nick V (get Chico's Rebound!)",
-                "handle": "nickvv.me",
-                "did": "did:plc:fxutyp5yzfrevi4vqit6ei6v"
-            },
-            "engagement": {
-                "likes": 26,
-                "reposts": 10,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:fxutyp5yzfrevi4vqit6ei6v/app.bsky.feed.post/3mmgxibbxyc25",
-            "text": "Something I've been meaning to do for a while, have put up a couple statements of ethics on @daikon.games website. This includes my stance on AI in games (or my stance against it rather!)\n\nI like the idea of having it written out somewhere \n#indiegames #gamedev\n\ndaikon.games/ethics.html",
-            "created_at": "2026-05-22T12:42:26.476Z",
-            "author": {
-                "display_name": "Nick V (get Chico's Rebound!)",
-                "handle": "nickvv.me",
-                "did": "did:plc:fxutyp5yzfrevi4vqit6ei6v"
-            },
-            "engagement": {
-                "likes": 26,
-                "reposts": 10,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
             "post_id": "at://did:plc:33wdmcwpkvsckk4sqcnsav42/app.bsky.feed.post/3mm7offrf522a",
             "text": "As Steam early access sensation Far Far West sells over 1 million copies in three weeks, publisher Fireshine Games rejects generative AI www.eurogamer.net/far-far-west...",
             "created_at": "2026-05-19T15:11:08.668Z",
@@ -5933,6 +5876,43 @@
                 ]
             },
             "comments": []
+        },
+        {
+            "post_id": "at://did:plc:mencpxk4spd3xn3qotwkyyqf/app.bsky.feed.post/3mmlbiyd27c2a",
+            "text": "Was at my home church for the first time in two years. \n\nThe good: today's message on the unconventional resistance of Ehud was an incredibly deep and timely pull\n\nThe ?????: church leadership has embraced Generative AI and is offering courses to kids and administrators 🫠🫠🫠",
+            "created_at": "2026-05-24T05:52:27.001Z",
+            "author": {
+                "display_name": "Alex Ip 葉清霖",
+                "handle": "alexip718.com",
+                "did": "did:plc:mencpxk4spd3xn3qotwkyyqf"
+            },
+            "engagement": {
+                "likes": 26,
+                "reposts": 1,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:trqqcu6a3xwkmserqrohveu5/app.bsky.feed.post/3mmlbl35ulk2p",
+                    "text": "WWGPTD?",
+                    "created_at": "2026-05-24T05:53:37.087Z",
+                    "author": {
+                        "display_name": "Hunter Walker",
+                        "handle": "hunterw.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 8,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
         },
         {
             "post_id": "at://did:plc:kdc4cspp6gfoxl6rwme6m2aw/app.bsky.feed.post/3mmd7mvmz5c22",
@@ -5988,7 +5968,44 @@
                 "did": "did:plc:66lbtw2porscqpmair6mir37"
             },
             "engagement": {
-                "likes": 23,
+                "likes": 24,
+                "reposts": 5,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:tcdaadfufoudfaqxew3odgyi/app.bsky.feed.post/3mmk2odntkk2o",
+                    "text": "Such an important point.\nWhat do we mean by AI?\n\n\"most of the ‘benefit’ tends to relate to older, smaller and leaner forms of machine learning, what has been called ‘traditional AI’, while we also know that most of the new harm is likely stemming from consumer generative AI over-deployment.\"",
+                    "created_at": "2026-05-23T18:17:30.731Z",
+                    "author": {
+                        "display_name": "Jeff Young",
+                        "handle": "jefftheyoung.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 14,
+                        "replies": 1,
+                        "reposts": 2
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:66lbtw2porscqpmair6mir37/app.bsky.feed.post/3mmjzqqm7bs26",
+            "text": "Without taking away from the work of these students, we published an analysis recently that highlighted how the phrase \"AI\" can often tar good work with the bad habits of big tech. \n\nThe general term can sound as strange as \"can transport help the climate crisis\"\n\nketanjoshi.co/2026/02/17/b...",
+            "created_at": "2026-05-23T18:00:57.675Z",
+            "author": {
+                "display_name": "Ketan Joshi",
+                "handle": "ketanjoshi.co",
+                "did": "did:plc:66lbtw2porscqpmair6mir37"
+            },
+            "engagement": {
+                "likes": 24,
                 "reposts": 5,
                 "replies": 1,
                 "quotes": 0
@@ -6036,43 +6053,6 @@
                 ]
             },
             "comments": []
-        },
-        {
-            "post_id": "at://did:plc:66lbtw2porscqpmair6mir37/app.bsky.feed.post/3mmjzqqm7bs26",
-            "text": "Without taking away from the work of these students, we published an analysis recently that highlighted how the phrase \"AI\" can often tar good work with the bad habits of big tech. \n\nThe general term can sound as strange as \"can transport help the climate crisis\"\n\nketanjoshi.co/2026/02/17/b...",
-            "created_at": "2026-05-23T18:00:57.675Z",
-            "author": {
-                "display_name": "Ketan Joshi",
-                "handle": "ketanjoshi.co",
-                "did": "did:plc:66lbtw2porscqpmair6mir37"
-            },
-            "engagement": {
-                "likes": 23,
-                "reposts": 5,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:tcdaadfufoudfaqxew3odgyi/app.bsky.feed.post/3mmk2odntkk2o",
-                    "text": "Such an important point.\nWhat do we mean by AI?\n\n\"most of the ‘benefit’ tends to relate to older, smaller and leaner forms of machine learning, what has been called ‘traditional AI’, while we also know that most of the new harm is likely stemming from consumer generative AI over-deployment.\"",
-                    "created_at": "2026-05-23T18:17:30.731Z",
-                    "author": {
-                        "display_name": "Jeff Young",
-                        "handle": "jefftheyoung.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 14,
-                        "replies": 1,
-                        "reposts": 2
-                    }
-                }
-            ]
         },
         {
             "post_id": "at://did:plc:rks4wxn7oc4citjsigvoc6tt/app.bsky.feed.post/3mm7weaf5b22o",
@@ -6255,18 +6235,18 @@
             ]
         },
         {
-            "post_id": "at://did:plc:mencpxk4spd3xn3qotwkyyqf/app.bsky.feed.post/3mmlbiyd27c2a",
-            "text": "Was at my home church for the first time in two years. \n\nThe good: today's message on the unconventional resistance of Ehud was an incredibly deep and timely pull\n\nThe ?????: church leadership has embraced Generative AI and is offering courses to kids and administrators 🫠🫠🫠",
-            "created_at": "2026-05-24T05:52:27.001Z",
+            "post_id": "at://did:plc:vitjby2yukz3hm5w2s3dzua3/app.bsky.feed.post/3mmhs2ztlgs2c",
+            "text": "Games are cool. Even if I don't like the way a specific game does something, the game is still cool.\n\nWe all have preferences about playstyles and aesthetics and should choose to play games that fit those preferences.\n\nSo long as a game isn't 1) hateful/bigoted or 2) AI slop, it's cool in my book.",
+            "created_at": "2026-05-22T20:38:13.488Z",
             "author": {
-                "display_name": "Alex Ip 葉清霖",
-                "handle": "alexip718.com",
-                "did": "did:plc:mencpxk4spd3xn3qotwkyyqf"
+                "display_name": "Josh Simons",
+                "handle": "joshuamsimons.com",
+                "did": "did:plc:vitjby2yukz3hm5w2s3dzua3"
             },
             "engagement": {
-                "likes": 22,
-                "reposts": 1,
-                "replies": 1,
+                "likes": 21,
+                "reposts": 3,
+                "replies": 0,
                 "quotes": 0
             },
             "metadata": {
@@ -6274,22 +6254,7 @@
                     "en"
                 ]
             },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:trqqcu6a3xwkmserqrohveu5/app.bsky.feed.post/3mmlbl35ulk2p",
-                    "text": "WWGPTD?",
-                    "created_at": "2026-05-24T05:53:37.087Z",
-                    "author": {
-                        "display_name": "Hunter Walker",
-                        "handle": "hunterw.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 5,
-                        "replies": 1,
-                        "reposts": 0
-                    }
-                }
-            ]
+            "comments": []
         },
         {
             "post_id": "at://did:plc:bfmlb2jbmqbki3tyupxenxhj/app.bsky.feed.post/3mksg4egvsc2m",
@@ -6351,28 +6316,6 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:vitjby2yukz3hm5w2s3dzua3/app.bsky.feed.post/3mmhs2ztlgs2c",
-            "text": "Games are cool. Even if I don't like the way a specific game does something, the game is still cool.\n\nWe all have preferences about playstyles and aesthetics and should choose to play games that fit those preferences.\n\nSo long as a game isn't 1) hateful/bigoted or 2) AI slop, it's cool in my book.",
-            "created_at": "2026-05-22T20:38:13.488Z",
-            "author": {
-                "display_name": "Josh Simons",
-                "handle": "joshuamsimons.com",
-                "did": "did:plc:vitjby2yukz3hm5w2s3dzua3"
-            },
-            "engagement": {
-                "likes": 20,
-                "reposts": 3,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
             "post_id": "at://did:plc:33wdmcwpkvsckk4sqcnsav42/app.bsky.feed.post/3mmcj7zynnc2g",
             "text": "Ubisoft confirms new Assassin's Creed, Far Cry, and Ghost Recon games coming before April 2029, as it 'accelerates' investment in first playable generative AI \"experience\"\n\nwww.eurogamer.net/ubisoft-new-...",
             "created_at": "2026-05-20T18:16:39.034Z",
@@ -6382,7 +6325,7 @@
                 "did": "did:plc:33wdmcwpkvsckk4sqcnsav42"
             },
             "engagement": {
-                "likes": 19,
+                "likes": 20,
                 "reposts": 2,
                 "replies": 11,
                 "quotes": 24
@@ -6398,7 +6341,7 @@
                     "text": "womp womp\n\nenjoy bankrupcy",
                     "created_at": "2026-05-20T18:25:41.438Z",
                     "author": {
-                        "display_name": "X and Meta are for stooges; I boycott twitter and facebook",
+                        "display_name": "You guys have caturday, I'm more of a Dogunday person",
                         "handle": "ceu---azul.bsky.social"
                     },
                     "engagement": {
@@ -6548,6 +6491,50 @@
                     }
                 }
             ]
+        },
+        {
+            "post_id": "at://did:plc:cqhuivxrwyy6dkbojlh5mgt5/app.bsky.feed.post/3mmmgpgs3j22i",
+            "text": "Generative AI is destroying the baseline assumption that photographs bear some causal connection to reality. That's bad news for democracy.",
+            "created_at": "2026-05-24T16:58:11.948Z",
+            "author": {
+                "display_name": "Stardust 🌏🎬",
+                "handle": "stardustbluepr.com",
+                "did": "did:plc:cqhuivxrwyy6dkbojlh5mgt5"
+            },
+            "engagement": {
+                "likes": 20,
+                "reposts": 7,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:mencpxk4spd3xn3qotwkyyqf/app.bsky.feed.post/3mmde3cqdqs26",
+            "text": "Today is a good day to follow news outlets that take a stand against Generative AI slop.\n\n@karenhao.bsky.social would you please consider adding this to the project list?\n\ngo.bsky.app/8cn1XfT",
+            "created_at": "2026-05-21T02:17:11.477Z",
+            "author": {
+                "display_name": "Alex Ip 葉清霖",
+                "handle": "alexip718.com",
+                "did": "did:plc:mencpxk4spd3xn3qotwkyyqf"
+            },
+            "engagement": {
+                "likes": 19,
+                "reposts": 5,
+                "replies": 0,
+                "quotes": 1
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
         },
         {
             "post_id": "at://did:plc:yjzbwtf5ikxxifew7yrycxff/app.bsky.feed.post/3mm7kuwo6mk2n",
@@ -6711,43 +6698,6 @@
                     "engagement": {
                         "likes": 1,
                         "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
-            "post_id": "at://did:plc:rnqxosmjhw435i7mpakpajhl/app.bsky.feed.post/3mmhgsjpr4c27",
-            "text": "This is a super helpful primer on AI myths. I especially like this response to the hype that workers need to learn AI as a \"necessary skill for all jobs\": \"Generative AI tools deskill workers by reducing their work to closely supervising bad outputs & by decreasing learning on the job.\"",
-            "created_at": "2026-05-22T17:16:36.989Z",
-            "author": {
-                "display_name": "Lisa Diedrich",
-                "handle": "lisadiedrich.bsky.social",
-                "did": "did:plc:rnqxosmjhw435i7mpakpajhl"
-            },
-            "engagement": {
-                "likes": 18,
-                "reposts": 10,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:m4fvxlyv4gqpugzszzp4cjxf/app.bsky.feed.post/3mmhguywjg22j",
-                    "text": "Thank you!",
-                    "created_at": "2026-05-22T17:18:00.049Z",
-                    "author": {
-                        "display_name": "Alex Hanna",
-                        "handle": "alexhanna.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 2,
-                        "replies": 1,
                         "reposts": 0
                     }
                 }
@@ -7140,6 +7090,65 @@
             ]
         },
         {
+            "post_id": "at://did:plc:rvbzfftc4t73u6ox2xipo5xn/app.bsky.feed.post/3mmanycxamc2e",
+            "text": "I can't wait for generative AI to suffer a miserable death and it's corpse to rot forever upon the pile of bad failure tech",
+            "created_at": "2026-05-20T00:36:29.245Z",
+            "author": {
+                "display_name": "Amazon Piss Jugs",
+                "handle": "amazonpissjugs.bsky.social",
+                "did": "did:plc:rvbzfftc4t73u6ox2xipo5xn"
+            },
+            "engagement": {
+                "likes": 16,
+                "reposts": 4,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:ysze52cguqe4vxeowp3fvklz/app.bsky.feed.post/3mmao4xjq622w",
+                    "text": "AI could kill us all. Look at \"Skynet\" in the \"Terminator\" movies. Or, short of that, AI could make its owners rich and the rest of us unemployed and starving.",
+                    "created_at": "2026-05-20T00:39:05.040Z",
+                    "author": {
+                        "display_name": "Keep it short and simple.",
+                        "handle": "leftymathprof.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:f7lutlq6lqullov26tcnjonn/app.bsky.feed.post/3mmkvxl4i5c25",
+            "text": "Internet was about people contacting each other, sharing information with each other, playing games with each other, Shari g their creations, getting snapshots into other places and other people's lives, even selling to each other. Now they're making it about AI slop and bots",
+            "created_at": "2026-05-24T02:25:51.570Z",
+            "author": {
+                "display_name": "Kimmylea",
+                "handle": "kimmylea.bsky.social",
+                "did": "did:plc:f7lutlq6lqullov26tcnjonn"
+            },
+            "engagement": {
+                "likes": 16,
+                "reposts": 3,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
             "post_id": "at://did:plc:bfmlb2jbmqbki3tyupxenxhj/app.bsky.feed.post/3mg6tmmdeqk2f",
             "text": "Traveler- The AI Story\nYocat Games\n\nNo Steam disclosure but boasts about the use of Gen AI all over the store page. This entire \"game\" is AI.\nstore.steampowered.com/app/2216270/...\n-E",
             "created_at": "2026-03-03T22:40:49.634Z",
@@ -7182,39 +7191,17 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:mencpxk4spd3xn3qotwkyyqf/app.bsky.feed.post/3mmde3cqdqs26",
-            "text": "Today is a good day to follow news outlets that take a stand against Generative AI slop.\n\n@karenhao.bsky.social would you please consider adding this to the project list?\n\ngo.bsky.app/8cn1XfT",
-            "created_at": "2026-05-21T02:17:11.477Z",
+            "post_id": "at://did:plc:efjj7pzgvsvg44uxv5vtryhe/app.bsky.feed.post/3mmmtsut6ls2b",
+            "text": "I am so tierd of having to keep arguing with people why generative AI is bad only for them to draw stupid strawman arguments like\n\n\" Well if you care about the environment why are you playing WoW ?? That use energy and electricity too! Hypocrite!\"",
+            "created_at": "2026-05-24T20:52:45.970Z",
             "author": {
-                "display_name": "Alex Ip 葉清霖",
-                "handle": "alexip718.com",
-                "did": "did:plc:mencpxk4spd3xn3qotwkyyqf"
+                "display_name": "LittleViking",
+                "handle": "littleviking.bsky.social",
+                "did": "did:plc:efjj7pzgvsvg44uxv5vtryhe"
             },
             "engagement": {
                 "likes": 15,
-                "reposts": 4,
-                "replies": 0,
-                "quotes": 1
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:rvbzfftc4t73u6ox2xipo5xn/app.bsky.feed.post/3mmanycxamc2e",
-            "text": "I can't wait for generative AI to suffer a miserable death and it's corpse to rot forever upon the pile of bad failure tech",
-            "created_at": "2026-05-20T00:36:29.245Z",
-            "author": {
-                "display_name": "Amazon Piss Jugs",
-                "handle": "amazonpissjugs.bsky.social",
-                "did": "did:plc:rvbzfftc4t73u6ox2xipo5xn"
-            },
-            "engagement": {
-                "likes": 15,
-                "reposts": 4,
+                "reposts": 0,
                 "replies": 1,
                 "quotes": 0
             },
@@ -7225,15 +7212,15 @@
             },
             "comments": [
                 {
-                    "reply_id": "at://did:plc:ysze52cguqe4vxeowp3fvklz/app.bsky.feed.post/3mmao4xjq622w",
-                    "text": "AI could kill us all. Look at \"Skynet\" in the \"Terminator\" movies. Or, short of that, AI could make its owners rich and the rest of us unemployed and starving.",
-                    "created_at": "2026-05-20T00:39:05.040Z",
+                    "reply_id": "at://did:plc:efjj7pzgvsvg44uxv5vtryhe/app.bsky.feed.post/3mmmtvx4kws2b",
+                    "text": "Even worse when they ask first\n\" Why is AI bad??\"\nMaking me think they genuinely wanna learn and find out why, but nope, they just wanna argue.\n\nThey could have just not interacted if they are so set in their ways but nope...",
+                    "created_at": "2026-05-24T20:54:29.039Z",
                     "author": {
-                        "display_name": "Keep it short and simple.",
-                        "handle": "leftymathprof.bsky.social"
+                        "display_name": "LittleViking",
+                        "handle": "littleviking.bsky.social"
                     },
                     "engagement": {
-                        "likes": 1,
+                        "likes": 8,
                         "replies": 0,
                         "reposts": 0
                     }
@@ -7472,6 +7459,28 @@
                     }
                 }
             ]
+        },
+        {
+            "post_id": "at://did:plc:5vmvghvinjsrqytfutjbewrp/app.bsky.feed.post/3mmn4wmrakc2l",
+            "text": "Yeah I don't give a shit who they are, if I see someone 'just' using AI for something minor it's still bad. I literally know people who have lost jobs because of generative AI bullshit",
+            "created_at": "2026-05-24T23:35:55.414Z",
+            "author": {
+                "display_name": "Zenny",
+                "handle": "clubzenny.bsky.social",
+                "did": "did:plc:5vmvghvinjsrqytfutjbewrp"
+            },
+            "engagement": {
+                "likes": 13,
+                "reposts": 2,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
         },
         {
             "post_id": "at://did:plc:gsky3wmjixg6aikpv3lnbzay/app.bsky.feed.post/3mm3lbvj2y226",
@@ -7734,28 +7743,6 @@
                     }
                 }
             ]
-        },
-        {
-            "post_id": "at://did:plc:f7lutlq6lqullov26tcnjonn/app.bsky.feed.post/3mmkvxl4i5c25",
-            "text": "Internet was about people contacting each other, sharing information with each other, playing games with each other, Shari g their creations, getting snapshots into other places and other people's lives, even selling to each other. Now they're making it about AI slop and bots",
-            "created_at": "2026-05-24T02:25:51.570Z",
-            "author": {
-                "display_name": "Kimmylea",
-                "handle": "kimmylea.bsky.social",
-                "did": "did:plc:f7lutlq6lqullov26tcnjonn"
-            },
-            "engagement": {
-                "likes": 11,
-                "reposts": 3,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
         },
         {
             "post_id": "at://did:plc:xyya7g76wtqdb3zidfamujpt/app.bsky.feed.post/3mgnaryhzak2v",
@@ -8181,6 +8168,57 @@
             "comments": []
         },
         {
+            "post_id": "at://did:plc:4tpk4b3oav4fbbfnpvs32ede/app.bsky.feed.post/3mlvs3hlyt22i",
+            "text": "\"The AI Bill of Rights has become one kind of infrastructure, diffuse and informal, but generative.\" \nBad administrations can repeal good policies, but they can't stop others building on them. Superb piece, @alondra.bsky.social",
+            "created_at": "2026-05-15T16:50:32.627Z",
+            "author": {
+                "display_name": "Jack Stilgoe",
+                "handle": "jackstilgoe.bsky.social",
+                "did": "did:plc:4tpk4b3oav4fbbfnpvs32ede"
+            },
+            "engagement": {
+                "likes": 9,
+                "reposts": 4,
+                "replies": 2,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:mdpn2zrsfehvjxorietjagwk/app.bsky.feed.post/3mmmns3nzvc2v",
+                    "text": "Thanks! It was a thoughtful article. Having seen some of the challenges of algorithm-driven decision-making firsthand, I hope the safeguards, transparency, and real-world impacts of AI continue to be carefully scrutinized and weighed, regardless of who is in leadership.",
+                    "created_at": "2026-05-24T19:04:57.138Z",
+                    "author": {
+                        "display_name": "CoyoteWrites",
+                        "handle": "coyotewrites.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:jwiu7iyac6pi3vzktwjxtkv2/app.bsky.feed.post/3mlvymx4hb223",
+                    "text": "Thanks for reading 🙏🙏",
+                    "created_at": "2026-05-15T18:47:41.773Z",
+                    "author": {
+                        "display_name": "Alondra Nelson",
+                        "handle": "alondra.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
             "post_id": "at://did:plc:7bcjnl2b5ko25d5zgdpiqgop/app.bsky.feed.post/3mmg6c3ewek2n",
             "text": "I’m also planning to prepare (inshallah for September) a set of slides to show my 1st-year students on why it is a bad idea to use generative AI for their education (BTW, if anyone already knows a document like this, addressed to students but rigorous enough for the colleagues too, I’m interested).",
             "created_at": "2026-05-22T05:11:35.410Z",
@@ -8240,18 +8278,18 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:pppihekewd5sduhfmqcttduw/app.bsky.feed.post/3mlqzacpd2s2j",
-            "text": "Foucault is PACKING!",
-            "created_at": "2026-05-13T19:15:12.742Z",
+            "post_id": "at://did:plc:4tpk4b3oav4fbbfnpvs32ede/app.bsky.feed.post/3mlvs3hlyt22i",
+            "text": "\"The AI Bill of Rights has become one kind of infrastructure, diffuse and informal, but generative.\" \nBad administrations can repeal good policies, but they can't stop others building on them. Superb piece, @alondra.bsky.social",
+            "created_at": "2026-05-15T16:50:32.627Z",
             "author": {
-                "display_name": "J G",
-                "handle": "jaefgg.bsky.social",
-                "did": "did:plc:pppihekewd5sduhfmqcttduw"
+                "display_name": "Jack Stilgoe",
+                "handle": "jackstilgoe.bsky.social",
+                "did": "did:plc:4tpk4b3oav4fbbfnpvs32ede"
             },
             "engagement": {
                 "likes": 9,
-                "reposts": 0,
-                "replies": 0,
+                "reposts": 4,
+                "replies": 2,
                 "quotes": 0
             },
             "metadata": {
@@ -8259,7 +8297,36 @@
                     "en"
                 ]
             },
-            "comments": []
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:mdpn2zrsfehvjxorietjagwk/app.bsky.feed.post/3mmmns3nzvc2v",
+                    "text": "Thanks! It was a thoughtful article. Having seen some of the challenges of algorithm-driven decision-making firsthand, I hope the safeguards, transparency, and real-world impacts of AI continue to be carefully scrutinized and weighed, regardless of who is in leadership.",
+                    "created_at": "2026-05-24T19:04:57.138Z",
+                    "author": {
+                        "display_name": "CoyoteWrites",
+                        "handle": "coyotewrites.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                },
+                {
+                    "reply_id": "at://did:plc:jwiu7iyac6pi3vzktwjxtkv2/app.bsky.feed.post/3mlvymx4hb223",
+                    "text": "Thanks for reading 🙏🙏",
+                    "created_at": "2026-05-15T18:47:41.773Z",
+                    "author": {
+                        "display_name": "Alondra Nelson",
+                        "handle": "alondra.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
         },
         {
             "post_id": "at://did:plc:tj4fzwfifk3vxi5awesvlimg/app.bsky.feed.post/3mly5svacyk2l",
@@ -8287,7 +8354,7 @@
                     "text": "holy shit traditional art is literally art thats traditionally done!!! It was around before digital art… soon people are gonna call digital “slop” too because I’ve ran into traditional art elitists",
                     "created_at": "2026-05-16T15:27:56.230Z",
                     "author": {
-                        "display_name": "tay ♡ Sweet Escape Month!",
+                        "display_name": "tay ♡ New Art PINNED",
                         "handle": "kuromiz.bsky.social"
                     },
                     "engagement": {
@@ -8642,54 +8709,17 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:4tpk4b3oav4fbbfnpvs32ede/app.bsky.feed.post/3mlvs3hlyt22i",
-            "text": "\"The AI Bill of Rights has become one kind of infrastructure, diffuse and informal, but generative.\" \nBad administrations can repeal good policies, but they can't stop others building on them. Superb piece, @alondra.bsky.social",
-            "created_at": "2026-05-15T16:50:32.627Z",
+            "post_id": "at://did:plc:iuha5tn7bmd3pbnlptc6tehm/app.bsky.feed.post/3mmmxitzmb22k",
+            "text": "the real artistry is making infographics that bad 😭 it's pretty telling about how these people see art \n\ngenerative ai only purpose is grift and misinformation exhibit #549432",
+            "created_at": "2026-05-24T21:58:44.510Z",
             "author": {
-                "display_name": "Jack Stilgoe",
-                "handle": "jackstilgoe.bsky.social",
-                "did": "did:plc:4tpk4b3oav4fbbfnpvs32ede"
+                "display_name": "Alex Strook 🐭⚡️SQUEAKROSS",
+                "handle": "alexstrook.bsky.social",
+                "did": "did:plc:iuha5tn7bmd3pbnlptc6tehm"
             },
             "engagement": {
                 "likes": 8,
-                "reposts": 4,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:jwiu7iyac6pi3vzktwjxtkv2/app.bsky.feed.post/3mlvymx4hb223",
-                    "text": "Thanks for reading 🙏🙏",
-                    "created_at": "2026-05-15T18:47:41.773Z",
-                    "author": {
-                        "display_name": "Alondra Nelson",
-                        "handle": "alondra.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 1,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
-            "post_id": "at://did:plc:356vf3h26qcjvm7upg7ogzxe/app.bsky.feed.post/3mlttsiavqk27",
-            "text": "It’s surely possible to create art with generative “AI” (we passed the urinal-as-art threshold over a century ago) but it’s so rare as to be essentially non-existent and probably shouldn’t be attempted for lots of good reasons (stealing, right wing oligarchs, lack of copyright, backlash, etc)",
-            "created_at": "2026-05-14T22:15:59.331Z",
-            "author": {
-                "display_name": "Daniel Loxton 🇨🇦",
-                "handle": "danielloxton.bsky.social",
-                "did": "did:plc:356vf3h26qcjvm7upg7ogzxe"
-            },
-            "engagement": {
-                "likes": 8,
-                "reposts": 3,
+                "reposts": 0,
                 "replies": 2,
                 "quotes": 0
             },
@@ -8700,30 +8730,30 @@
             },
             "comments": [
                 {
-                    "reply_id": "at://did:plc:ukdeg2ri5emsxuthppfupsno/app.bsky.feed.post/3mluae2x62c2o",
-                    "text": "so you just made me start a mental journey with the premise \"how would Duchamp mutilate AI if he were alive today?\"",
-                    "created_at": "2026-05-15T02:00:34.261Z",
+                    "reply_id": "at://did:plc:s3rlsjuyhgq3khojoi65so4f/app.bsky.feed.post/3mmmyhjbvtc2c",
+                    "text": "ha yes, the emotional warmth and safety of 723.350GHz",
+                    "created_at": "2026-05-24T22:15:53.482Z",
                     "author": {
-                        "display_name": "JoBoese",
-                        "handle": "jaboese.bsky.social"
+                        "display_name": "Renaud Forestié",
+                        "handle": "reuno.net"
                     },
                     "engagement": {
-                        "likes": 2,
-                        "replies": 0,
+                        "likes": 4,
+                        "replies": 1,
                         "reposts": 0
                     }
                 },
                 {
-                    "reply_id": "at://did:plc:356vf3h26qcjvm7upg7ogzxe/app.bsky.feed.post/3mltu4joblc27",
-                    "text": "In pop culture, the closest example to justifiable use of generative “AI” that occurs to me might be the Secret Wars intro—the theme of the story is stolen identity and uncanny simulacra—but everyone loathed it, so few points there. (Deepfakes in VFX and voice simulation have their places too)",
-                    "created_at": "2026-05-14T22:21:36.362Z",
+                    "reply_id": "at://did:plc:iuha5tn7bmd3pbnlptc6tehm/app.bsky.feed.post/3mmmxp7hjnc23",
+                    "text": "very probably that most comments and quote on that post, are all bots too",
+                    "created_at": "2026-05-24T22:02:17.874Z",
                     "author": {
-                        "display_name": "Daniel Loxton 🇨🇦",
-                        "handle": "danielloxton.bsky.social"
+                        "display_name": "Alex Strook 🐭⚡️SQUEAKROSS",
+                        "handle": "alexstrook.bsky.social"
                     },
                     "engagement": {
-                        "likes": 0,
-                        "replies": 2,
+                        "likes": 10,
+                        "replies": 0,
                         "reposts": 0
                     }
                 }
@@ -8820,65 +8850,6 @@
             "engagement": {
                 "likes": 8,
                 "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:4tpk4b3oav4fbbfnpvs32ede/app.bsky.feed.post/3mlvs3hlyt22i",
-            "text": "\"The AI Bill of Rights has become one kind of infrastructure, diffuse and informal, but generative.\" \nBad administrations can repeal good policies, but they can't stop others building on them. Superb piece, @alondra.bsky.social",
-            "created_at": "2026-05-15T16:50:32.627Z",
-            "author": {
-                "display_name": "Jack Stilgoe",
-                "handle": "jackstilgoe.bsky.social",
-                "did": "did:plc:4tpk4b3oav4fbbfnpvs32ede"
-            },
-            "engagement": {
-                "likes": 8,
-                "reposts": 4,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:jwiu7iyac6pi3vzktwjxtkv2/app.bsky.feed.post/3mlvymx4hb223",
-                    "text": "Thanks for reading 🙏🙏",
-                    "created_at": "2026-05-15T18:47:41.773Z",
-                    "author": {
-                        "display_name": "Alondra Nelson",
-                        "handle": "alondra.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 1,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
-            "post_id": "at://did:plc:abhectaltrjsr4irm37ev32n/app.bsky.feed.post/3mlqnnylas22h",
-            "text": "Well I had Party Animals in my list of party games to get now that I'm hosting regular gaming meets.\n\nThe key word being HAD.\n\nFuck AI and FUCK developers/publishers who try to promote that kind of shit. Nobody with a moral fibre wants that environment-harming anti-art slop in our interactive art. 🖕",
-            "created_at": "2026-05-13T15:48:07.009Z",
-            "author": {
-                "display_name": "Maja, the Tired Pink Vixen (🔞 Unsafe For Public Consumption~)",
-                "handle": "majatek.bsky.social",
-                "did": "did:plc:abhectaltrjsr4irm37ev32n"
-            },
-            "engagement": {
-                "likes": 8,
-                "reposts": 4,
                 "replies": 0,
                 "quotes": 0
             },
@@ -9138,6 +9109,28 @@
             ]
         },
         {
+            "post_id": "at://did:plc:jonnuvubyyf7xhsentiuyq3l/app.bsky.feed.post/3mm5t6xzj632d",
+            "text": "Because I am selfish, because I desperately want to discover and become myself if only for myself, I choose to reject generative AI. And this reason should be a good enough reason, too.\n\nThis rejection isn't about others or the world but part of my journey giving myself permission to love life.",
+            "created_at": "2026-05-18T21:31:41.857Z",
+            "author": {
+                "display_name": "Frank Elavsky (he/him) ⌁",
+                "handle": "frank.computer",
+                "did": "did:plc:jonnuvubyyf7xhsentiuyq3l"
+            },
+            "engagement": {
+                "likes": 7,
+                "reposts": 3,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
             "post_id": "at://did:plc:bjpczagdj45x4rrjshvjxcnc/app.bsky.feed.post/3mmgwj2zshr2o",
             "text": "Starting the afternoon at Flupa with Anna E. Cook,  calling out Nielsen's promise that AI and generative UI will save us where UX has failed. Nope. AI doesn't fix bad systems. It exposes them. \n#UX #FlupaUXDays",
             "created_at": "2026-05-22T12:24:59.455Z",
@@ -9268,43 +9261,6 @@
                 ]
             },
             "comments": []
-        },
-        {
-            "post_id": "at://did:plc:56z2wbp2sawxecvw5jb2ykh3/app.bsky.feed.post/3mlqzr5yz5s2h",
-            "text": "Are they dead ass gonna give 75k to whoever makes some ai generated slop they decide is the best? I honestly didn't know party animals got this bad, I figured the hype just died down naturally like most games.",
-            "created_at": "2026-05-13T19:24:38.264Z",
-            "author": {
-                "display_name": "PurPuraDerg",
-                "handle": "adirtyderg.bsky.social",
-                "did": "did:plc:56z2wbp2sawxecvw5jb2ykh3"
-            },
-            "engagement": {
-                "likes": 7,
-                "reposts": 0,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:k6hlvagzfpd5jx27dxq7ivhy/app.bsky.feed.post/3mlr2r4f4722j",
-                    "text": "They're spreading it out to a bunch of people. 15k to the winner with a bunch of lesser prizes for even lesser generations. They coulda just bought a fucking Ai subscription and fucked themselves for much less than $75,000",
-                    "created_at": "2026-05-13T19:42:30.309Z",
-                    "author": {
-                        "display_name": "Lalia Luan 🔞🎨",
-                        "handle": "lu.luans.cafe"
-                    },
-                    "engagement": {
-                        "likes": 4,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
         },
         {
             "post_id": "at://did:plc:ygrlfqnosp52hmjg23dqhfzj/app.bsky.feed.post/3mjbiojjy622f",
@@ -9465,28 +9421,6 @@
             "engagement": {
                 "likes": 6,
                 "reposts": 2,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:jonnuvubyyf7xhsentiuyq3l/app.bsky.feed.post/3mm5t6xzj632d",
-            "text": "Because I am selfish, because I desperately want to discover and become myself if only for myself, I choose to reject generative AI. And this reason should be a good enough reason, too.\n\nThis rejection isn't about others or the world but part of my journey giving myself permission to love life.",
-            "created_at": "2026-05-18T21:31:41.857Z",
-            "author": {
-                "display_name": "Frank Elavsky (he/him) ⌁",
-                "handle": "frank.computer",
-                "did": "did:plc:jonnuvubyyf7xhsentiuyq3l"
-            },
-            "engagement": {
-                "likes": 6,
-                "reposts": 3,
                 "replies": 0,
                 "quotes": 0
             },
@@ -10089,7 +10023,7 @@
             "text": "You know Generative AI is getting even worse when your college will not let you move onto the course without doing an assignment answering questions on making good decisions and misrepresentation vs learning error… wow. Fuck AI",
             "created_at": "2026-05-20T19:39:11.014Z",
             "author": {
-                "display_name": "Jüṅḳëṛ Ḋüċḳÿ 🪎💎",
+                "display_name": "🌸 𝒮𝓊𝓏𝓊 𝒟𝓊𝒸𝓀𝓎 🌸",
                 "handle": "rabidbabyduck.bsky.social",
                 "did": "did:plc:p2nqlptmma3kppv2ru3lpas6"
             },
@@ -10167,6 +10101,43 @@
                         "likes": 2,
                         "replies": 1,
                         "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:3ajpvlmcknvvbenxwijizg5p/app.bsky.feed.post/3mmjymgkumk2j",
+            "text": "generative AI regurgitations. \n\nand definitely not entire book genres, or just... all non-F/F fanfiction. or even bad movies, when there were PEOPLE behind their creation. y'know?? I struggle with the idea that the work of ACTUAL PEOPLE gets labelled the same as generative AI!",
+            "created_at": "2026-05-23T17:40:38.957Z",
+            "author": {
+                "display_name": "JT (paladin enthusiast)",
+                "handle": "yarns-and-d20s.bsky.social",
+                "did": "did:plc:3ajpvlmcknvvbenxwijizg5p"
+            },
+            "engagement": {
+                "likes": 5,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:aatiyffqdhhhgv7xg3yq5y7f/app.bsky.feed.post/3mmjyuzhujk2j",
+                    "text": "Yeah if someone takes the time and effort to create something, it already far surpasses anything made with ai. Even if *gasp* it's not my cup of tea!!",
+                    "created_at": "2026-05-23T17:45:27.446Z",
+                    "author": {
+                        "display_name": "psi φ",
+                        "handle": "dpsisquared.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 6,
+                        "replies": 1,
+                        "reposts": 2
                     }
                 }
             ]
@@ -10272,7 +10243,7 @@
             "text": "seeing AI slop all over indie horror games right now is a huge fucking bummer",
             "created_at": "2026-05-22T17:46:28.334Z",
             "author": {
-                "display_name": "ever",
+                "display_name": "erotica is a weapon against oblivion",
                 "handle": "ourelvhenan.bsky.social",
                 "did": "did:plc:emnk3s5yrblshyqktdjx6yqp"
             },
@@ -10467,65 +10438,6 @@
                     "engagement": {
                         "likes": 1,
                         "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
-            "post_id": "at://did:plc:gfi7npsghktgf72vjecgi3w4/app.bsky.feed.post/3mlqwikmeqc2w",
-            "text": "Getting harder to be a streamer when all these gaming companies keep shitting the bed by adding dogshit ai slop to their games. \n\nI hate this fuckin era.",
-            "created_at": "2026-05-13T18:26:08.270Z",
-            "author": {
-                "display_name": "Eldersaurus Fen ⋈ | Kaiju Vtuber",
-                "handle": "eldersaurusfen.bsky.social",
-                "did": "did:plc:gfi7npsghktgf72vjecgi3w4"
-            },
-            "engagement": {
-                "likes": 5,
-                "reposts": 1,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:25uqsulevvqjoq2mmrdwl2un/app.bsky.feed.post/3mlqvdpbzrs2x",
-            "text": "was it just not possible to pay an artist instead of printing AI slop? every day I drift farther away from this club and the values that made us fill stadiums for games",
-            "created_at": "2026-05-13T18:05:31.660Z",
-            "author": {
-                "display_name": "",
-                "handle": "poosley.bsky.social",
-                "did": "did:plc:25uqsulevvqjoq2mmrdwl2un"
-            },
-            "engagement": {
-                "likes": 5,
-                "reposts": 0,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:dc5mb2pc6rl4skl6ux2dslo2/app.bsky.feed.post/3mlre72btfk2t",
-                    "text": "How can you tell this graphic is AI?",
-                    "created_at": "2026-05-13T22:31:21.543Z",
-                    "author": {
-                        "display_name": "#1 obed vargas fan",
-                        "handle": "letti42.dev"
-                    },
-                    "engagement": {
-                        "likes": 1,
-                        "replies": 2,
                         "reposts": 0
                     }
                 }
@@ -10801,6 +10713,43 @@
             ]
         },
         {
+            "post_id": "at://did:plc:5tszeetuhy24nuo57g4irsip/app.bsky.feed.post/3mmmicrp3h227",
+            "text": "English grammar lesson:\n“generative AI” in this context is an adjective (a word/phrase that modifies a noun). When introduced in this context, the adjective applies to every noun in the list (e.g., “tools or algorithms”).\n\nBut, you weren’t really commenting in good faith, were you? Didn’t think so.",
+            "created_at": "2026-05-24T17:26:54.659Z",
+            "author": {
+                "display_name": "Brent \"Werewolf_dr,” PhD -> OriginsGameFair",
+                "handle": "werewolf-dr.bsky.social",
+                "did": "did:plc:5tszeetuhy24nuo57g4irsip"
+            },
+            "engagement": {
+                "likes": 4,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:5tszeetuhy24nuo57g4irsip/app.bsky.feed.post/3mmmj472bks2t",
+                    "text": "And, as in all policy cases, extraneous or seemingly redundant language is used to cover all bases & reduce potential loopholes.",
+                    "created_at": "2026-05-24T17:41:07.519Z",
+                    "author": {
+                        "display_name": "Brent \"Werewolf_dr,” PhD -> OriginsGameFair",
+                        "handle": "werewolf-dr.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
             "post_id": "at://did:plc:r3gkhkdzfuhhrlisczios3li/app.bsky.feed.post/3mmipvz4jlk2x",
             "text": "Me, reading @jesbattis.bsky.social’s book about Labyrinth for the second time and bumping into myself, which I managed to totally miss the first time? I do worry about my brain. But if you like thinking about Jim Henson and queerness, you should pick up It’s Only Forever.",
             "created_at": "2026-05-23T05:32:17.209Z",
@@ -10860,6 +10809,65 @@
             ]
         },
         {
+            "post_id": "at://did:plc:qlom3phfl2iczdzynmaxov2h/app.bsky.feed.post/3mmk62jctv22d",
+            "text": "Hey, um... using generative AI to promote a pro-democracy movement is like using pork ribs barbecue to promote a vegan movement.\n\nThe dissolving of human creativity into a toxic extractivist soup for profiteers is like the gutting of the voting rights act. It benefits the bad guys, yeah?\n#BetterDems",
+            "created_at": "2026-05-23T19:18:00.540Z",
+            "author": {
+                "display_name": "Vania",
+                "handle": "dawookie.bsky.social",
+                "did": "did:plc:qlom3phfl2iczdzynmaxov2h"
+            },
+            "engagement": {
+                "likes": 4,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:ytucbfq2ldkzdjh4xoyatweg/app.bsky.feed.post/3mmk52uwm722e",
+            "text": "Coming from the person who threatened to make a bad ending and ended up making a show that reads as a failed message against generative Ai. Guess what? Handing creative control to humans doesn't work when the \"humans\" are also ai.",
+            "created_at": "2026-05-23T19:00:18.978Z",
+            "author": {
+                "display_name": "",
+                "handle": "krispy2134.bsky.social",
+                "did": "did:plc:ytucbfq2ldkzdjh4xoyatweg"
+            },
+            "engagement": {
+                "likes": 4,
+                "reposts": 2,
+                "replies": 2,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:sgq3ck4taq6bbbnhkcp3ddc6/app.bsky.feed.post/3mmkddbqqsk2s",
+                    "text": "truth nuke",
+                    "created_at": "2026-05-23T20:52:23.307Z",
+                    "author": {
+                        "display_name": null,
+                        "handle": "pinafag.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
             "post_id": "at://did:plc:td2dehoowqblr4s7quz2dmcn/app.bsky.feed.post/3mmjpv5hong2g",
             "text": "AI-generated images are making it impossible to distinguish truth from fiction. We need laws and AI watermarks to protect our shared reality.  Generative AI is destroying the baseline assumption that photographs bear some causal connection to reality. That's bad news for democracy.",
             "created_at": "2026-05-23T15:04:25Z",
@@ -10872,7 +10880,7 @@
                 "likes": 4,
                 "reposts": 1,
                 "replies": 0,
-                "quotes": 0
+                "quotes": 1
             },
             "metadata": {
                 "lang": null
@@ -10944,57 +10952,6 @@
                 ]
             },
             "comments": []
-        },
-        {
-            "post_id": "at://did:plc:quhh4e7opp7z6cqjwrh6sk5m/app.bsky.feed.post/3mlquzuieec2v",
-            "text": "Eh. I read that, but it's an argument against the techology and law enforcement (some good and some bad, to be clear), not this particular company. Like, I don't have an issue with the attached, and I don't think there's a good argument against it other than \"the police shouldn't be able to do that.",
-            "created_at": "2026-05-13T18:00:01.555Z",
-            "author": {
-                "display_name": "Aaron van Dorn",
-                "handle": "aaronvandorn.bsky.social",
-                "did": "did:plc:quhh4e7opp7z6cqjwrh6sk5m"
-            },
-            "engagement": {
-                "likes": 4,
-                "reposts": 0,
-                "replies": 2,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:ut24bhoexaye33uqw4427ixt/app.bsky.feed.post/3mlqvfjqwwc26",
-                    "text": "I agree the argument should be based \"the police shouldn't be able to do that\" and privacy issues in and around the privileges of driving or being on the roadways.\n\nAs a cyclist, I'm very pro-limits and enforcement. I also know cops enforced laws aimed at cars on me and other cyclists prejudicially.",
-                    "created_at": "2026-05-13T18:06:32.966Z",
-                    "author": {
-                        "display_name": "Meh Pluribus Unum (Alli) 🏳️‍⚧️",
-                        "handle": "pluribus-unum.co"
-                    },
-                    "engagement": {
-                        "likes": 0,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:quhh4e7opp7z6cqjwrh6sk5m/app.bsky.feed.post/3mlqv5hmtok2v",
-                    "text": "This winter, a semi turned into my car on the highway and pushed it sideways a tenth of a mile before driving away. We could have died, but he wasn't caught. I have no problem with the idea that the state police could have searched for his semi even without a license plate number.",
-                    "created_at": "2026-05-13T18:02:02.298Z",
-                    "author": {
-                        "display_name": "Aaron van Dorn",
-                        "handle": "aaronvandorn.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 16,
-                        "replies": 0,
-                        "reposts": 3
-                    }
-                }
-            ]
         },
         {
             "post_id": "at://did:plc:vmthojaumeogezd4iqi3igdc/app.bsky.feed.post/3mm7wz7wejs2d",
@@ -11129,6 +11086,28 @@
             },
             "metadata": {
                 "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:ewdndtqierrjcuic2wagpo7l/app.bsky.feed.post/3ma5imxxh3c2f",
+            "text": "Hey look, three fun new images of my Dungeons and Dragons character generated by my OWN HUMAN FUCKING HANDS, LARIAN.",
+            "created_at": "2025-12-17T01:20:21.130Z",
+            "author": {
+                "display_name": "Abby Pollak 🍉",
+                "handle": "atomicadp.bsky.social",
+                "did": "did:plc:ewdndtqierrjcuic2wagpo7l"
+            },
+            "engagement": {
+                "likes": 3,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 1
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
             },
             "comments": []
         },
@@ -11607,79 +11586,6 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:qlom3phfl2iczdzynmaxov2h/app.bsky.feed.post/3mmk62jctv22d",
-            "text": "Hey, um... using generative AI to promote a pro-democracy movement is like using pork ribs barbecue to promote a vegan movement.\n\nThe dissolving of human creativity into a toxic extractivist soup for profiteers is like the gutting of the voting rights act. It benefits the bad guys, yeah?\n#BetterDems",
-            "created_at": "2026-05-23T19:18:00.540Z",
-            "author": {
-                "display_name": "Vania",
-                "handle": "dawookie.bsky.social",
-                "did": "did:plc:qlom3phfl2iczdzynmaxov2h"
-            },
-            "engagement": {
-                "likes": 3,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:ytucbfq2ldkzdjh4xoyatweg/app.bsky.feed.post/3mmk52uwm722e",
-            "text": "Coming from the person who threatened to make a bad ending and ended up making a show that reads as a failed message against generative Ai. Guess what? Handing creative control to humans doesn't work when the \"humans\" are also ai.",
-            "created_at": "2026-05-23T19:00:18.978Z",
-            "author": {
-                "display_name": "",
-                "handle": "krispy2134.bsky.social",
-                "did": "did:plc:ytucbfq2ldkzdjh4xoyatweg"
-            },
-            "engagement": {
-                "likes": 3,
-                "reposts": 1,
-                "replies": 2,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:sgq3ck4taq6bbbnhkcp3ddc6/app.bsky.feed.post/3mmkddbqqsk2s",
-                    "text": "truth nuke",
-                    "created_at": "2026-05-23T20:52:23.307Z",
-                    "author": {
-                        "display_name": null,
-                        "handle": "pinafag.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 0,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                },
-                {
-                    "reply_id": "at://did:plc:2eodevnop7csovfkkhpyn5ub/app.bsky.feed.post/3mmlr2e5gvc2k",
-                    "text": "What does this mean lol. Also don't tell me you thought she was genuinely gunna make a bad ending and it wasn't a joke",
-                    "created_at": "2026-05-24T10:30:35.949Z",
-                    "author": {
-                        "display_name": "Lucidies (Comms Open Saving up)",
-                        "handle": "lucidiesart.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 0,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
             "post_id": "at://did:plc:qnblqknc2lpmohb6jd3jfchq/app.bsky.feed.post/3mmhhfiimxc2y",
             "text": "Is it using Reddit links as citations?? Lol",
             "created_at": "2026-05-22T17:27:13.241Z",
@@ -11959,28 +11865,6 @@
                 "display_name": "Kim Wincen",
                 "handle": "wincenworks.bsky.social",
                 "did": "did:plc:hibx2u4ltsnhovoqvwfygtoi"
-            },
-            "engagement": {
-                "likes": 3,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:5yrktop3owxov2n3xcbuufwy/app.bsky.feed.post/3mlqtb6nszs2s",
-            "text": "annnnnnd uninstalling, no AI slop in my vivdi games please, thank you",
-            "created_at": "2026-05-13T17:28:19.628Z",
-            "author": {
-                "display_name": "retroverses",
-                "handle": "retroverses.bsky.social",
-                "did": "did:plc:5yrktop3owxov2n3xcbuufwy"
             },
             "engagement": {
                 "likes": 3,
@@ -12367,6 +12251,28 @@
             ]
         },
         {
+            "post_id": "at://did:plc:ofwtrrxjyj6uq6xshmwhi47p/app.bsky.feed.post/3mmlnqrzxcc2d",
+            "text": "Listen to the ceo of rockstar games talking about AI, it’s enlightening and gets exactly to the point \n\nAI is generative and backward looking\n\nHuman creativity is forward thinking",
+            "created_at": "2026-05-24T09:31:33.750Z",
+            "author": {
+                "display_name": "Brother Grim",
+                "handle": "grimandgrimy.bsky.social",
+                "did": "did:plc:ofwtrrxjyj6uq6xshmwhi47p"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
             "post_id": "at://did:plc:4sxaoqfjhg62c35q3jvedpxq/app.bsky.feed.post/3mmdiwovork2f",
             "text": "Generative AI has no place in creative arts. No one wants to read an AI-written book, or play AI-generated games, or watch AI-generated movies. No one.",
             "created_at": "2026-05-21T03:44:05.174Z",
@@ -12623,13 +12529,35 @@
             ]
         },
         {
-            "post_id": "at://did:plc:svepeidvhby2byuoq6dfllci/app.bsky.feed.post/3ml6v7sm6mc2k",
-            "text": "I have tons of valid use cases for generative AI in creative work as well - but that's because after 23 years of building games by hand, I know what the tools can supplement, and what the limitations are.\n\nI think the only way forward is to let the bubble pop, and then rebuild it smarter.",
-            "created_at": "2026-05-06T14:15:25.629Z",
+            "post_id": "at://did:plc:hvqup36hwy5klfu2jyfuaqbq/app.bsky.feed.post/3mmnd5btaf22d",
+            "text": "JFC. Generative AI is now being used to scam people. And for huge amounts. If a classic car is too good to be true, it's a scam. Never buy anything unseen.\n\nPeople have lost tens of thousands of dollars because of this emerging scam.",
+            "created_at": "2026-05-25T01:27:01.276Z",
             "author": {
-                "display_name": "Syncoplay Retro Gaming",
-                "handle": "syncoplay.bsky.social",
-                "did": "did:plc:svepeidvhby2byuoq6dfllci"
+                "display_name": "🔞Ikari Wolf🔞 🔜 ASC, Furality",
+                "handle": "ikari-wolf.bsky.social",
+                "did": "did:plc:hvqup36hwy5klfu2jyfuaqbq"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:gtcpgzvtw6fbrxt5xs2gqtcr/app.bsky.feed.post/3mmmr6kueq22q",
+            "text": "There are disturbing aspects of generative ai, but I think portraying its use as some soul corroding act of victimhood is a bit ripe. It has helped me in language translation & reconnecting with overseas friends; it’s superb for math self-study. A lot of reflection goes into writing a good prompt.",
+            "created_at": "2026-05-24T20:05:36.949Z",
+            "author": {
+                "display_name": "Shannon",
+                "handle": "swalkthewalk.bsky.social",
+                "did": "did:plc:gtcpgzvtw6fbrxt5xs2gqtcr"
             },
             "engagement": {
                 "likes": 2,
@@ -12644,20 +12572,79 @@
             },
             "comments": [
                 {
-                    "reply_id": "at://did:plc:46haijs5rxtkat6bijis2ltd/app.bsky.feed.post/3ml6vkfbz5s2s",
-                    "text": "I've worked in IT for over thirty years and this latest organizational push towards AI is the one that irks me the most (\"pivot to video\" was the title holder before it). Some of our programmers, at the bank I work, can hardly function when their internet fails these days, it's tiresome...",
-                    "created_at": "2026-05-06T14:21:20.764Z",
+                    "reply_id": "at://did:plc:nkatjcr76lx7vwrpvx2bp5jb/app.bsky.feed.post/3mmmsfly5fs26",
+                    "text": "'LLMs are indispensable for the following categories of human endeavor\" NOT HOW AI IS BEING PURSUED. It is, \"AI must be forced into every conceivable use case, no matter the unpopularity or unfeasability.\" How can you not see this.",
+                    "created_at": "2026-05-24T20:27:26.748Z",
                     "author": {
-                        "display_name": "Roberto Faria",
-                        "handle": "robertofaria.com.br"
+                        "display_name": "Rick Perlstein",
+                        "handle": "rickperlstein.bsky.social"
                     },
                     "engagement": {
-                        "likes": 1,
-                        "replies": 0,
+                        "likes": 6,
+                        "replies": 1,
                         "reposts": 0
                     }
                 }
             ]
+        },
+        {
+            "post_id": "at://did:plc:jfh4mr6ee535umturw4bewlt/app.bsky.feed.post/3mmlygl5a322p",
+            "text": "If you are speaking in favour of AI, please say what you mean. If you are speaking against AI, please say what you mean. \n\nThis is a monolithic and useless marketing term that does a very good job clinging to the ass hairs of some useful tech. Generative AI is a pox on humanity. Specificity, plz.",
+            "created_at": "2026-05-24T12:42:42.132Z",
+            "author": {
+                "display_name": "acabforcutie",
+                "handle": "ahemnason.bsky.social",
+                "did": "did:plc:jfh4mr6ee535umturw4bewlt"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:jfh4mr6ee535umturw4bewlt/app.bsky.feed.post/3mmlyizdo722p",
+                    "text": "I’m so tired.",
+                    "created_at": "2026-05-24T12:44:04.133Z",
+                    "author": {
+                        "display_name": "acabforcutie",
+                        "handle": "ahemnason.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:vksefwfpgtxo77q5yilwvip3/app.bsky.feed.post/3mmlwkjenh227",
+            "text": "Good morning. Just remember, generative AI is straight up theivery. \nEnjoy the photo of wild lavender in Crete.",
+            "created_at": "2026-05-24T12:09:07.012Z",
+            "author": {
+                "display_name": "Jody DiPerna",
+                "handle": "jodydiperna.bsky.social",
+                "did": "did:plc:vksefwfpgtxo77q5yilwvip3"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
         },
         {
             "post_id": "at://did:plc:eyi6efxeiqnbbnx7rzobdkme/app.bsky.feed.post/3mml4fjznvc2u",
@@ -12709,6 +12696,28 @@
                 "likes": 2,
                 "reposts": 0,
                 "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:urjcydgdylqmffsl2un7q7rt/app.bsky.feed.post/3mmg2fb7kzk2h",
+            "text": "I am so FUCKING SICK OF GEN AI SHITTTTTT😤\n\nThe audacity of this model kit manufacturer's reasoning for using AI image generation for box art is just pathetic.\n\nAt least I know who not to support🤗",
+            "created_at": "2026-05-22T04:01:47.216Z",
+            "author": {
+                "display_name": "Slowly",
+                "handle": "slowlys.bsky.social",
+                "did": "did:plc:urjcydgdylqmffsl2un7q7rt"
+            },
+            "engagement": {
+                "likes": 2,
+                "reposts": 0,
+                "replies": 0,
                 "quotes": 0
             },
             "metadata": {
@@ -12903,39 +12912,26 @@
             ]
         },
         {
-            "post_id": "at://did:plc:4jc3okcenipmjl5pjxzckty6/app.bsky.feed.post/3mlvrrqvi7u2h",
-            "text": "This is good news for me. I've been wanting to run AI locally, but I ordered my desktop and laptop without GPUs because at the time generative AI didn't exist in my world: Can You Run LLMs Locally Without a GPU? I Tested 8 Models on Linux ift.tt/PxEXbUe",
-            "created_at": "2026-05-15T16:45:05.769Z",
+            "post_id": "at://did:plc:6kxypefl7536ulig6azgz5b4/app.bsky.feed.post/3mmkq2omjqc2b",
+            "text": "To clarify my stance on generative \"AI,\" I am vehemently against it, especially as I am an artist. This is just another example of why this tech is bad.",
+            "created_at": "2026-05-24T00:40:13.454Z",
             "author": {
-                "display_name": "Christine Hall",
-                "handle": "brideoflinux.bsky.social",
-                "did": "did:plc:4jc3okcenipmjl5pjxzckty6"
+                "display_name": "Tiffota",
+                "handle": "tiffota.bsky.social",
+                "did": "did:plc:6kxypefl7536ulig6azgz5b4"
             },
             "engagement": {
                 "likes": 2,
                 "reposts": 0,
-                "replies": 1,
+                "replies": 0,
                 "quotes": 0
             },
             "metadata": {
-                "lang": null
+                "lang": [
+                    "en"
+                ]
             },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:2uagjr4c4rcustcqnhlclabv/app.bsky.feed.post/3mlvtodb7f22z",
-                    "text": "Fascinating article!\nI tinkered with a local LLM over a year ago, and found it to be a cute but useless toy. It may be time to try it again.",
-                    "created_at": "2026-05-15T17:18:59.356Z",
-                    "author": {
-                        "display_name": "Brian Greiner 🇨🇦🍁",
-                        "handle": "mrfumblethumbs.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 2,
-                        "replies": 1,
-                        "reposts": 0
-                    }
-                }
-            ]
+            "comments": []
         },
         {
             "post_id": "at://did:plc:kqioz766gglug2ukxom7ymiy/app.bsky.feed.post/3mmhdgujr222j",
@@ -13788,7 +13784,7 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhj7twixnb72",
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhjo4kjp66s2",
             "text": "How AI is warping the video game industry AI is reshaping gaming, but not everyone approves Artificial intelligence has swept through the tech industry, video games included. While many industry he...\n\n#Personal #Technology #Culture #& #Life\n\nOrigin | Interest | Match",
             "created_at": "2026-03-20T18:26:22.000Z",
             "author": {
@@ -13808,7 +13804,7 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhjo4kjp66s2",
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhj7twixnb72",
             "text": "How AI is warping the video game industry AI is reshaping gaming, but not everyone approves Artificial intelligence has swept through the tech industry, video games included. While many industry he...\n\n#Personal #Technology #Culture #& #Life\n\nOrigin | Interest | Match",
             "created_at": "2026-03-20T18:26:22.000Z",
             "author": {
@@ -13995,6 +13991,80 @@
                     "engagement": {
                         "likes": 1,
                         "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:3ajpvlmcknvvbenxwijizg5p/app.bsky.feed.post/3mbzk26t2vc27",
+            "text": "Because the Larian & generative AI thing is going around, I want to correct something I personally said and misunderstood regarding *Expedition 33* and AI: \n\nenglish.elpais.com/culture/2025...\n\n&\n\nwww.gamepressure.com/newsroom/a-f...\n\n(1/7)",
+            "created_at": "2026-01-09T22:25:22.610Z",
+            "author": {
+                "display_name": "JT (paladin enthusiast)",
+                "handle": "yarns-and-d20s.bsky.social",
+                "did": "did:plc:3ajpvlmcknvvbenxwijizg5p"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:3ajpvlmcknvvbenxwijizg5p/app.bsky.feed.post/3mbzk27v5pk27",
+                    "text": "The recent game award that was revoked from E33 is because the game awards asked, \"Did you use gen AI at any point?\" and Redfall said \"No\", which is a lie; they used it, even if they did discontinue its use. They lied, knowingly or not, and the award was rightly revoked, because no gen AI \n\n(2/7)",
+                    "created_at": "2026-01-09T22:25:22.611Z",
+                    "author": {
+                        "display_name": "JT (paladin enthusiast)",
+                        "handle": "yarns-and-d20s.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:3ajpvlmcknvvbenxwijizg5p/app.bsky.feed.post/3mbzk26t2vc27",
+            "text": "Because the Larian & generative AI thing is going around, I want to correct something I personally said and misunderstood regarding *Expedition 33* and AI: \n\nenglish.elpais.com/culture/2025...\n\n&\n\nwww.gamepressure.com/newsroom/a-f...\n\n(1/7)",
+            "created_at": "2026-01-09T22:25:22.610Z",
+            "author": {
+                "display_name": "JT (paladin enthusiast)",
+                "handle": "yarns-and-d20s.bsky.social",
+                "did": "did:plc:3ajpvlmcknvvbenxwijizg5p"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:3ajpvlmcknvvbenxwijizg5p/app.bsky.feed.post/3mbzk27v5pk27",
+                    "text": "The recent game award that was revoked from E33 is because the game awards asked, \"Did you use gen AI at any point?\" and Redfall said \"No\", which is a lie; they used it, even if they did discontinue its use. They lied, knowingly or not, and the award was rightly revoked, because no gen AI \n\n(2/7)",
+                    "created_at": "2026-01-09T22:25:22.611Z",
+                    "author": {
+                        "display_name": "JT (paladin enthusiast)",
+                        "handle": "yarns-and-d20s.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 1,
                         "reposts": 0
                     }
                 }
@@ -14762,6 +14832,117 @@
             "comments": []
         },
         {
+            "post_id": "at://did:plc:jjbsxatjvw35joagnd6ythxg/app.bsky.feed.post/3mmmskc6f7k2j",
+            "text": "I know this isn't the point, but I thought it was old fashioned AI and not generative AI that was good for radiology :)",
+            "created_at": "2026-05-24T20:30:04.239Z",
+            "author": {
+                "display_name": "Tony Yates",
+                "handle": "t0nyyates.bsky.social",
+                "did": "did:plc:jjbsxatjvw35joagnd6ythxg"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:hnruaoxkmk7ry7h5penqfdvr/app.bsky.feed.post/3mmmuyvvew22r",
+                    "text": "I thought so too. Plenty of effective (and much cheaper) \"AI\" tools have been around for years, happily analyzing images, translating text and solving real problems, but without the \"friendly\" chat interface and vague visions of AGI",
+                    "created_at": "2026-05-24T21:14:02.160Z",
+                    "author": {
+                        "display_name": "Oren Levine",
+                        "handle": "ohljazz.com"
+                    },
+                    "engagement": {
+                        "likes": 2,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:d5aoi62wf6rv267k4wwr4orb/app.bsky.feed.post/3mmmjuvgpxk2c",
+            "text": "the humble lint roller has honestly done more good and less harm than generative AI.",
+            "created_at": "2026-05-24T17:54:56.303Z",
+            "author": {
+                "display_name": "barefootwriter",
+                "handle": "bfwriter.bsky.social",
+                "did": "did:plc:d5aoi62wf6rv267k4wwr4orb"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:ilg33ui7hxwa543qneeywhu2/app.bsky.feed.post/3mmmjwedje22i",
+                    "text": "✊",
+                    "created_at": "2026-05-24T17:55:45.480Z",
+                    "author": {
+                        "display_name": "Dance: 10⁻¹, Looks: 3",
+                        "handle": "andrew3000.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:go4cv3ofuhkmaxbwxlxqwx7v/app.bsky.feed.post/3mmjoangxys2f",
+            "text": "The Reserve Bank of New Zealand would like to use AI to analyse public submissions",
+            "created_at": "2026-05-23T14:32:49.894Z",
+            "author": {
+                "display_name": "Marcus",
+                "handle": "utf9k.net",
+                "did": "did:plc:go4cv3ofuhkmaxbwxlxqwx7v"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 2,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:go4cv3ofuhkmaxbwxlxqwx7v/app.bsky.feed.post/3mmjoasepu22f",
+                    "text": "Statistics New Zealand would like to use Generative AI to create illustrations for internal communications",
+                    "created_at": "2026-05-23T14:32:49.895Z",
+                    "author": {
+                        "display_name": "Marcus",
+                        "handle": "utf9k.net"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 2,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
             "post_id": "at://did:plc:45jpmo6ikvfwwzh2e6fmezmf/app.bsky.feed.post/3mmhivssius2e",
             "text": "I wrote about how generative AI programming would result in the \"Photoshopization\" of software engineering. To the extent that it enables more people to operate as a new class of engineer, it's a good thing. To the extent that it consumes all software engineering roles, it's a serious harm.",
             "created_at": "2026-05-22T17:54:14.662Z",
@@ -14819,28 +15000,6 @@
                     }
                 }
             ]
-        },
-        {
-            "post_id": "at://did:plc:urjcydgdylqmffsl2un7q7rt/app.bsky.feed.post/3mmg2fb7kzk2h",
-            "text": "I am so FUCKING SICK OF GEN AI SHITTTTTT😤\n\nThe audacity of this model kit manufacturer's reasoning for using AI image generation for box art is just pathetic.\n\nAt least I know who not to support🤗",
-            "created_at": "2026-05-22T04:01:47.216Z",
-            "author": {
-                "display_name": "Slowly",
-                "handle": "slowlys.bsky.social",
-                "did": "did:plc:urjcydgdylqmffsl2un7q7rt"
-            },
-            "engagement": {
-                "likes": 1,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
         },
         {
             "post_id": "at://did:plc:qdzyqicklswaerbodtul5lvu/app.bsky.feed.post/3mmermzl53c2u",
@@ -15130,173 +15289,11 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:dlzbs4cykjmqphsmurq6h53t/app.bsky.feed.post/3mlv7zqqexs2k",
-            "text": "\"Here, we argue that generative artificial intelligence (AI) can be used to draft text in a way that preserves and promotes the sort of challenging and inventive mental work that has long characterized good science and scholarship.\"",
-            "created_at": "2026-05-15T11:27:27.748Z",
-            "author": {
-                "display_name": "Rob Sica",
-                "handle": "robsica.bsky.social",
-                "did": "did:plc:dlzbs4cykjmqphsmurq6h53t"
-            },
-            "engagement": {
-                "likes": 1,
-                "reposts": 1,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:7xpm5ljpshw7ojqnfgsyeifb/app.bsky.feed.post/3mlvcu6pipc2u",
-                    "text": "How are you doing",
-                    "created_at": "2026-05-15T12:18:02.296Z",
-                    "author": {
-                        "display_name": "NavyDella",
-                        "handle": "navydella.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 0,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
-            "post_id": "at://did:plc:amlx7mfiei67fyziscjxnkh4/app.bsky.feed.post/3mlv3fmlxzw2y",
-            "text": "Good Law Project spending money on Grok btw.\n\nDon't support GLP they keep fucking shit up, and they use your money to fund generative AI owned by nazis",
-            "created_at": "2026-05-15T10:04:35.072Z",
-            "author": {
-                "display_name": "Death Before Detransition",
-                "handle": "lexlophii.queersplaystuff.org",
-                "did": "did:plc:amlx7mfiei67fyziscjxnkh4"
-            },
-            "engagement": {
-                "likes": 1,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:s7e6csv2zzpi2brlo2272c7i/app.bsky.feed.post/3mluwcdzcx22j",
-            "text": "I keep attending talks on AI policy, environmental impact, implementation, etc., and it's hard to find what I think is needed: a clear recognition of how generative AI is a direct assault on a range of social and material relatiomships that most would regard as Good Things, and what to do about it",
-            "created_at": "2026-05-15T08:33:18.976Z",
-            "author": {
-                "display_name": "Davey",
-                "handle": "historicaloracle.bsky.social",
-                "did": "did:plc:s7e6csv2zzpi2brlo2272c7i"
-            },
-            "engagement": {
-                "likes": 1,
-                "reposts": 0,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:s7e6csv2zzpi2brlo2272c7i/app.bsky.feed.post/3mluwf4xnxc2j",
-                    "text": "The obvious exception is @emilymbender.bsky.social and @alexhanna.bsky.social 's work on The AI Con, which I think at this point is basically required reading for like, everyone",
-                    "created_at": "2026-05-15T08:34:52.247Z",
-                    "author": {
-                        "display_name": "Davey",
-                        "handle": "historicaloracle.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 1,
-                        "replies": 1,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
-            "post_id": "at://did:plc:cmpo4h7t47f54mggd4hm5kuk/app.bsky.feed.post/3mluabrnnfs2k",
-            "text": "Requirements to run for Government:\n\n1) AI, “deep fakes”, generative use of any kind in your campaign, marketing, advertising\n\n2) The opposing candidates/parties are all on equal footing. What say you? What’s good for one is good for all.\n\n3) No lawsuits re: campaign messaging. 1st Amendment.",
-            "created_at": "2026-05-15T01:59:17.404Z",
-            "author": {
-                "display_name": "Kaydee",
-                "handle": "kaydeeartist.bsky.social",
-                "did": "did:plc:cmpo4h7t47f54mggd4hm5kuk"
-            },
-            "engagement": {
-                "likes": 1,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:bhv3emvvekvbafynpbc33wuk/app.bsky.feed.post/3mlu4pc4v622w",
-            "text": "There are good uses for the predictive algorithms we call AI... In things such as medical offices detecting cancer from scans far earlier than unaided people can. Generative predictive algorithms are just dogshit and shouldn't be allowed, datacenters or otherwise.",
-            "created_at": "2026-05-15T00:55:15.921Z",
-            "author": {
-                "display_name": "Arti, Rat Goblin",
-                "handle": "arti-vtuber.bsky.social",
-                "did": "did:plc:bhv3emvvekvbafynpbc33wuk"
-            },
-            "engagement": {
-                "likes": 1,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
-            "post_id": "at://did:plc:6kxypefl7536ulig6azgz5b4/app.bsky.feed.post/3mmkq2omjqc2b",
-            "text": "To clarify my stance on generative \"AI,\" I am vehemently against it, especially as I am an artist. This is just another example of why this tech is bad.",
-            "created_at": "2026-05-24T00:40:13.454Z",
-            "author": {
-                "display_name": "Tiffota",
-                "handle": "tiffota.bsky.social",
-                "did": "did:plc:6kxypefl7536ulig6azgz5b4"
-            },
-            "engagement": {
-                "likes": 1,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": []
-        },
-        {
             "post_id": "at://did:plc:vjs5dx2m7dgmqaittyzch4ig/app.bsky.feed.post/3mmgvh33dmk2w",
             "text": "It's usually over generative AI. Most of us real artists here support each other. There is probably still the occasional person saying \"You draw this thing I don't like, therefore you shouldn't be allowed to and you're a bad person!\" but that's it. Are you seeing something else?",
             "created_at": "2026-05-22T12:05:58.930Z",
             "author": {
-                "display_name": "Bobcat Arts [very hot]",
+                "display_name": "Bobcat Arts [birthday cat]",
                 "handle": "bobcatarts.bsky.social",
                 "did": "did:plc:vjs5dx2m7dgmqaittyzch4ig"
             },
@@ -15694,13 +15691,35 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:tzk55r6keyaqmif2quz5no3b/app.bsky.feed.post/3mlrbzsjgxs2b",
-            "text": "And it's Generative AI -- that's really bad.",
-            "created_at": "2026-05-13T21:52:38.148Z",
+            "post_id": "at://did:plc:ar6rxi4qssujl4m3tdqmr5lj/app.bsky.feed.post/3mmn5sqplgc22",
+            "text": "This sounds kinda dope, if they can make it a successful technology over time.\n\nBefore GenAI slop showed up everywhere, we HAD AI engines in our video games and thought little of it.",
+            "created_at": "2026-05-24T23:51:39.078Z",
             "author": {
-                "display_name": "Sea13ean",
-                "handle": "sea13ean.bsky.social",
-                "did": "did:plc:tzk55r6keyaqmif2quz5no3b"
+                "display_name": "🪄 Naomi \"Note Worthy\" Slover",
+                "handle": "not3worthy.bsky.social",
+                "did": "did:plc:ar6rxi4qssujl4m3tdqmr5lj"
+            },
+            "engagement": {
+                "likes": 1,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:jcghqd4yc63ybjs2jy4oa2w5/app.bsky.feed.post/3mmm3zy2d522n",
+            "text": "One of the reasons I didn’t go to any playoff baseball games at the school where I teach is because they advertised every game with AI slop posters and social media posts.",
+            "created_at": "2026-05-24T13:47:14.428Z",
+            "author": {
+                "display_name": "Bobby Craig",
+                "handle": "youngrobert.bsky.social",
+                "did": "did:plc:jcghqd4yc63ybjs2jy4oa2w5"
             },
             "engagement": {
                 "likes": 1,
@@ -15715,12 +15734,12 @@
             },
             "comments": [
                 {
-                    "reply_id": "at://did:plc:junptsao2xujeqt5wgqwbb5u/app.bsky.feed.post/3mlrfm3btf22p",
-                    "text": "Yeah I was confused at first I didn’t see the post from them",
-                    "created_at": "2026-05-13T22:56:32.541Z",
+                    "reply_id": "at://did:plc:wuk7n72wdtjx7xplkcah4cja/app.bsky.feed.post/3mmmek2nomc25",
+                    "text": "Went to an event on Saturday at a museum and the promotional person (who I believe is a volunteer FWIW) has made t-shirts with those AI slop posters printed on, which were in the gift shop.",
+                    "created_at": "2026-05-24T16:19:23.965Z",
                     "author": {
-                        "display_name": "GuitarGaming4",
-                        "handle": "guitargaming4.bsky.social"
+                        "display_name": "TK from the Paper",
+                        "handle": "pipedreams.blog"
                     },
                     "engagement": {
                         "likes": 1,
@@ -15735,7 +15754,7 @@
             "text": "calling random things slop was funny for a little while like the guy calling enjoyable games like goodslop or whatever, but i think calling any kind of gay stuff slop is going too far and we gotta go back to only ai-made stuff is slop because its run its course for other things 😭",
             "created_at": "2026-05-23T21:55:51.520Z",
             "author": {
-                "display_name": "˖𓆩✟𓆪˖ℒ𝓊𝒸𝒾♡༏ིྀ݃⁺",
+                "display_name": "˖𓆩✟𓆪˖ℒ𝒾𝒸𝓊♡༏ིྀ݃⁺",
                 "handle": "lirulu.bsky.social",
                 "did": "did:plc:neq2o4mrwy4jsmo5r53iszy2"
             },
@@ -16603,26 +16622,6 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhsbtl5fofl2",
-            "text": "Square Enix teams up with Google to add AI chatbot to game Google's Gemini is being used to power a NPC in one of Square Enix's long-running games, as Capcom explains how it will use AI in ...\n\n#Entertainment #Gaming #Artificial #Intelligence #Games #news #Square #Enix\n\nOrigin | Interest | Match",
-            "created_at": "2026-03-23T17:41:55.000Z",
-            "author": {
-                "display_name": "Fortnite",
-                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
-                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
-            },
-            "engagement": {
-                "likes": 0,
-                "reposts": 0,
-                "replies": 0,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": null
-            },
-            "comments": []
-        },
-        {
             "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhqo3itnmzt2",
             "text": "Square Enix partners with Google for new Slime AI chatbot in Dragon Quest Google is teaming up with Square Enix to put Gemini AI into Dragon Quest X, as Capcom outlines its stance on the technology...\n\n#Entertainment #Gaming #Artificial #Intelligence #Games #news […] \n\n[Original post on metro.co.uk]",
             "created_at": "2026-03-23T17:41:55.000Z",
@@ -16634,6 +16633,26 @@
             "engagement": {
                 "likes": 0,
                 "reposts": 1,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mhsbtl5fofl2",
+            "text": "Square Enix teams up with Google to add AI chatbot to game Google's Gemini is being used to power a NPC in one of Square Enix's long-running games, as Capcom explains how it will use AI in ...\n\n#Entertainment #Gaming #Artificial #Intelligence #Games #news #Square #Enix\n\nOrigin | Interest | Match",
+            "created_at": "2026-03-23T17:41:55.000Z",
+            "author": {
+                "display_name": "Fortnite",
+                "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
+                "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
                 "replies": 0,
                 "quotes": 0
             },
@@ -16967,13 +16986,33 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3melghzugrdz2",
+            "post_id": "at://did:plc:3azz4644rfe6uraic2sp7gga/app.bsky.feed.post/3mejguaqklql2",
             "text": "Are the Olympics really using ‘AI slop’ to promote the Winter Games? 'The games for human excellence being represented by no-effort, anti-human AI slop.' X users have criticised recent ...\n\n#News #Tech #Artificial #Intelligence #Winter #Olympics\n\nOrigin | Interest | Match",
             "created_at": "2026-02-10T16:08:00.000Z",
             "author": {
                 "display_name": "Fortnite",
                 "handle": "fortnite.activitypub.awakari.com.ap.brid.gy",
                 "did": "did:plc:3azz4644rfe6uraic2sp7gga"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": null
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:i3mdi6qcroph6scrsy2bhvcc/app.bsky.feed.post/3macbkt7iv72m",
+            "text": "#Hotnews #News #KingdomCome Larian: An AI Hysteria Has Emerged, Says the Creative Director of Kingdom Come: Deliverance!: Larian’s admission regarding the use of artificial intelligence has sparked a major online debate, one that Daniel Vávra has now addressed in blunt terms.   Larian Studios has…",
+            "created_at": "2025-12-18T22:57:11Z",
+            "author": {
+                "display_name": "",
+                "handle": "badsector-thegeek.bsky.social",
+                "did": "did:plc:i3mdi6qcroph6scrsy2bhvcc"
             },
             "engagement": {
                 "likes": 0,
@@ -18441,18 +18480,18 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:ofwtrrxjyj6uq6xshmwhi47p/app.bsky.feed.post/3mmlnqrzxcc2d",
-            "text": "Listen to the ceo of rockstar games talking about AI, it’s enlightening and gets exactly to the point \n\nAI is generative and backward looking\n\nHuman creativity is forward thinking",
-            "created_at": "2026-05-24T09:31:33.750Z",
+            "post_id": "at://did:plc:wjknim5w5i2szzkiaynbf5ju/app.bsky.feed.post/3mmmwgpzo7c25",
+            "text": "Hiring 🔍 ML Engineer - AI Games\n🚀 Apply: www.skool.com/creativetech...\n🏢 Company: (Private) YC-backed generative AI platform building the “AI Roblox” for instant 3D game creation with LLMs & vibe coding\n🌍 Location: SF, CA / Remote\n💻 Type: Full-time\n💸 Pay: Not specified\n\nLead Id: 16087",
+            "created_at": "2026-05-24T21:39:39.484Z",
             "author": {
-                "display_name": "Brother Grim",
-                "handle": "grimandgrimy.bsky.social",
-                "did": "did:plc:ofwtrrxjyj6uq6xshmwhi47p"
+                "display_name": "Creative Tech & Gaming Leads",
+                "handle": "ctandgamingleads.bsky.social",
+                "did": "did:plc:wjknim5w5i2szzkiaynbf5ju"
             },
             "engagement": {
                 "likes": 0,
                 "reposts": 0,
-                "replies": 1,
+                "replies": 0,
                 "quotes": 0
             },
             "metadata": {
@@ -18952,6 +18991,109 @@
             "comments": []
         },
         {
+            "post_id": "at://did:plc:beyxqfdrgtsrvfw5th6ahi3f/app.bsky.feed.post/3mmndrge3is2g",
+            "text": "Pillowfort's a good long-form option some chosters are trying? \n\nIt has good anti-harassment tools, banned generative AI material + terfs + nazis, and the devs prioritise community safety over making money.\n\nIf you ever want to check it out, I can share some resources for making that easy?",
+            "created_at": "2026-05-25T01:38:17.112Z",
+            "author": {
+                "display_name": "Kevin Veale 😷 (Toitū Te Tiriti)",
+                "handle": "krveale.bsky.social",
+                "did": "did:plc:beyxqfdrgtsrvfw5th6ahi3f"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:brawpdzl6thsxmvqbo2iaqgb/app.bsky.feed.post/3mmnf5shf2c26",
+                    "text": "i tried pillowfort back when it was pretty early on and didn't really vibe with it or catch my footing, but it HAS been years at this point so, idk, maybe the ui and userbase is better and more padded? i'd just need to remember my login info...",
+                    "created_at": "2026-05-25T02:03:06.198Z",
+                    "author": {
+                        "display_name": "Astra 🏳️‍⚧️🔞 Professional Goat Kinnie",
+                        "handle": "cyphyra.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:omae4seqz77u2vh7hfyeju5d/app.bsky.feed.post/3mmn5mjtb7s2d",
+            "text": "entered my username on a website to see who has me blocked out of pure curiosity, and apparently im on some block list of “ai haters”…. GOOD LMAO. I do hate generative ai and everything it stands for and how its destroying the environment and our minds. You should block me if you use that shit lmao",
+            "created_at": "2026-05-24T23:48:10.531Z",
+            "author": {
+                "display_name": "Sparkel Dog",
+                "handle": "sparkel-dog.bsky.social",
+                "did": "did:plc:omae4seqz77u2vh7hfyeju5d"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:evs76lzt73ddyd55gezjbtal/app.bsky.feed.post/3mmn24zvsv62o",
+            "text": "\"NVIDIA just dropped the RTX 5000 series with a mind-blowing 500 TFLOPs—blazing past Moore’s Law again! 🚀 Their new AI chip, codenamed 'Blackwell Ultra,' promises real-time ray tracing AND generative AI upscaling. Who’s ready to ditch CPUs for good?\n\n#AIGraphics #TechBreakthrough #FutureOfCo...",
+            "created_at": "2026-05-24T22:45:48.940Z",
+            "author": {
+                "display_name": "Neon Innovation Lab",
+                "handle": "neoninnovationlab.bsky.social",
+                "did": "did:plc:evs76lzt73ddyd55gezjbtal"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
+            "post_id": "at://did:plc:vfzhsoqtzn2ruj7i674j4xvr/app.bsky.feed.post/3mmmoilo72c2w",
+            "text": "it's basically trained to be very good at predictively filling in missing lines of video, as opposed to generative AI based deinterlacing which generates a new \"nicer\" image and is prone to hallucinating details",
+            "created_at": "2026-05-24T19:17:32.117Z",
+            "author": {
+                "display_name": "nooneinpart",
+                "handle": "nooneinpart.bsky.social",
+                "did": "did:plc:vfzhsoqtzn2ruj7i674j4xvr"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 0,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": []
+        },
+        {
             "post_id": "at://did:plc:mencpxk4spd3xn3qotwkyyqf/app.bsky.feed.post/3mmlk2cdg7s2h",
             "text": "Today is a good day to follow news outlets which stand with the PEN Guild against Generative AI slop \n\ngo.bsky.app/8cn1XfT",
             "created_at": "2026-05-24T08:25:17.860Z",
@@ -19005,43 +19147,6 @@
                     "engagement": {
                         "likes": 0,
                         "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
-            "post_id": "at://did:plc:go4cv3ofuhkmaxbwxlxqwx7v/app.bsky.feed.post/3mmjoangxys2f",
-            "text": "The Reserve Bank of New Zealand would like to use AI to analyse public submissions",
-            "created_at": "2026-05-23T14:32:49.894Z",
-            "author": {
-                "display_name": "Marcus",
-                "handle": "utf9k.net",
-                "did": "did:plc:go4cv3ofuhkmaxbwxlxqwx7v"
-            },
-            "engagement": {
-                "likes": 0,
-                "reposts": 0,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:go4cv3ofuhkmaxbwxlxqwx7v/app.bsky.feed.post/3mmjoasepu22f",
-                    "text": "Statistics New Zealand would like to use Generative AI to create illustrations for internal communications",
-                    "created_at": "2026-05-23T14:32:49.895Z",
-                    "author": {
-                        "display_name": "Marcus",
-                        "handle": "utf9k.net"
-                    },
-                    "engagement": {
-                        "likes": 1,
-                        "replies": 2,
                         "reposts": 0
                     }
                 }
@@ -19724,17 +19829,17 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:btfuulpwozn7wz2vm2znbgr2/app.bsky.feed.post/3mlui4v66kc2k",
-            "text": "Here are the two things you need to know about generative AI using LLMs (large language models):\n\n1. Gen-AI is really good at putting words together.\n2. Some of the words might be facts (but these words get put together with other words – see 1.)\n\nTypical results: 👇\n\narstechnica.com/health/2026/...",
-            "created_at": "2026-05-15T04:19:43.253Z",
+            "post_id": "at://did:plc:rjfj6akrufznyy523kidzktn/app.bsky.feed.post/3mmmxi4iqhk2z",
+            "text": "www.livescience.com/technology/a... Generative AI is destroying the baseline assumption that photographs bear some causal connection to reality. That's bad news for democracy.",
+            "created_at": "2026-05-24T21:58:19.887Z",
             "author": {
-                "display_name": "John Rampelt",
-                "handle": "siriusnerd.bsky.social",
-                "did": "did:plc:btfuulpwozn7wz2vm2znbgr2"
+                "display_name": "Orlando B",
+                "handle": "orlando-b.bsky.social",
+                "did": "did:plc:rjfj6akrufznyy523kidzktn"
             },
             "engagement": {
                 "likes": 0,
-                "reposts": 1,
+                "reposts": 0,
                 "replies": 0,
                 "quotes": 0
             },
@@ -19746,18 +19851,18 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:x3re4qjck3cqckx5xwa6el5l/app.bsky.feed.post/3mlufiq7avc2j",
-            "text": "23) What inspires me not just to make art but be a better artist?\n\nIdk tbh I just love creating like omg i made that holy shit \n\nJoy of creation type shiii \n\nAlso spite\nAlso I cant let Generative AI win and boil down art to some consumer good",
-            "created_at": "2026-05-15T03:32:39.474Z",
+            "post_id": "at://did:plc:7vjslmtkq4yo7fpteh4rryun/app.bsky.feed.post/3mmmmc3ogdc2j",
+            "text": "\"But I use it as a last resort\" I don't care. If you USED it but eventually realized how awful it is and also are against it now, then I'm okay with that. Mistakes are human. But even using it SLIGHTLY? No. \n\nFor clarification, machine learning in GENERAL isn't BAD. LLMs and generative AI? Garbage.",
+            "created_at": "2026-05-24T18:38:06.535Z",
             "author": {
-                "display_name": "Pixel !",
-                "handle": "pixelatted.bsky.social",
-                "did": "did:plc:x3re4qjck3cqckx5xwa6el5l"
+                "display_name": "Miko♪",
+                "handle": "17miko.bsky.social",
+                "did": "did:plc:7vjslmtkq4yo7fpteh4rryun"
             },
             "engagement": {
                 "likes": 0,
                 "reposts": 0,
-                "replies": 1,
+                "replies": 0,
                 "quotes": 0
             },
             "metadata": {
@@ -19765,59 +19870,7 @@
                     "en"
                 ]
             },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:x3re4qjck3cqckx5xwa6el5l/app.bsky.feed.post/3mlufkxa4dk2j",
-                    "text": "And thats all the questions!! Wahoo!!!",
-                    "created_at": "2026-05-15T03:33:53.951Z",
-                    "author": {
-                        "display_name": "Pixel !",
-                        "handle": "pixelatted.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 0,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
-        },
-        {
-            "post_id": "at://did:plc:3mjvmc6hqsl6rtutjsfhcxl4/app.bsky.feed.post/3mltkqcxh6224",
-            "text": "Its approach to arriving at an “average” consensus feels a lot like how generative AI and LLMs such as ChatGPT serve up a middling notion of what is good or what would appeal to the most people.",
-            "created_at": "2026-05-14T19:33:42.984Z",
-            "author": {
-                "display_name": "",
-                "handle": "dariusjagjag.bsky.social",
-                "did": "did:plc:3mjvmc6hqsl6rtutjsfhcxl4"
-            },
-            "engagement": {
-                "likes": 0,
-                "reposts": 0,
-                "replies": 1,
-                "quotes": 0
-            },
-            "metadata": {
-                "lang": [
-                    "en"
-                ]
-            },
-            "comments": [
-                {
-                    "reply_id": "at://did:plc:3mjvmc6hqsl6rtutjsfhcxl4/app.bsky.feed.post/3mltkqcxi5c24",
-                    "text": "But when I think about what is great art, or who is a great artist, it’s what and who challenge consensus or the status quo, sometimes even demolishing it.",
-                    "created_at": "2026-05-14T19:33:42.985Z",
-                    "author": {
-                        "display_name": "",
-                        "handle": "dariusjagjag.bsky.social"
-                    },
-                    "engagement": {
-                        "likes": 0,
-                        "replies": 0,
-                        "reposts": 0
-                    }
-                }
-            ]
+            "comments": []
         },
         {
             "post_id": "at://did:plc:ytucbfq2ldkzdjh4xoyatweg/app.bsky.feed.post/3mmk4qmuawk2e",
@@ -20463,13 +20516,13 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:c26grwbrehzxn533ec4h7cid/app.bsky.feed.post/3mlriuyxlzs24",
-            "text": "It’s bad enough I already had trust issues, and now I don't know what to believe because of generative AI. I'm questioning everything I see. 😭 There are AI-generated actors and narrators on actual TV commercials. It is misleading and disgusting. The scripts are probably written by AI too. 😫",
-            "created_at": "2026-05-13T23:55:13.321Z",
+            "post_id": "at://did:plc:nnisa44lmte6rxxmf5f4ccba/app.bsky.feed.post/3mmncfp4cck2q",
+            "text": "I criticise games now, before the inevitable AI slop starts creeping into them.\n\nHumans make equally as bad digital media.",
+            "created_at": "2026-05-25T01:13:49.898Z",
             "author": {
-                "display_name": "Sierra Brooke ☆Sierrallstar☆",
-                "handle": "sierrallstar.bsky.social",
-                "did": "did:plc:c26grwbrehzxn533ec4h7cid"
+                "display_name": "Eri",
+                "handle": "eriugam.bsky.social",
+                "did": "did:plc:nnisa44lmte6rxxmf5f4ccba"
             },
             "engagement": {
                 "likes": 0,
@@ -20485,13 +20538,13 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:ejusgmfgega7lqfzv5ypindr/app.bsky.feed.post/3mlrdh5q56p52",
-            "text": "is it really this bad\n\nhow many browser-based games were on itch before generative AI",
-            "created_at": "2026-05-13T22:17:55.000Z",
+            "post_id": "at://did:plc:ywtvc2lntvmtaazkbcfrhbj4/app.bsky.feed.post/3mmn73w6q722o",
+            "text": "Level One is gets a ton of props as far as barcodes in town go just for actually caring about games enough to show Combo Breaker on one of their TVs. No others bothered to do that over the years. \n\nThumbs down for their AI slop advertising, though. \n\nMy MMPR sticker and buddies shown here!",
+            "created_at": "2026-05-25T00:14:40.545Z",
             "author": {
-                "display_name": "Ben Lubar (any pronouns)",
-                "handle": "ben.lubar.me.ap.brid.gy",
-                "did": "did:plc:ejusgmfgega7lqfzv5ypindr"
+                "display_name": "Another Terrible Idea",
+                "handle": "atichannel.bsky.social",
+                "did": "did:plc:ywtvc2lntvmtaazkbcfrhbj4"
             },
             "engagement": {
                 "likes": 0,
@@ -20507,18 +20560,18 @@
             "comments": []
         },
         {
-            "post_id": "at://did:plc:wbaeyvtadrhvvjlhu3p7jwqn/app.bsky.feed.post/3mlqw5mzzuo25",
-            "text": "Are we becoming disgusted with generative AI, bad generative AI, Smart Devices, or computing in general in the backlash? idk.",
-            "created_at": "2026-05-13T18:20:01.698Z",
+            "post_id": "at://did:plc:xsszy6toavilbsxm5u6aunrj/app.bsky.feed.post/3mmmhwie57s27",
+            "text": "I have a good sized library of games, I don't need more. I'm not giving you money for a game unless you make the effort to say you're rejecting the use of theft and plagiarism ai slop generators.",
+            "created_at": "2026-05-24T17:20:02.199Z",
             "author": {
-                "display_name": "Scootypuff",
-                "handle": "scootypuff.bsky.social",
-                "did": "did:plc:wbaeyvtadrhvvjlhu3p7jwqn"
+                "display_name": "restlessBear",
+                "handle": "restlessbear.bsky.social",
+                "did": "did:plc:xsszy6toavilbsxm5u6aunrj"
             },
             "engagement": {
                 "likes": 0,
                 "reposts": 0,
-                "replies": 0,
+                "replies": 1,
                 "quotes": 0
             },
             "metadata": {
@@ -20526,7 +20579,96 @@
                     "en"
                 ]
             },
-            "comments": []
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:xsszy6toavilbsxm5u6aunrj/app.bsky.feed.post/3mmmhwie76c27",
+                    "text": "\"It's inevitable.\"\n\"Everyone is doing it.\"\n\"Game quality is all that matters.\"\n\"Hurr durr ur a luddite.\"\n\nI reject every cowardly, gutless, lazy excuse, and anyone who values the work of creatives should as well.",
+                    "created_at": "2026-05-24T17:20:02.200Z",
+                    "author": {
+                        "display_name": "restlessBear",
+                        "handle": "restlessbear.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:xsszy6toavilbsxm5u6aunrj/app.bsky.feed.post/3mmmhwidqjk27",
+            "text": "I had five games in my Steam cart from my wishlist. After review, I'm down to one. The other four either a) had an ai statement trying to justify their use of ai slop, or b) didn't have a statement at all.",
+            "created_at": "2026-05-24T17:20:02.198Z",
+            "author": {
+                "display_name": "restlessBear",
+                "handle": "restlessbear.bsky.social",
+                "did": "did:plc:xsszy6toavilbsxm5u6aunrj"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:xsszy6toavilbsxm5u6aunrj/app.bsky.feed.post/3mmmhwie57s27",
+                    "text": "I have a good sized library of games, I don't need more. I'm not giving you money for a game unless you make the effort to say you're rejecting the use of theft and plagiarism ai slop generators.",
+                    "created_at": "2026-05-24T17:20:02.199Z",
+                    "author": {
+                        "display_name": "restlessBear",
+                        "handle": "restlessbear.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 0,
+                        "replies": 1,
+                        "reposts": 0
+                    }
+                }
+            ]
+        },
+        {
+            "post_id": "at://did:plc:36tw6bk7qcp3c2gcgkgcdb5i/app.bsky.feed.post/3mmm5n55whc2h",
+            "text": "It is so weird how companies are so hardcore about copyrights but turn a blind eye to all the AI slop games popping up on official stores.",
+            "created_at": "2026-05-24T14:15:51.061Z",
+            "author": {
+                "display_name": "Darckcloud723",
+                "handle": "darckcloud723.bsky.social",
+                "did": "did:plc:36tw6bk7qcp3c2gcgkgcdb5i"
+            },
+            "engagement": {
+                "likes": 0,
+                "reposts": 0,
+                "replies": 1,
+                "quotes": 0
+            },
+            "metadata": {
+                "lang": [
+                    "en"
+                ]
+            },
+            "comments": [
+                {
+                    "reply_id": "at://did:plc:cvkhz7n7r62dee4lqpxguq6h/app.bsky.feed.post/3mmm5pos6pw22",
+                    "text": "the fact they also didn't add a god somewhere there shows some restraint at least",
+                    "created_at": "2026-05-24T14:17:16.252Z",
+                    "author": {
+                        "display_name": "Doctor",
+                        "handle": "doctor42.bsky.social"
+                    },
+                    "engagement": {
+                        "likes": 1,
+                        "replies": 0,
+                        "reposts": 0
+                    }
+                }
+            ]
         },
         {
             "post_id": "at://did:plc:m6qngi7t5jbfyy7foxhcjzya/app.bsky.feed.post/3mmlkryoxqk2l",
