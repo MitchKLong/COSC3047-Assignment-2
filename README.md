@@ -5,6 +5,8 @@
 - Mitchell Long: S4007880
 - Jimmy Vu: S4006701
 - Khang Nguyen: S4005711
+## Preconditions
+- Requires Python Version 3.12
 ## Repository Structure:
 - ./dataset: The collected data and Graphml files created from Bluesky
 - ./graphs: Output graphs created with networkx and gephi
