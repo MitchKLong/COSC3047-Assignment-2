@@ -3,2219 +3,1737 @@
 <key id="d2" for="node" attr.name="louvain" attr.type="long"/>
 <key id="d1" for="node" attr.name="cpmClusId" attr.type="long"/>
 <key id="d0" for="node" attr.name="subNum" attr.type="long"/>
-<graph edgedefault="directed"><node id="suelou9-25.bsky.social">
+<graph edgedefault="directed"><node id="faeriesheep.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">22</data>
+  <data key="d1">4</data>
   <data key="d2">0</data>
-</node>
-<node id="basilmai.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="ugarles.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="jamesdavismakes.com">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="shelleybwoke.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="nigeloverstreet.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="shoshiroll.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="crankypacifist.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="queen-calamity.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="noctifloraa.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="gtmac.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="cv-danes.com">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="matthewdownhour.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="cacaobyproduct.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="toonspin.nl">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">1</data>
-</node>
-<node id="thecrimsontint.com">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="crosis101.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="enragedrealist.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="leftoidsadhu.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="oasisob1.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="obicynkenobi.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="pompera-firpa.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="mcmuffinbird.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="dyadiccalamity.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="tomshawenter.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="hughw.net">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="ethicking.com">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="enbycriphistorian.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="kevinllong.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="rotorstormrat.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="tigerlily.northsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="elsargentogarcia.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="aloysiuso.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="madisonbelmar.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="ericbrignac.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="altruios.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="marketdoctor.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="skywatcher1600.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="wetasspword.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="virginiaopossum.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="kerthulhu75.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="chrissythegreat58.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="ejacobslaw.com">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="jmcintire.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="essaywells.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="888lin.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="ikari-wolf.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="afbourque.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="meetingmayz.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="meyeaccessiblelife.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="thegleampt2.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="jendurbent.com">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="nonsequitrd.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="realimgroot.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="anticiv.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="transgander.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="corvae.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="alisonb916.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="embers1.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="adownie.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="flowernymph234.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="norzola.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="phenobarbarella.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="winniethewitch.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="elifels.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="colfaxvibe.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="paulwartenberg.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="guiltypanacea.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="eclectictastessa.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="sw8ee.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="afab-acab.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="itwasgg.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="lmhinh.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="peterfobian.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="mayamedia.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="petestaiano.com">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="jwriddle.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="tenitchyfingers.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="plognark.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="sentient6.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="senatorivy.com">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="kevindilmore.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="jack1973.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="moosewithablanket.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="laplew.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="hk1988.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="sassiesmom.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="curt19.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="gregory-c-leavitt.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="mefcorv.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="movingtrainmedia.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="czarmikhail.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="erwannkerroch.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="my4re.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="erinlsnyder.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="yamikakyuu.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="twotimesjohnny.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="leftistlawyer.com">
-  <data key="d0">1</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="djoslyn.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="kobayashimaruu.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="floyduk.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="hoosiernathaniel.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="ladyinred50.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="dissentinator.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="oscarhermansson.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="meganwachspress.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="txlawyer.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="nkalamb.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="anthonykphotos.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="fledg.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="neanderthal53.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="markhisted.org">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="autonainews.com">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="shaneforrow.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="roxconn.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="gavsteed.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="newtons-third.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="whytetara.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="keynesaholicchris.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="karmasdad.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="keiv86ab02.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="johncastiglione.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="witwarrior.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="davidinsf.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="chadlevinson.com">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="skuzy1572.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="lightupfox.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="craigthomler.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="grouchymarx.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="gwpda.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">4</data>
-</node>
-<node id="martinpalecek.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="billstewart.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="sarahsunfire.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="cowenwriter.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="danieldrucker.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="incrediblemelk.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="jbertuglia.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="juliaazari.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="wboler.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="nealmaffei.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="cmitchellsask.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="runefar.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="markvonwahlde.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="ladymitopinion.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="pdpittsburgh.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="sirpauled.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="a-dobbie11.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="seantucker.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">3</data>
-</node>
-<node id="jillscharr.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="quentiam.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="empika.co.uk">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="coffeepalazzo.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="kaiavintr.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="mrsambarlow.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="niztal.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="chopchopok.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="motstand.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="breonnick.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="titus-lives.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="tanek.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="labelai.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="peanutbcrunch.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="weeabread.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="lonewolf1983.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="readyuser.one">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="blackblooms.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="daltonjdeuce.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="tauriq.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="humaiblog.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="mermuse.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="sparkster2600.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="epluribusunumyo.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="retroid.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="jasonschreier.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="eightbittony.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="mackeza.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">1</data>
-  <data key="d2">5</data>
-</node>
-<node id="faeriesheep.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
 </node>
 <node id="mfelps.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="tayl1r.itch.io">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="tylernocturne.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="gooperdust.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="amysel.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="speycs.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="counterpillow.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="revlis-proto.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="alpha-mo-mega.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="sidoen.net">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="bladepuppy.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">0</data>
-  <data key="d2">6</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
 </node>
 <node id="triple-q.bsky.social">
   <data key="d0">1</data>
-  <data key="d1">0</data>
+  <data key="d1">4</data>
+  <data key="d2">0</data>
+</node>
+<node id="brevvy.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="elusive-bear.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="shubbabang.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="zeforgotten.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="princeraglan.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="micholous.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="5eadubbz.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="sallytrees.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="sparkykadachi.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="reactivecupid93.vtubers.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="darkm3ss.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="donorak.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="culturecrave.co">
+  <data key="d0">1</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="loopingworld.com">
+  <data key="d0">0</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="chiyoseika.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="flempire.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="phoenix-knight.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="psychonrails.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="infamouslazure.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="makkam19.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="bahusch.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">5</data>
+  <data key="d2">3</data>
+</node>
+<node id="technowings.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">22</data>
+  <data key="d2">4</data>
+</node>
+<node id="mossworm.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">22</data>
+  <data key="d2">4</data>
+</node>
+<node id="kingslib.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">18</data>
+  <data key="d2">5</data>
+</node>
+<node id="heyitsdora.com">
+  <data key="d0">1</data>
+  <data key="d1">18</data>
+  <data key="d2">5</data>
+</node>
+<node id="abiador.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">18</data>
+  <data key="d2">5</data>
+</node>
+<node id="dhampirvampire.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">18</data>
+  <data key="d2">5</data>
+</node>
+<node id="lesbianknights.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">18</data>
+  <data key="d2">5</data>
+</node>
+<node id="dphrygian.com">
+  <data key="d0">1</data>
+  <data key="d1">21</data>
   <data key="d2">6</data>
 </node>
-<node id="itsshazam.bsky.social">
+<node id="theotherspeakman.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">8</data>
+  <data key="d1">21</data>
+  <data key="d2">6</data>
+</node>
+<node id="handlebarorionx.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">21</data>
+  <data key="d2">6</data>
+</node>
+<node id="heatherwoodward.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">13</data>
   <data key="d2">7</data>
 </node>
-<node id="ohboyaleksei.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">8</data>
+<node id="brunodias.bsky.social">
+  <data key="d0">2</data>
+  <data key="d1">13</data>
   <data key="d2">7</data>
 </node>
-<node id="tragedylink.com">
+<node id="scribble-sheep.myatproto.social">
   <data key="d0">0</data>
-  <data key="d1">8</data>
+  <data key="d1">13</data>
   <data key="d2">7</data>
 </node>
-<node id="smartbatto.bsky.social">
+<node id="riverdancewerewolf.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">8</data>
-  <data key="d2">7</data>
+  <data key="d1">9</data>
+  <data key="d2">8</data>
 </node>
-<node id="voiddebris.bsky.social">
+<node id="ugobananas.bsky.social">
   <data key="d0">1</data>
-  <data key="d1">8</data>
+  <data key="d1">9</data>
+  <data key="d2">8</data>
+</node>
+<node id="coil.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">13</data>
   <data key="d2">7</data>
 </node>
-<node id="owlloverhoot.bsky.social">
+<node id="djorankeil.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">24</data>
-  <data key="d2">8</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
 </node>
-<node id="litterpants.bsky.social">
+<node id="leracos.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">24</data>
-  <data key="d2">8</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
 </node>
-<node id="noahthething.bsky.social">
+<node id="ziechris.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">24</data>
-  <data key="d2">8</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
 </node>
-<node id="pstallion.bsky.social">
+<node id="kaydublya.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">24</data>
-  <data key="d2">8</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
 </node>
-<node id="woofsalittle.bsky.social">
+<node id="cryptictx55.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">24</data>
-  <data key="d2">8</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
 </node>
-<node id="vulpine.house">
+<node id="cassiecummings.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">24</data>
-  <data key="d2">8</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
 </node>
-<node id="buildabab.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">24</data>
-  <data key="d2">8</data>
-</node>
-<node id="mangocreampanda.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">24</data>
-  <data key="d2">8</data>
-</node>
-<node id="ifuknowuknow.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">24</data>
-  <data key="d2">8</data>
-</node>
-<node id="collie.baby">
+<node id="stephentotilo.bsky.social">
   <data key="d0">1</data>
-  <data key="d1">24</data>
-  <data key="d2">8</data>
-</node>
-<node id="edzitron.com">
-  <data key="d0">3</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="unicorntickles.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="entstrategyguy.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="orionkidder.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="neonthotsky.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">14</data>
-  <data key="d2">10</data>
-</node>
-<node id="nouttosell.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">14</data>
-  <data key="d2">10</data>
-</node>
-<node id="edwalker.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">14</data>
-  <data key="d2">10</data>
-</node>
-<node id="ketanjoshi.co">
-  <data key="d0">1</data>
-  <data key="d1">14</data>
-  <data key="d2">10</data>
-</node>
-<node id="michaelanes.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">14</data>
-  <data key="d2">10</data>
-</node>
-<node id="eruanion.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">14</data>
-  <data key="d2">10</data>
-</node>
-<node id="spgerrard.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="dougwar40k.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="williamrobinson.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="mopbucket.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="fitzwah.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="warrenseen.com">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="torontowill.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="cosmichomicide.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="funcubng.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="jeffehobbs.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="misskayrenee.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="james-howard.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="lameposting.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
-  <data key="d2">9</data>
-</node>
-<node id="imcured.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">2</data>
+  <data key="d1">26</data>
   <data key="d2">9</data>
 </node>
 <node id="deenom.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">28</data>
+  <data key="d1">29</data>
   <data key="d2">11</data>
 </node>
 <node id="dawookie.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">28</data>
+  <data key="d1">29</data>
   <data key="d2">11</data>
 </node>
 <node id="tibi3d.bsky.social">
   <data key="d0">1</data>
-  <data key="d1">28</data>
+  <data key="d1">29</data>
   <data key="d2">11</data>
 </node>
 <node id="spamtonium.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">12</data>
+  <data key="d1">15</data>
   <data key="d2">12</data>
 </node>
 <node id="fighterjetchickens.bsky.social">
   <data key="d0">1</data>
-  <data key="d1">12</data>
+  <data key="d1">15</data>
   <data key="d2">12</data>
 </node>
-<node id="thestudyofwar.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">31</data>
+<node id="tenrou.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
   <data key="d2">13</data>
 </node>
-<node id="powerfromspace1.bsky.social">
+<node id="namenotunique.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">31</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="sievish.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="kobayashimaruu.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="fidget.fans">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="moonowlstudio.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="lockewick.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="dilong96.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="beanthewaif.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="fioko.tv">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="andrewfray.dev">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="barbflash.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="dejavuman22.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="nick.aetheric-games.com">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="sirkrisofgames.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="bluexy.cryptoanarchy.network">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="dandesaft.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="sleepyhart.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="actuallysuddenly.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="voltanis.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="jaykx.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="zefram.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="vulonbii.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="oceanotter.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="ddwardiswriting.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="will.bearwaves.com">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="unclespaceghost.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="watcheratthegate.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="blackspider.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="girafastev.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="maybeanotherday.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="goblinenterprises.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="seraphimrt.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="erikscottdebie.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="utritum.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="d4rkong.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="smergthedargon.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="wanderwyrm.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="syncoplay.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="mrsthedespoiler.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="withintenttoharm.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="deliriumtremendum.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="truther-dare.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="sonks.me">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="jeffatom.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="thetraderstan.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="airahn.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="lbcyber.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="rft3ft.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="insightfulparasite.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="fritsaandfuritsa.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="robosad.blackskycomra.de">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="edwardo-ka.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="thatsgoodweb.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="thatpinktig.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="fractus.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="just-eirik.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="buttes.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="goblininajacket.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="desdarkdesigns.neocities.org">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="sayadaramdial.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="kurisu7885.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="kaiserneko.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="shoggothmaid.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="anchet7.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="josh592.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="briceinkling138.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="hpgvalence.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="s9stryc9.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="ironedsleeper.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="djwaglmuffin.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="tenander.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="mormonpartyboat.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="spirulina.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="namycat.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="twilightvulpine.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="devoureroftime.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="hargenblargen.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="kiwicami.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="neozerox4.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="theresagaumond.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="riprowsdower.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="thelad2ndchance.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="schneeshade.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="lateralusian.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="skoomabear.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="historiken.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="acidicoccultism.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="coltongames.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="alexashpool.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="spaceprez.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="dl316bh.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="redwinterwolf.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">14</data>
+</node>
+<node id="manaprism.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="algi.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="godsgayembrace.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="roryvalart.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="jesteravali.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="nornbears.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="keltalis.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="megcomb.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="leoprints.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="clevermagpie.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="foxyfloof.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="mimibayra.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="hawkbox.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="perroconanteojos.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="alapidis.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="mathdemigod.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
   <data key="d2">13</data>
 </node>
 <node id="apophis.sapronym.net">
   <data key="d0">0</data>
-  <data key="d1">18</data>
-  <data key="d2">14</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="mossworm.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">18</data>
-  <data key="d2">14</data>
+<node id="garbagenirvana.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="unormal.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">9</data>
+<node id="richardcasey.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="sinebadger.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="cummington.wang">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="bonelessbuddy.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="dagothurthegod.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="godzilla-lives.cryptoanarchy.network">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="lemasterofswords.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="graptops.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="silvergauntlets.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="homosaatio.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="gremlinjess.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="karmapupper.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="monkeyman85.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="wyrmskulls.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="perfidioussinn.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="mrjohnbarnard.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="mentalmisplay.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="abunchofcats.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="handle.invalid">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="ushijiminy.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="ramboofcalrisia.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="kaloncpu57.site">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="trios.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="peyote.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="zerochameleon.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="spacecatet.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="duovandal.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="humanspareparts.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="jaster.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="theknowticedfiles.com">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="honkhonkhonkhonkho.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
   <data key="d2">15</data>
 </node>
-<node id="loosf.bsky.social">
+<node id="turbofalcon.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">9</data>
-  <data key="d2">15</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="thadeshammer.bsky.social">
+<node id="girlstandstill.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">9</data>
-  <data key="d2">15</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="theloaraxe.bsky.social">
+<node id="brynstone.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">9</data>
-  <data key="d2">15</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="sonicsledgehammer.bsky.social">
+<node id="socksandpuppets.com">
   <data key="d0">0</data>
-  <data key="d1">15</data>
-  <data key="d2">16</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="alistairsmith.bsky.social">
+<node id="lynai.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">15</data>
-  <data key="d2">16</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="owolf.bsky.social">
+<node id="akifirebird.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">15</data>
-  <data key="d2">16</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="whitewulfe.bsky.social">
+<node id="katchdraws.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">15</data>
-  <data key="d2">16</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="col-orange.bsky.social">
+<node id="emilynyan.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">15</data>
-  <data key="d2">16</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="thundermouser.bsky.social">
+<node id="lorenaazpiri.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">15</data>
-  <data key="d2">16</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
 </node>
-<node id="badsquiddogames.bsky.social">
+<node id="existentialish.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="robinofgaia.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="notglupshitto.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="xacris.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="spacecadetgrrl.me">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="nerxualoh.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="saphine743.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="ballsleon.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="doompacifist.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="leeroyjanky.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="audes-wisent.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="bardtherony.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="alansteve.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="rankinn.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="twiggies-draws.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="swordchuck.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="lizardguy64.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="jegriva.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="kotaku.com">
   <data key="d0">1</data>
-  <data key="d1">15</data>
+  <data key="d1">26</data>
+  <data key="d2">13</data>
+</node>
+<node id="edzitron.com">
+  <data key="d0">2</data>
   <data key="d2">16</data>
 </node>
-<node id="albionmerrick.bsky.social">
+<node id="duanemoody.qwiffer.com">
   <data key="d0">0</data>
-  <data key="d1">15</data>
-  <data key="d2">16</data>
-</node>
-<node id="sazeracla.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">22</data>
-  <data key="d2">0</data>
-</node>
-<node id="peark.es">
-  <data key="d0">1</data>
+  <data key="d1">11</data>
   <data key="d2">17</data>
 </node>
-<node id="blonicyouth.bsky.social">
+<node id="jonjonrequiem.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">4</data>
+  <data key="d1">11</data>
+  <data key="d2">17</data>
 </node>
-<node id="swalkthewalk.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">4</data>
-</node>
-<node id="peterprinciple.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">4</data>
-</node>
-<node id="zavanova.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">3</data>
-  <data key="d2">4</data>
-</node>
-<node id="rickperlstein.bsky.social">
+<node id="legendofnerd.bsky.social">
   <data key="d0">1</data>
-  <data key="d1">3</data>
-  <data key="d2">4</data>
+  <data key="d1">11</data>
+  <data key="d2">17</data>
 </node>
-<node id="iamflip.bsky.social">
+<node id="laurakbuzz.bsky.social">
   <data key="d0">1</data>
   <data key="d2">18</data>
 </node>
-<node id="davidcrespo.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">29</data>
+<node id="unormal.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">10</data>
   <data key="d2">19</data>
 </node>
-<node id="maxread.info">
-  <data key="d0">1</data>
-  <data key="d1">29</data>
+<node id="loosf.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">10</data>
   <data key="d2">19</data>
 </node>
-<node id="laurabrevitz.bsky.social">
+<node id="thadeshammer.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">1</data>
+  <data key="d1">10</data>
+  <data key="d2">19</data>
 </node>
-<node id="kaisermiller.family">
+<node id="theloaraxe.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">1</data>
+  <data key="d1">10</data>
+  <data key="d2">19</data>
 </node>
-<node id="clapifyoulikeme.favrd.social">
+<node id="sonicsledgehammer.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">17</data>
+  <data key="d2">20</data>
+</node>
+<node id="alistairsmith.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">17</data>
+  <data key="d2">20</data>
+</node>
+<node id="owolf.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">17</data>
+  <data key="d2">20</data>
+</node>
+<node id="whitewulfe.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">17</data>
+  <data key="d2">20</data>
+</node>
+<node id="col-orange.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">17</data>
+  <data key="d2">20</data>
+</node>
+<node id="thundermouser.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">17</data>
+  <data key="d2">20</data>
+</node>
+<node id="badsquiddogames.bsky.social">
   <data key="d0">1</data>
-  <data key="d1">22</data>
-  <data key="d2">1</data>
+  <data key="d1">17</data>
+  <data key="d2">20</data>
 </node>
-<node id="cranky-david.bsky.social">
+<node id="albionmerrick.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">22</data>
-  <data key="d2">1</data>
+  <data key="d1">17</data>
+  <data key="d2">20</data>
 </node>
-<node id="selfcaregamer.bsky.social">
+<node id="bigdrewbear.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
+</node>
+<node id="oppi26.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
+</node>
+<node id="chad006.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
+</node>
+<node id="ingredientreader.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
+</node>
+<node id="gameinformer.com">
   <data key="d0">1</data>
-  <data key="d1">20</data>
-  <data key="d2">20</data>
+  <data key="d1">26</data>
+  <data key="d2">9</data>
 </node>
-<node id="pavthemoocow.bsky.social">
+<node id="gamesliek.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">20</data>
-  <data key="d2">20</data>
-</node>
-<node id="lumpy700.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">20</data>
-  <data key="d2">20</data>
-</node>
-<node id="avocadofriend.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">20</data>
-  <data key="d2">20</data>
-</node>
-<node id="ditherwitch.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">20</data>
-  <data key="d2">20</data>
-</node>
-<node id="klinefamily.cc">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
+  <data key="d1">3</data>
   <data key="d2">21</data>
 </node>
-<node id="tomleo.com">
+<node id="vladeoz.reptilian.games">
   <data key="d0">0</data>
-  <data key="d1">11</data>
+  <data key="d1">3</data>
   <data key="d2">21</data>
 </node>
-<node id="skunkodor.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
-  <data key="d2">21</data>
-</node>
-<node id="seansnake.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
-  <data key="d2">21</data>
-</node>
-<node id="onegeekybelgian.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
-  <data key="d2">21</data>
-</node>
-<node id="ethansoniclbpfan.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
-  <data key="d2">21</data>
-</node>
-<node id="typingloudly.zip">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
-  <data key="d2">21</data>
-</node>
-<node id="lutherbtw.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
-  <data key="d2">21</data>
-</node>
-<node id="astrius01.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
-  <data key="d2">21</data>
-</node>
-<node id="mjlp716.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
-  <data key="d2">21</data>
-</node>
-<node id="greenzombie.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
-  <data key="d2">21</data>
-</node>
-<node id="semmutalindwa.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">11</data>
-  <data key="d2">21</data>
-</node>
-<node id="tomwarren.co.uk">
+<node id="wesleyleblanc.bsky.social">
   <data key="d0">1</data>
-  <data key="d1">11</data>
+  <data key="d1">3</data>
   <data key="d2">21</data>
 </node>
-<node id="benricchio.bsky.social">
+<node id="foxonsilverfur.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">3</data>
+  <data key="d2">21</data>
+</node>
+<node id="radioactivejawa.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">3</data>
+  <data key="d2">21</data>
+</node>
+<node id="netrunner1073.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">3</data>
+  <data key="d2">21</data>
+</node>
+<node id="abrownspot.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">3</data>
+  <data key="d2">21</data>
+</node>
+<node id="veerenderjubbal.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">3</data>
+  <data key="d2">21</data>
+</node>
+<node id="trustworthyelf.bsky.social">
   <data key="d0">1</data>
   <data key="d2">22</data>
 </node>
-<node id="marclaming.bsky.social">
-  <data key="d0">1</data>
+<node id="dauragon.com">
+  <data key="d0">0</data>
+  <data key="d1">30</data>
   <data key="d2">23</data>
 </node>
-<node id="likeasorethumb.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">7</data>
-  <data key="d2">24</data>
-</node>
-<node id="attishunter.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">7</data>
-  <data key="d2">24</data>
-</node>
-<node id="outcaststars.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">7</data>
-  <data key="d2">24</data>
-</node>
-<node id="sprocketclown.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">19</data>
-  <data key="d2">25</data>
-</node>
-<node id="thedevouringkey.vtubers.social">
-  <data key="d0">0</data>
-  <data key="d1">19</data>
-  <data key="d2">25</data>
-</node>
-<node id="linkbrary.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">19</data>
-  <data key="d2">25</data>
-</node>
-<node id="solvershadz.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">23</data>
-  <data key="d2">26</data>
-</node>
-<node id="mechanicallystupid.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">23</data>
-  <data key="d2">26</data>
-</node>
-<node id="jessie-leftutsky.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">23</data>
-  <data key="d2">26</data>
-</node>
-<node id="bevybeverage.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">23</data>
-  <data key="d2">26</data>
-</node>
-<node id="varanemous.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">23</data>
-  <data key="d2">26</data>
-</node>
-<node id="potato5000.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">23</data>
-  <data key="d2">26</data>
-</node>
-<node id="gotelover.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">23</data>
-  <data key="d2">26</data>
-</node>
-<node id="exinus.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">6</data>
-  <data key="d2">27</data>
-</node>
-<node id="frey96.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">6</data>
-  <data key="d2">27</data>
-</node>
-<node id="wanderbot.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">6</data>
-  <data key="d2">27</data>
-</node>
-<node id="womprat208.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">6</data>
-  <data key="d2">27</data>
-</node>
-<node id="cervidrawn.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">21</data>
-  <data key="d2">28</data>
-</node>
-<node id="vyxcordia.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">21</data>
-  <data key="d2">28</data>
-</node>
-<node id="pegasuskiss.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">21</data>
-  <data key="d2">28</data>
-</node>
-<node id="redwinterwolf.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">30</data>
-  <data key="d2">29</data>
-</node>
-<node id="jingbear.bsky.social">
+<node id="ekk0.digital">
   <data key="d0">1</data>
   <data key="d1">30</data>
+  <data key="d2">23</data>
+</node>
+<node id="xkaly.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">19</data>
+  <data key="d2">24</data>
+</node>
+<node id="707kat.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">19</data>
+  <data key="d2">24</data>
+</node>
+<node id="scrollboss.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">19</data>
+  <data key="d2">24</data>
+</node>
+<node id="rodeen.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">19</data>
+  <data key="d2">24</data>
+</node>
+<node id="rahll.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">19</data>
+  <data key="d2">24</data>
+</node>
+<node id="shayrey.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">6</data>
+  <data key="d2">25</data>
+</node>
+<node id="rickihirsch.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">6</data>
+  <data key="d2">25</data>
+</node>
+<node id="ne-na-4asi.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">6</data>
+  <data key="d2">25</data>
+</node>
+<node id="iamflip.bsky.social">
+  <data key="d0">1</data>
+  <data key="d2">26</data>
+</node>
+<node id="selfcaregamer.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">24</data>
+  <data key="d2">27</data>
+</node>
+<node id="pavthemoocow.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">24</data>
+  <data key="d2">27</data>
+</node>
+<node id="lumpy700.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">24</data>
+  <data key="d2">27</data>
+</node>
+<node id="avocadofriend.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">24</data>
+  <data key="d2">27</data>
+</node>
+<node id="ditherwitch.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">24</data>
+  <data key="d2">27</data>
+</node>
+<node id="ovaettr.gay">
+  <data key="d0">1</data>
+  <data key="d2">28</data>
+</node>
+<node id="wispybun.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">26</data>
+  <data key="d2">15</data>
+</node>
+<node id="phoenixredtail.hors.ie">
+  <data key="d0">0</data>
+  <data key="d1">20</data>
   <data key="d2">29</data>
 </node>
-<node id="endvertex.bsky.social">
+<node id="jadedfox.net">
+  <data key="d0">0</data>
+  <data key="d1">20</data>
+  <data key="d2">29</data>
+</node>
+<node id="theorypop.bsky.social">
   <data key="d0">1</data>
-  <data key="d1">10</data>
+  <data key="d1">20</data>
+  <data key="d2">29</data>
+</node>
+<node id="transcatffxiv.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">2</data>
   <data key="d2">30</data>
 </node>
-<node id="jenjis-art.bsky.social">
+<node id="flametitanrose.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">10</data>
+  <data key="d1">2</data>
   <data key="d2">30</data>
 </node>
-<node id="shapeguy.bsky.social">
+<node id="warmthlike.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">10</data>
+  <data key="d1">2</data>
   <data key="d2">30</data>
 </node>
-<node id="alexhanna.bsky.social">
+<node id="korl.is">
   <data key="d0">0</data>
-  <data key="d1">27</data>
+  <data key="d1">12</data>
   <data key="d2">31</data>
 </node>
-<node id="lisadiedrich.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">27</data>
+<node id="lewt2b.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">12</data>
   <data key="d2">31</data>
 </node>
-<node id="kelciemmorris.bsky.social">
-  <data key="d0">1</data>
-  <data key="d2">32</data>
-</node>
-<node id="bento-bongos.bsky.social">
+<node id="klbuck.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">5</data>
-  <data key="d2">33</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
-<node id="tonyzecorny.bsky.social">
+<node id="fabykun.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">5</data>
-  <data key="d2">33</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
-<node id="rcase.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">5</data>
-  <data key="d2">33</data>
-</node>
-<node id="mattlorrigan.bsky.social">
+<node id="yeep.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">4</data>
-  <data key="d2">34</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
-<node id="larrynightdive.bsky.social">
+<node id="lordzannin.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">4</data>
-  <data key="d2">34</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
-<node id="ricklane.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">4</data>
-  <data key="d2">34</data>
-</node>
-<node id="sababausa.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">13</data>
-  <data key="d2">35</data>
-</node>
-<node id="chessercat.bsky.social">
+<node id="lucasearth96.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">13</data>
-  <data key="d2">35</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
-<node id="tharook.bsky.social">
+<node id="theredmarch.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">17</data>
-  <data key="d2">36</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
-<node id="boardgamefeast.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">17</data>
-  <data key="d2">36</data>
-</node>
-<node id="soupness.bsky.social">
+<node id="squeakymouse.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">17</data>
-  <data key="d2">36</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
-<node id="verynormalguy.bsky.social">
+<node id="arbiterbacon.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">17</data>
-  <data key="d2">36</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
-<node id="tammdraws.bsky.social">
-  <data key="d0">1</data>
-  <data key="d2">37</data>
-</node>
-<node id="oku.mow.haus">
-  <data key="d0">1</data>
-  <data key="d2">38</data>
-</node>
-<node id="carleycarden.bsky.social">
+<node id="bestyoutuber69.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">26</data>
-  <data key="d2">39</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
-<node id="booksnotwooks.bsky.social">
+<node id="juice260.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">26</data>
-  <data key="d2">39</data>
-</node>
-<node id="velodus.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">26</data>
-  <data key="d2">39</data>
-</node>
-<node id="oxyoxspring.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">16</data>
-  <data key="d2">40</data>
-</node>
-<node id="neogessent.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">16</data>
-  <data key="d2">40</data>
-</node>
-<node id="annacwebs.bsky.social">
-  <data key="d0">0</data>
-  <data key="d1">16</data>
-  <data key="d2">40</data>
-</node>
-<node id="knoebel.bsky.social">
-  <data key="d0">1</data>
-  <data key="d1">16</data>
-  <data key="d2">40</data>
-</node>
-<node id="joshuaward.roomy.chat">
-  <data key="d0">0</data>
-  <data key="d1">32</data>
-  <data key="d2">41</data>
-</node>
-<node id="nickvv.me">
-  <data key="d0">1</data>
-  <data key="d1">32</data>
-  <data key="d2">41</data>
-</node>
-<node id="alexip718.com">
-  <data key="d0">2</data>
-  <data key="d1">25</data>
-  <data key="d2">42</data>
-</node>
-<node id="pipagaopoetry.bsky.social">
-  <data key="d0">1</data>
-  <data key="d2">43</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
 <node id="eurogamer.bsky.social">
   <data key="d0">1</data>
-  <data key="d2">44</data>
+  <data key="d1">12</data>
+  <data key="d2">31</data>
 </node>
-<node id="hunterw.bsky.social">
+<node id="toysoldierkelsey.bsky.social">
   <data key="d0">0</data>
-  <data key="d1">25</data>
-  <data key="d2">42</data>
-</node>
-<node id="hagenblix.bsky.social">
-  <data key="d0">1</data>
+  <data key="d1">8</data>
   <data key="d2">2</data>
 </node>
-<edge source="suelou9-25.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="basilmai.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="ugarles.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="jamesdavismakes.com" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="shelleybwoke.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="nigeloverstreet.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="shoshiroll.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="crankypacifist.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="queen-calamity.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="noctifloraa.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="gtmac.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="cv-danes.com" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="matthewdownhour.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="cacaobyproduct.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="toonspin.nl" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="toonspin.nl" target="clapifyoulikeme.favrd.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="thecrimsontint.com" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="crosis101.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="enragedrealist.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="leftoidsadhu.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="oasisob1.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="obicynkenobi.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="pompera-firpa.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="mcmuffinbird.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="dyadiccalamity.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="tomshawenter.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="hughw.net" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="ethicking.com" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="enbycriphistorian.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="kevinllong.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="rotorstormrat.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="tigerlily.northsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="elsargentogarcia.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="aloysiuso.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="madisonbelmar.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="ericbrignac.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="altruios.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="marketdoctor.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="skywatcher1600.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="wetasspword.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="virginiaopossum.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="kerthulhu75.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="chrissythegreat58.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="ejacobslaw.com" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="jmcintire.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="essaywells.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="888lin.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="ikari-wolf.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="afbourque.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="meetingmayz.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="meyeaccessiblelife.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="thegleampt2.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="jendurbent.com" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="nonsequitrd.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="realimgroot.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="anticiv.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="transgander.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="corvae.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="alisonb916.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="embers1.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="adownie.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="flowernymph234.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="norzola.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="phenobarbarella.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="winniethewitch.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="elifels.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="colfaxvibe.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="paulwartenberg.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="guiltypanacea.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="eclectictastessa.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="sw8ee.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="afab-acab.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="itwasgg.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="lmhinh.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="lmhinh.bsky.social" target="sazeracla.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="peterfobian.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="mayamedia.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="petestaiano.com" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="jwriddle.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="tenitchyfingers.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="plognark.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="sentient6.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="senatorivy.com" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="kevindilmore.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="jack1973.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="moosewithablanket.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="laplew.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="hk1988.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="sassiesmom.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="curt19.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="gregory-c-leavitt.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="mefcorv.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="movingtrainmedia.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="czarmikhail.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="erwannkerroch.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="my4re.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="erinlsnyder.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="yamikakyuu.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="twotimesjohnny.bsky.social" target="leftistlawyer.com">
-  <data key="d3">1</data>
-</edge>
-<edge source="djoslyn.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="kobayashimaruu.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="floyduk.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="hoosiernathaniel.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="ladyinred50.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="dissentinator.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="oscarhermansson.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="meganwachspress.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="txlawyer.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="anthonykphotos.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="fledg.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="neanderthal53.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="markhisted.org" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="autonainews.com" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="shaneforrow.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="roxconn.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="gavsteed.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="newtons-third.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="whytetara.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="keynesaholicchris.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="karmasdad.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="keiv86ab02.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="johncastiglione.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">2</data>
-</edge>
-<edge source="witwarrior.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="davidinsf.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="chadlevinson.com" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="skuzy1572.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="lightupfox.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="craigthomler.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="grouchymarx.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="gwpda.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="gwpda.bsky.social" target="rickperlstein.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="martinpalecek.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="billstewart.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">2</data>
-</edge>
-<edge source="sarahsunfire.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="cowenwriter.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="danieldrucker.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="incrediblemelk.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="jbertuglia.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="juliaazari.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="wboler.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="nealmaffei.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="cmitchellsask.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="runefar.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="markvonwahlde.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="ladymitopinion.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="pdpittsburgh.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="sirpauled.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="a-dobbie11.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="seantucker.bsky.social" target="nkalamb.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="jillscharr.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="quentiam.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="empika.co.uk" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="coffeepalazzo.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="kaiavintr.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="mrsambarlow.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="niztal.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="chopchopok.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="motstand.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="breonnick.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="titus-lives.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="tanek.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="labelai.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="peanutbcrunch.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="weeabread.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="lonewolf1983.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="readyuser.one" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="blackblooms.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="daltonjdeuce.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="tauriq.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="humaiblog.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">21</data>
-</edge>
-<edge source="mermuse.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="sparkster2600.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="epluribusunumyo.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="retroid.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="jasonschreier.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="eightbittony.bsky.social" target="mackeza.bsky.social">
-  <data key="d3">1</data>
-</edge>
+<node id="lammens.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="noahsbarks.com">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="loonerlinuxnerd.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="paulbittlestone.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="mana4anam.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">8</data>
+  <data key="d2">2</data>
+</node>
+<node id="milkysyndrome.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">27</data>
+  <data key="d2">32</data>
+</node>
+<node id="incestgiftexchange.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">27</data>
+  <data key="d2">32</data>
+</node>
+<node id="jcdenton205.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">16</data>
+  <data key="d2">33</data>
+</node>
+<node id="greenscorpion64.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">16</data>
+  <data key="d2">33</data>
+</node>
+<node id="wd83.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">16</data>
+  <data key="d2">33</data>
+</node>
+<node id="klinefamily.cc">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="tomleo.com">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="skunkodor.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="seansnake.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="onegeekybelgian.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="ethansoniclbpfan.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="typingloudly.zip">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="lutherbtw.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="astrius01.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="mjlp716.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="greenzombie.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="semmutalindwa.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="tomwarren.co.uk">
+  <data key="d0">1</data>
+  <data key="d1">14</data>
+  <data key="d2">34</data>
+</node>
+<node id="zkretchy.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">7</data>
+  <data key="d2">35</data>
+</node>
+<node id="alienfirst.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">7</data>
+  <data key="d2">35</data>
+</node>
+<node id="sprocketclown.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">23</data>
+  <data key="d2">36</data>
+</node>
+<node id="thedevouringkey.vtubers.social">
+  <data key="d0">0</data>
+  <data key="d1">23</data>
+  <data key="d2">36</data>
+</node>
+<node id="linkbrary.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">23</data>
+  <data key="d2">36</data>
+</node>
+<node id="zubat.bsky.social">
+  <data key="d0">1</data>
+  <data key="d2">37</data>
+</node>
+<node id="carnabrin.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">1</data>
+  <data key="d2">38</data>
+</node>
+<node id="klardonics.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">1</data>
+  <data key="d2">38</data>
+</node>
+<node id="silliestgoobiest.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">1</data>
+  <data key="d2">38</data>
+</node>
+<node id="mmariesr.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">1</data>
+  <data key="d2">38</data>
+</node>
+<node id="duckaislop.bsky.social">
+  <data key="d0">3</data>
+  <data key="d1">31</data>
+  <data key="d2">39</data>
+</node>
+<node id="seeeeew.de">
+  <data key="d0">0</data>
+  <data key="d1">31</data>
+  <data key="d2">39</data>
+</node>
+<node id="neededanewhandle.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">31</data>
+  <data key="d2">39</data>
+</node>
+<node id="kingfacecrush.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">28</data>
+  <data key="d2">40</data>
+</node>
+<node id="artificer-ind.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">28</data>
+  <data key="d2">40</data>
+</node>
+<node id="cervidrawn.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">25</data>
+  <data key="d2">41</data>
+</node>
+<node id="vyxcordia.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">25</data>
+  <data key="d2">41</data>
+</node>
+<node id="pegasuskiss.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">25</data>
+  <data key="d2">41</data>
+</node>
+<node id="jameelawahlgren.bsky.social">
+  <data key="d0">1</data>
+  <data key="d2">42</data>
+</node>
+<node id="spacecowboyken.bsky.social">
+  <data key="d0">0</data>
+  <data key="d1">0</data>
+  <data key="d2">43</data>
+</node>
+<node id="amanojackoff.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">0</data>
+  <data key="d2">43</data>
+</node>
+<node id="jingbear.bsky.social">
+  <data key="d0">1</data>
+  <data key="d1">26</data>
+  <data key="d2">14</data>
+</node>
+<node id="nocatsnomasters.bsky.social">
+  <data key="d0">1</data>
+  <data key="d2">1</data>
+</node>
+<node id="punchboard.co.uk">
+  <data key="d0">1</data>
+  <data key="d2">10</data>
+</node>
 <edge source="faeriesheep.bsky.social" target="triple-q.bsky.social">
   <data key="d3">1</data>
 </edge>
@@ -2252,109 +1770,121 @@
 <edge source="bladepuppy.bsky.social" target="triple-q.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="itsshazam.bsky.social" target="voiddebris.bsky.social">
+<edge source="brevvy.bsky.social" target="shubbabang.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="ohboyaleksei.bsky.social" target="voiddebris.bsky.social">
+<edge source="elusive-bear.bsky.social" target="shubbabang.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="tragedylink.com" target="voiddebris.bsky.social">
+<edge source="zeforgotten.bsky.social" target="shubbabang.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="smartbatto.bsky.social" target="voiddebris.bsky.social">
+<edge source="zeforgotten.bsky.social" target="mana4anam.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="owlloverhoot.bsky.social" target="collie.baby">
+<edge source="princeraglan.bsky.social" target="shubbabang.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="litterpants.bsky.social" target="collie.baby">
+<edge source="micholous.bsky.social" target="shubbabang.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="noahthething.bsky.social" target="collie.baby">
+<edge source="5eadubbz.bsky.social" target="shubbabang.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="pstallion.bsky.social" target="collie.baby">
+<edge source="sallytrees.bsky.social" target="shubbabang.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="woofsalittle.bsky.social" target="collie.baby">
+<edge source="sparkykadachi.bsky.social" target="shubbabang.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="vulpine.house" target="collie.baby">
+<edge source="reactivecupid93.vtubers.social" target="shubbabang.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="buildabab.bsky.social" target="collie.baby">
+<edge source="darkm3ss.bsky.social" target="culturecrave.co">
   <data key="d3">1</data>
 </edge>
-<edge source="mangocreampanda.bsky.social" target="collie.baby">
+<edge source="donorak.bsky.social" target="culturecrave.co">
   <data key="d3">1</data>
 </edge>
-<edge source="ifuknowuknow.bsky.social" target="collie.baby">
+<edge source="loopingworld.com" target="culturecrave.co">
+  <data key="d3">2</data>
+</edge>
+<edge source="chiyoseika.bsky.social" target="culturecrave.co">
   <data key="d3">1</data>
 </edge>
-<edge source="unicorntickles.bsky.social" target="edzitron.com">
+<edge source="flempire.bsky.social" target="culturecrave.co">
   <data key="d3">1</data>
 </edge>
-<edge source="entstrategyguy.bsky.social" target="edzitron.com">
+<edge source="phoenix-knight.bsky.social" target="culturecrave.co">
   <data key="d3">1</data>
 </edge>
-<edge source="orionkidder.bsky.social" target="edzitron.com">
+<edge source="psychonrails.bsky.social" target="culturecrave.co">
   <data key="d3">1</data>
 </edge>
-<edge source="neonthotsky.bsky.social" target="ketanjoshi.co">
+<edge source="infamouslazure.bsky.social" target="culturecrave.co">
   <data key="d3">1</data>
 </edge>
-<edge source="nouttosell.bsky.social" target="ketanjoshi.co">
+<edge source="makkam19.bsky.social" target="culturecrave.co">
   <data key="d3">1</data>
 </edge>
-<edge source="edwalker.bsky.social" target="ketanjoshi.co">
+<edge source="bahusch.bsky.social" target="culturecrave.co">
   <data key="d3">1</data>
 </edge>
-<edge source="michaelanes.bsky.social" target="ketanjoshi.co">
+<edge source="technowings.bsky.social" target="mossworm.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="eruanion.bsky.social" target="ketanjoshi.co">
+<edge source="kingslib.bsky.social" target="heyitsdora.com">
   <data key="d3">1</data>
 </edge>
-<edge source="spgerrard.bsky.social" target="edzitron.com">
+<edge source="abiador.bsky.social" target="heyitsdora.com">
   <data key="d3">1</data>
 </edge>
-<edge source="dougwar40k.bsky.social" target="edzitron.com">
+<edge source="dhampirvampire.bsky.social" target="heyitsdora.com">
   <data key="d3">1</data>
 </edge>
-<edge source="williamrobinson.bsky.social" target="edzitron.com">
+<edge source="lesbianknights.bsky.social" target="heyitsdora.com">
   <data key="d3">1</data>
 </edge>
-<edge source="mopbucket.bsky.social" target="edzitron.com">
+<edge source="theotherspeakman.bsky.social" target="dphrygian.com">
   <data key="d3">1</data>
 </edge>
-<edge source="fitzwah.bsky.social" target="edzitron.com">
+<edge source="handlebarorionx.bsky.social" target="dphrygian.com">
   <data key="d3">1</data>
 </edge>
-<edge source="warrenseen.com" target="edzitron.com">
+<edge source="heatherwoodward.bsky.social" target="brunodias.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="torontowill.bsky.social" target="edzitron.com">
+<edge source="scribble-sheep.myatproto.social" target="brunodias.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="cosmichomicide.bsky.social" target="edzitron.com">
+<edge source="riverdancewerewolf.bsky.social" target="ugobananas.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="funcubng.bsky.social" target="edzitron.com">
+<edge source="coil.bsky.social" target="brunodias.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="jeffehobbs.bsky.social" target="edzitron.com">
+<edge source="djorankeil.bsky.social" target="stephentotilo.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="misskayrenee.bsky.social" target="edzitron.com">
+<edge source="leracos.bsky.social" target="stephentotilo.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="james-howard.bsky.social" target="edzitron.com">
+<edge source="ziechris.bsky.social" target="stephentotilo.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="lameposting.bsky.social" target="edzitron.com">
+<edge source="kaydublya.bsky.social" target="stephentotilo.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="imcured.bsky.social" target="edzitron.com">
+<edge source="kaydublya.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="cryptictx55.bsky.social" target="stephentotilo.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="cryptictx55.bsky.social" target="gameinformer.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="cassiecummings.bsky.social" target="stephentotilo.bsky.social">
   <data key="d3">1</data>
 </edge>
 <edge source="deenom.bsky.social" target="tibi3d.bsky.social">
@@ -2366,10 +1896,523 @@
 <edge source="spamtonium.bsky.social" target="fighterjetchickens.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="powerfromspace1.bsky.social" target="thestudyofwar.bsky.social">
+<edge source="tenrou.bsky.social" target="kotaku.com">
   <data key="d3">1</data>
 </edge>
-<edge source="apophis.sapronym.net" target="mossworm.bsky.social">
+<edge source="namenotunique.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="sievish.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="kobayashimaruu.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="fidget.fans" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="moonowlstudio.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="lockewick.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="dilong96.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="beanthewaif.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="fioko.tv" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="andrewfray.dev" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="barbflash.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="dejavuman22.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="nick.aetheric-games.com" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="sirkrisofgames.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="bluexy.cryptoanarchy.network" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="dandesaft.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="sleepyhart.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="actuallysuddenly.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="voltanis.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="jaykx.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="zefram.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="vulonbii.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="oceanotter.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="ddwardiswriting.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="will.bearwaves.com" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="unclespaceghost.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="watcheratthegate.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="blackspider.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="girafastev.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="maybeanotherday.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="goblinenterprises.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="seraphimrt.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="erikscottdebie.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="utritum.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="d4rkong.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="smergthedargon.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="wanderwyrm.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="syncoplay.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="mrsthedespoiler.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="withintenttoharm.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="deliriumtremendum.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="truther-dare.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="sonks.me" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="jeffatom.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="thetraderstan.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="airahn.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="lbcyber.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="rft3ft.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="insightfulparasite.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="fritsaandfuritsa.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="robosad.blackskycomra.de" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="edwardo-ka.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="thatsgoodweb.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="thatpinktig.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="fractus.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="just-eirik.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="buttes.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="goblininajacket.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="desdarkdesigns.neocities.org" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="sayadaramdial.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="kurisu7885.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="kaiserneko.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="shoggothmaid.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="anchet7.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="josh592.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="briceinkling138.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="hpgvalence.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="s9stryc9.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="ironedsleeper.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="djwaglmuffin.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="tenander.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="mormonpartyboat.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="spirulina.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="namycat.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="twilightvulpine.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="devoureroftime.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="hargenblargen.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="kiwicami.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="neozerox4.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="theresagaumond.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="riprowsdower.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="thelad2ndchance.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="schneeshade.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="lateralusian.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="skoomabear.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="historiken.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="acidicoccultism.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="coltongames.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="alexashpool.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="spaceprez.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="dl316bh.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="redwinterwolf.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="redwinterwolf.bsky.social" target="jingbear.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="manaprism.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="algi.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="godsgayembrace.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="roryvalart.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="jesteravali.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="nornbears.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="keltalis.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="megcomb.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="leoprints.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="clevermagpie.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="foxyfloof.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="mimibayra.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="hawkbox.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="perroconanteojos.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="alapidis.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="mathdemigod.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="apophis.sapronym.net" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="garbagenirvana.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="richardcasey.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="sinebadger.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="cummington.wang" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="bonelessbuddy.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="dagothurthegod.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="godzilla-lives.cryptoanarchy.network" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="lemasterofswords.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="graptops.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="silvergauntlets.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="homosaatio.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="gremlinjess.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="karmapupper.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="monkeyman85.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="wyrmskulls.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="perfidioussinn.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="mrjohnbarnard.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="mentalmisplay.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="abunchofcats.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="handle.invalid" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="ushijiminy.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="ramboofcalrisia.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="kaloncpu57.site" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="trios.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="peyote.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="zerochameleon.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="spacecatet.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="duovandal.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="humanspareparts.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="jaster.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="theknowticedfiles.com" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="honkhonkhonkhonkho.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="honkhonkhonkhonkho.bsky.social" target="wispybun.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="turbofalcon.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="girlstandstill.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="brynstone.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="socksandpuppets.com" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="lynai.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="akifirebird.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="katchdraws.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="emilynyan.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="lorenaazpiri.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="existentialish.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="robinofgaia.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="notglupshitto.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="xacris.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="spacecadetgrrl.me" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="nerxualoh.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="saphine743.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="ballsleon.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="doompacifist.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="leeroyjanky.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="audes-wisent.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="bardtherony.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="alansteve.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="rankinn.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="twiggies-draws.bsky.social" target="kotaku.com">
+  <data key="d3">2</data>
+</edge>
+<edge source="swordchuck.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="lizardguy64.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="jegriva.bsky.social" target="kotaku.com">
+  <data key="d3">1</data>
+</edge>
+<edge source="duanemoody.qwiffer.com" target="legendofnerd.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="jonjonrequiem.bsky.social" target="legendofnerd.bsky.social">
   <data key="d3">1</data>
 </edge>
 <edge source="loosf.bsky.social" target="unormal.bsky.social">
@@ -2382,48 +2425,78 @@
   <data key="d3">1</data>
 </edge>
 <edge source="sonicsledgehammer.bsky.social" target="badsquiddogames.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="alistairsmith.bsky.social" target="badsquiddogames.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="owolf.bsky.social" target="badsquiddogames.bsky.social">
   <data key="d3">2</data>
 </edge>
+<edge source="alistairsmith.bsky.social" target="badsquiddogames.bsky.social">
+  <data key="d3">2</data>
+</edge>
+<edge source="owolf.bsky.social" target="badsquiddogames.bsky.social">
+  <data key="d3">4</data>
+</edge>
 <edge source="whitewulfe.bsky.social" target="badsquiddogames.bsky.social">
-  <data key="d3">1</data>
+  <data key="d3">2</data>
 </edge>
 <edge source="col-orange.bsky.social" target="badsquiddogames.bsky.social">
-  <data key="d3">1</data>
+  <data key="d3">2</data>
 </edge>
 <edge source="thundermouser.bsky.social" target="badsquiddogames.bsky.social">
-  <data key="d3">1</data>
+  <data key="d3">2</data>
 </edge>
 <edge source="albionmerrick.bsky.social" target="badsquiddogames.bsky.social">
+  <data key="d3">2</data>
+</edge>
+<edge source="bigdrewbear.bsky.social" target="gameinformer.com">
   <data key="d3">1</data>
 </edge>
-<edge source="blonicyouth.bsky.social" target="rickperlstein.bsky.social">
+<edge source="oppi26.bsky.social" target="gameinformer.com">
   <data key="d3">1</data>
 </edge>
-<edge source="swalkthewalk.bsky.social" target="rickperlstein.bsky.social">
+<edge source="chad006.bsky.social" target="gameinformer.com">
   <data key="d3">1</data>
 </edge>
-<edge source="peterprinciple.bsky.social" target="rickperlstein.bsky.social">
+<edge source="ingredientreader.bsky.social" target="gameinformer.com">
   <data key="d3">1</data>
 </edge>
-<edge source="zavanova.bsky.social" target="rickperlstein.bsky.social">
+<edge source="gamesliek.bsky.social" target="wesleyleblanc.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="davidcrespo.bsky.social" target="maxread.info">
+<edge source="vladeoz.reptilian.games" target="wesleyleblanc.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="laurabrevitz.bsky.social" target="clapifyoulikeme.favrd.social">
+<edge source="foxonsilverfur.bsky.social" target="wesleyleblanc.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="kaisermiller.family" target="clapifyoulikeme.favrd.social">
+<edge source="radioactivejawa.bsky.social" target="wesleyleblanc.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="cranky-david.bsky.social" target="clapifyoulikeme.favrd.social">
+<edge source="netrunner1073.bsky.social" target="wesleyleblanc.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="abrownspot.bsky.social" target="wesleyleblanc.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="veerenderjubbal.bsky.social" target="wesleyleblanc.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="dauragon.com" target="ekk0.digital">
+  <data key="d3">1</data>
+</edge>
+<edge source="xkaly.bsky.social" target="rahll.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="707kat.bsky.social" target="rahll.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="scrollboss.bsky.social" target="rahll.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="rodeen.bsky.social" target="rahll.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="shayrey.bsky.social" target="rickihirsch.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="ne-na-4asi.bsky.social" target="rickihirsch.bsky.social">
   <data key="d3">1</data>
 </edge>
 <edge source="pavthemoocow.bsky.social" target="selfcaregamer.bsky.social">
@@ -2436,6 +2509,78 @@
   <data key="d3">1</data>
 </edge>
 <edge source="ditherwitch.bsky.social" target="selfcaregamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="phoenixredtail.hors.ie" target="theorypop.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="jadedfox.net" target="theorypop.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="flametitanrose.bsky.social" target="transcatffxiv.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="warmthlike.bsky.social" target="transcatffxiv.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="korl.is" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="lewt2b.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="klbuck.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="fabykun.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="yeep.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="lordzannin.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="lucasearth96.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="theredmarch.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="squeakymouse.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="arbiterbacon.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="bestyoutuber69.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="juice260.bsky.social" target="eurogamer.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="toysoldierkelsey.bsky.social" target="mana4anam.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="lammens.bsky.social" target="mana4anam.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="noahsbarks.com" target="mana4anam.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="loonerlinuxnerd.bsky.social" target="mana4anam.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="paulbittlestone.bsky.social" target="mana4anam.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="milkysyndrome.bsky.social" target="incestgiftexchange.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="jcdenton205.bsky.social" target="wd83.bsky.social">
+  <data key="d3">1</data>
+</edge>
+<edge source="greenscorpion64.bsky.social" target="wd83.bsky.social">
   <data key="d3">1</data>
 </edge>
 <edge source="klinefamily.cc" target="tomwarren.co.uk">
@@ -2474,10 +2619,7 @@
 <edge source="semmutalindwa.bsky.social" target="tomwarren.co.uk">
   <data key="d3">1</data>
 </edge>
-<edge source="likeasorethumb.bsky.social" target="outcaststars.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="attishunter.bsky.social" target="outcaststars.bsky.social">
+<edge source="alienfirst.bsky.social" target="zkretchy.bsky.social">
   <data key="d3">1</data>
 </edge>
 <edge source="sprocketclown.bsky.social" target="linkbrary.bsky.social">
@@ -2486,94 +2628,31 @@
 <edge source="thedevouringkey.vtubers.social" target="linkbrary.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="solvershadz.bsky.social" target="gotelover.bsky.social">
+<edge source="carnabrin.bsky.social" target="mmariesr.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="mechanicallystupid.bsky.social" target="gotelover.bsky.social">
+<edge source="klardonics.bsky.social" target="mmariesr.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="jessie-leftutsky.bsky.social" target="gotelover.bsky.social">
+<edge source="silliestgoobiest.bsky.social" target="mmariesr.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="bevybeverage.bsky.social" target="gotelover.bsky.social">
+<edge source="seeeeew.de" target="duckaislop.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="varanemous.bsky.social" target="gotelover.bsky.social">
+<edge source="neededanewhandle.bsky.social" target="duckaislop.bsky.social">
   <data key="d3">1</data>
 </edge>
-<edge source="potato5000.bsky.social" target="gotelover.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="exinus.bsky.social" target="wanderbot.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="frey96.bsky.social" target="wanderbot.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="womprat208.bsky.social" target="wanderbot.bsky.social">
+<edge source="kingfacecrush.bsky.social" target="artificer-ind.bsky.social">
   <data key="d3">1</data>
 </edge>
 <edge source="cervidrawn.bsky.social" target="vyxcordia.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="pegasuskiss.bsky.social" target="vyxcordia.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="redwinterwolf.bsky.social" target="jingbear.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="jenjis-art.bsky.social" target="endvertex.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="shapeguy.bsky.social" target="endvertex.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="alexhanna.bsky.social" target="lisadiedrich.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="bento-bongos.bsky.social" target="rcase.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="tonyzecorny.bsky.social" target="rcase.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="mattlorrigan.bsky.social" target="ricklane.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="larrynightdive.bsky.social" target="ricklane.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="chessercat.bsky.social" target="sababausa.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="tharook.bsky.social" target="boardgamefeast.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="soupness.bsky.social" target="boardgamefeast.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="verynormalguy.bsky.social" target="boardgamefeast.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="carleycarden.bsky.social" target="velodus.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="booksnotwooks.bsky.social" target="velodus.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="oxyoxspring.bsky.social" target="knoebel.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="neogessent.bsky.social" target="knoebel.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="annacwebs.bsky.social" target="knoebel.bsky.social">
-  <data key="d3">1</data>
-</edge>
-<edge source="joshuaward.roomy.chat" target="nickvv.me">
   <data key="d3">2</data>
 </edge>
-<edge source="hunterw.bsky.social" target="alexip718.com">
+<edge source="pegasuskiss.bsky.social" target="vyxcordia.bsky.social">
+  <data key="d3">2</data>
+</edge>
+<edge source="spacecowboyken.bsky.social" target="amanojackoff.bsky.social">
   <data key="d3">1</data>
 </edge>
 </graph></graphml>
